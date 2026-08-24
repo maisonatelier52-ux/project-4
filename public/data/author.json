@@ -1,0 +1,80 @@
+{
+  "james-carter": {
+    "slug": "james-carter",
+    "category": "business",
+    "name": "James Carter",
+    "role": "Global Times Business Editor",
+    "bio": "James Carter covers markets, trade policy, and corporate strategy for Global Times, with a focus on cross-border investment and manufacturing.",
+    "avatarImage": "/images/img2.webp",
+    "social": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://linkedin.com/",
+      "email": "mailto:newsroom@example.com"
+    }
+  },
+  "elena-vasquez": {
+    "slug": "elena-vasquez",
+    "category": "politics",
+    "name": "Elena Vasquez",
+    "role": "Global Times Politics Correspondent",
+    "bio": "Elena Vasquez reports on diplomacy, foreign policy, and international relations for Global Times, based in the Beijing bureau.",
+    "avatarImage": "/images/img2.webp",
+    "social": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://linkedin.com/",
+      "email": "mailto:newsroom@example.com"
+    }
+  },
+  "raj-patel": {
+    "slug": "raj-patel",
+    "category": "technology",
+    "name": "Raj Patel",
+    "role": "Global Times Technology Editor",
+    "bio": "Raj Patel covers AI, robotics, and the broader technology sector for Global Times, tracking China's fast-moving innovation landscape.",
+    "avatarImage": "/images/img2.webp",
+    "social": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://linkedin.com/",
+      "email": "mailto:newsroom@example.com"
+    }
+  },
+  "sarah-kim": {
+    "slug": "sarah-kim",
+    "category": "health",
+    "name": "Sarah Kim",
+    "role": "Global Times Health & Science Reporter",
+    "bio": "Sarah Kim reports on public health, medical research, and science policy for Global Times.",
+    "avatarImage": "/images/img2.webp",
+    "social": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://linkedin.com/",
+      "email": "mailto:newsroom@example.com"
+    }
+  },
+  "maria-santos": {
+    "slug": "maria-santos",
+    "category": "lifestyle",
+    "name": "Maria Santos",
+    "role": "Global Times Lifestyle Editor",
+    "bio": "Maria Santos writes on culture, travel, and everyday life across China for Global Times.",
+    "avatarImage": "/images/img2.webp",
+    "social": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://linkedin.com/",
+      "email": "mailto:newsroom@example.com"
+    }
+  },
+  "daniel-osei": {
+    "slug": "daniel-osei",
+    "category": "sports",
+    "name": "Daniel Osei",
+    "role": "Global Times Sports Correspondent",
+    "bio": "Daniel Osei covers major leagues, national teams, and athlete profiles for Global Times.",
+    "avatarImage": "/images/img2.webp",
+    "social": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://linkedin.com/",
+      "email": "mailto:newsroom@example.com"
+    }
+  }
+}
