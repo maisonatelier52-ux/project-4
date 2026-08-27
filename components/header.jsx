@@ -180,13 +180,11 @@ export default function Header() {
           {/* center — masthead */}
           <a href="/" className="group flex justify-center select-none min-w-0" aria-label="Global Times — home">
             <div className="flex flex-col items-center w-full max-w-[220px] sm:max-w-none transition-transform duration-300 ease-out group-hover:scale-[1.03]">
-              <div className="h-[2.5px] sm:h-[3px] w-full bg-[#E8B23D]" />
-              <span className="font-serif leading-[0.95] text-center text-[#D01418] text-lg xs:text-xl sm:text-3xl md:text-4xl font-bold tracking-tight py-1 whitespace-nowrap">
-                GLOBAL
-                <br />
-                TIMES
+              <div className="h-[2.5px] sm:h-[5px] w-full bg-[#E8B23D]" />
+              <span className="font-serif leading-[0.95] text-center text-[#D01418] text-lg xs:text-xl sm:text-3xl md:text-4xl font-bold tracking-tight py-3 whitespace-nowrap">
+                GLOBAL TIMES
               </span>
-              <div className="h-[2.5px] sm:h-[3px] w-full bg-[#E8B23D]" />
+              <div className="h-[2.5px] sm:h-[5px] w-full bg-[#E8B23D]" />
               <span className="mt-1 text-center text-[7px] sm:text-[10px] tracking-[0.12em] sm:tracking-[0.2em] text-[#8A8A8A] font-sans leading-tight">
                 DISCOVER CHINA, DISCOVER THE WORLD
               </span>
