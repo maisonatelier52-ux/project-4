@@ -16,6 +16,10 @@ import articlesData from "../../public/data/article.json";
  * needed here). Swap it for a real fetch call when ready — the JSX below
  * doesn't need to change.
  *
+ * SEO: generateMetadata() covers title, description, canonical URL, OG,
+ * Twitter card. JSON-LD covers CollectionPage, ItemList (articles in this
+ * category), BreadcrumbList, Organization — all sourced from articlesData.
+ *
  * Next.js note: `params` is async in the App Router (Next 15+), so it's
  * awaited before use below.
  *
@@ -25,6 +29,16 @@ import articlesData from "../../public/data/article.json";
  *   ink-soft      #595959
  *   rule          #E5E5E5
  */
+
+// --- Site-wide constants (same values used across the article page) ---
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://yourdomain.com"; // ⚠️ replace
+const SITE_NAME = "Global Times";
+const DEFAULT_OG_IMAGE = `${SITE_URL}/images/og-default.jpg`;
+
+function getAbsoluteUrl(path) {
+  if (!path) return DEFAULT_OG_IMAGE;
+  return path.startsWith("http") ? path : `${SITE_URL}${path}`;
+}
 
 const CATEGORY_LABELS = {
   business: "Business",
@@ -60,12 +74,52 @@ function formatDate(iso) {
   });
 }
 
+// ---------------------------------------------------------------------------
+// generateMetadata — title, description, canonical URL, OG, Twitter card,
+// all sourced from article.json (via getArticlesByCategory)
+// ---------------------------------------------------------------------------
 export async function generateMetadata({ params }) {
   const { category } = await params;
   const label = CATEGORY_LABELS[category?.toLowerCase()] || category;
+  const articles = getArticlesByCategory(category);
+
+  const url = `${SITE_URL}/${category?.toLowerCase()}`;
+  const description =
+    articles.length > 0
+      ? `The latest ${label} coverage from ${SITE_NAME}: ${articles
+          .slice(0, 3)
+          .map((a) => a.headline)
+          .join(", ")}.`
+      : `The latest ${label} coverage from ${SITE_NAME}.`;
+  const imageUrl = getAbsoluteUrl(articles[0]?.heroImage);
+
   return {
-    title: `${label} News | Global Times`,
-    description: `The latest ${label} coverage from Global Times.`,
+    title: `${label} News | ${SITE_NAME}`,
+    description,
+    alternates: {
+      canonical: url,
+    },
+    openGraph: {
+      title: `${label} News | ${SITE_NAME}`,
+      description,
+      url,
+      siteName: SITE_NAME,
+      type: "website",
+      images: [
+        {
+          url: imageUrl,
+          width: 1200,
+          height: 630,
+          alt: label,
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: `${label} News | ${SITE_NAME}`,
+      description,
+      images: [imageUrl],
+    },
   };
 }
 
@@ -115,8 +169,65 @@ export default async function CategoryPage({ params }) {
   const label = CATEGORY_LABELS[category?.toLowerCase()] || category;
   const articles = getArticlesByCategory(category);
 
+  // ---------------------------------------------------------------------
+  // JSON-LD — CollectionPage + ItemList (articles in this category) +
+  // BreadcrumbList + Organization, sourced from articlesData
+  // ---------------------------------------------------------------------
+  const url = `${SITE_URL}/${category?.toLowerCase()}`;
+
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "CollectionPage",
+        "@id": `${url}#collectionpage`,
+        name: `${label} News | ${SITE_NAME}`,
+        url,
+        isPartOf: {
+          "@type": "WebSite",
+          name: SITE_NAME,
+          url: SITE_URL,
+        },
+      },
+      {
+        "@type": "ItemList",
+        "@id": `${url}#articles`,
+        name: `${label} Articles`,
+        itemListElement: articles.map((post, i) => ({
+          "@type": "ListItem",
+          position: i + 1,
+          url: `${SITE_URL}/${post.category}/${post.slug}`,
+          name: post.headline,
+        })),
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": `${url}#breadcrumb`,
+        itemListElement: [
+          { "@type": "ListItem", position: 1, name: "Home", item: SITE_URL },
+          { "@type": "ListItem", position: 2, name: label, item: url },
+        ],
+      },
+      {
+        "@type": "Organization",
+        "@id": `${SITE_URL}#organization`,
+        name: SITE_NAME,
+        url: SITE_URL,
+        logo: {
+          "@type": "ImageObject",
+          url: `${SITE_URL}/images/logo.png`, // ⚠️ replace with real logo
+        },
+      },
+    ],
+  };
+
   return (
     <main className="w-full max-w-[100vw] overflow-x-hidden bg-white text-[#1A1A1A]">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-8 sm:py-12">
         {/* Breadcrumb */}
         <nav className="flex flex-wrap items-center gap-1.5 font-sans text-xs text-[#8A8A8A] mb-6">

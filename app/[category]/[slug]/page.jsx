@@ -9,21 +9,18 @@ import authorsData from "../../../public/data/author.json";
  *
  * Route example: /china/china-aid-training-alumni-workshop-sri-lanka
  *
- * Data source: public/data/articles.json (organized by category, same shape
- * as before) + public/data/authors.json, merged together by authorSlug in
- * getArticle() below. Nothing about the JSX/styling changed from the
- * previous version — only where the data comes from. Swap the JSON reads
- * for real API/CMS calls later and the rest of this file stays the same,
- * as long as getArticle keeps returning the same shape.
+ * Data source: public/data/articles.json (organized by category) +
+ * public/data/authors.json, merged together by authorSlug in getArticle().
  *
- * Layout:
- *   Two columns on lg+ — article (8/12) + a sticky "Related Stories" sidebar (4/12).
- *   Body content is a list of blocks — { type: "heading" | "paragraph" }.
- *   An "About the Author" card (avatar, bio, social links) sits after the
- *   body and before the tags.
+ * Layout: two columns on lg+ — article (8/12) + sticky "Related Stories"
+ * sidebar (4/12). Body content is a list of blocks. "About the Author"
+ * card sits after the body and before the tags.
  *
- * Next.js note: `params` is async in the App Router (Next 15+), so it's
- * awaited before use below.
+ * SEO: generateMetadata() covers title, description, canonical URL, OG,
+ * Twitter card. JSON-LD covers NewsArticle, BreadcrumbList, Organization —
+ * all sourced from articlesData + authorsData.
+ *
+ * Next.js note: `params` is async in the App Router (Next 15+).
  *
  * Palette (matches the rest of the site):
  *   masthead-red  #D01418
@@ -31,6 +28,16 @@ import authorsData from "../../../public/data/author.json";
  *   ink-soft      #595959
  *   rule          #E5E5E5
  */
+
+// --- Site-wide constants (NOT article-specific, so NOT in article.json) ---
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://yourdomain.com"; // ⚠️ replace
+const SITE_NAME = "Global Times"; // matches the "| Global Times" suffix already in your title
+const DEFAULT_OG_IMAGE = `${SITE_URL}/images/og-default.jpg`;
+
+function getAbsoluteUrl(path) {
+  if (!path) return DEFAULT_OG_IMAGE;
+  return path.startsWith("http") ? path : `${SITE_URL}${path}`;
+}
 
 // Looks up the article matching { category, slug } in articles.json, and
 // merges in author details (name, role, bio, avatar, social) from
@@ -88,6 +95,10 @@ function formatDate(iso) {
   });
 }
 
+// ---------------------------------------------------------------------------
+// generateMetadata — title, description, canonical URL, OG, Twitter card,
+// all sourced from article.json (via getArticle) + author.json
+// ---------------------------------------------------------------------------
 export async function generateMetadata({ params }) {
   const { category, slug } = await params;
   const article = getArticle(category, slug);
@@ -96,13 +107,39 @@ export async function generateMetadata({ params }) {
     return { title: "Article not found" };
   }
 
+  const url = `${SITE_URL}/${category}/${slug}`;
+  const imageUrl = getAbsoluteUrl(article.heroImage);
+
   return {
-    title: `${article.headline} | Global Times`,
+    title: `${article.headline} | ${SITE_NAME}`,
     description: article.dek,
+    alternates: {
+      canonical: url,
+    },
     openGraph: {
       title: article.headline,
       description: article.dek,
-      images: article.heroImage ? [article.heroImage] : [],
+      url,
+      siteName: SITE_NAME,
+      type: "article",
+      publishedTime: article.publishedAt || undefined,
+      modifiedTime: article.updatedAt || undefined,
+      authors: article.author ? [article.author] : undefined,
+      tags: article.tags,
+      images: [
+        {
+          url: imageUrl,
+          width: 1200,
+          height: 630,
+          alt: article.heroCaption || article.headline,
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: article.headline,
+      description: article.dek,
+      images: [imageUrl],
     },
   };
 }
@@ -280,8 +317,73 @@ export default async function ArticlePage({ params }) {
   const updatedLabel = formatDate(article.updatedAt);
   const pageUrl = `/${article.category}/${article.slug}`;
 
+  // ---------------------------------------------------------------------
+  // JSON-LD — NewsArticle + BreadcrumbList + Organization, sourced from
+  // articlesData + authorsData via the `article` object above
+  // ---------------------------------------------------------------------
+  const absoluteUrl = `${SITE_URL}${pageUrl}`;
+  const imageUrl = getAbsoluteUrl(article.heroImage);
+
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "NewsArticle",
+        "@id": `${absoluteUrl}#article`,
+        headline: article.headline,
+        description: article.dek,
+        image: [imageUrl],
+        datePublished: article.publishedAt || undefined,
+        dateModified: article.updatedAt || article.publishedAt || undefined,
+        author: {
+          "@type": "Person",
+          name: article.author,
+          ...(article.authorSlug ? { url: `${SITE_URL}/authors/${article.authorSlug}` } : {}),
+        },
+        publisher: {
+          "@type": "Organization",
+          name: SITE_NAME,
+          logo: {
+            "@type": "ImageObject",
+            url: `${SITE_URL}/images/logo.png`, // ⚠️ replace with real logo
+          },
+        },
+        mainEntityOfPage: { "@type": "WebPage", "@id": absoluteUrl },
+        articleSection: categoryLabel,
+        keywords: article.tags.join(", "),
+        ...(article.source ? { creditText: article.source } : {}),
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": `${absoluteUrl}#breadcrumb`,
+        itemListElement: [
+          { "@type": "ListItem", position: 1, name: "Home", item: SITE_URL },
+          {
+            "@type": "ListItem",
+            position: 2,
+            name: categoryLabel,
+            item: `${SITE_URL}/${article.category}`,
+          },
+          { "@type": "ListItem", position: 3, name: article.headline, item: absoluteUrl },
+        ],
+      },
+      {
+        "@type": "Organization",
+        "@id": `${SITE_URL}#organization`,
+        name: SITE_NAME,
+        url: SITE_URL,
+        logo: { "@type": "ImageObject", url: `${SITE_URL}/images/logo.png` },
+      },
+    ],
+  };
+
   return (
     <main className="w-full bg-white text-[#1A1A1A]">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+
       <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 py-8 sm:py-12">
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-10">
           {/* Main article column */}

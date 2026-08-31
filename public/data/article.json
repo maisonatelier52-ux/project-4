@@ -1,167 +1,381 @@
 {
   "business": [
     {
-      "slug": "unitrees-new-humanoid-robot-jumps-2-meters-hits-1266-ms-to-break-human",
-      "headline": "Unitree's new humanoid robot jumps 2 meters, hits 12.66 m/s to break human records",
-      "dek": "The new model surpasses human records in both standing vertical jump height and top running speed.",
-      "authorSlug": "james-carter",
-      "source": "Global Times",
-      "publishedAt": "2026-08-15T11:00:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img1.webp",
-      "heroCaption": "Unitree's latest humanoid robot demonstrated during a press event.",
-      "heroCredit": "Xinhua",
-      "tags": [
-        "Business",
-        "Robotics",
-        "Technology"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Unitree Robotics unveiled a new humanoid robot capable of a 2-meter standing vertical jump and a top speed of 12.66 meters per second, surpassing human records in both categories."
-        },
-        {
-          "type": "heading",
-          "text": "A Redesigned Platform"
-        },
-        {
-          "type": "paragraph",
-          "text": "The company said the performance gains come from a redesigned actuator system and lighter composite limb structure."
-        },
-        {
-          "type": "paragraph",
-          "text": "Industry watchers see the milestone as a signal that humanoid robotics is closing in on commercially viable logistics and inspection applications."
-        }
-      ]
+  "slug": "nvidia-q2-earnings-2026-smashes-estimates-108-billion-revenue-guidance",
+  "headline": "Nvidia Smashes Earnings Estimates, Guides to $108 Billion in Revenue as AI Demand Outpaces Supply",
+  "dek": "The chipmaker posted 106% year-over-year revenue growth and told investors the AI buildout is still in its early innings, even as rising memory costs squeeze margins.",
+  "authorSlug": "james-carter",
+  "source": "CNBC",
+  "publishedAt": "2026-08-26T21:15:00Z",
+  "updatedAt": "2026-08-27T13:30:00Z",
+  "heroImage": "/images/nvidia-q2-earnings-2026-smashes-estimates-108-billion-revenue-guidance.webp",
+  "heroCaption": "Nvidia CEO Jensen Huang speaking at a company event ahead of the chipmaker's second-quarter earnings release.",
+  "heroCredit": "Getty Images",
+  "tags": [
+    "Business",
+    "Technology",
+    "Markets",
+    "AI"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Nvidia just delivered another quarter that makes the rest of Corporate America look like it's standing still. The chipmaker reported $96.2 billion in revenue for its fiscal second quarter, up 106% from a year ago, alongside adjusted earnings of $2.22 a share. Both figures cleared Wall Street's bar, which had been sitting at roughly $92.2 billion in revenue and $2.10 in earnings per share. It's the kind of beat that would define most companies' entire year, and for Nvidia, it's become almost routine."
     },
     {
-      "slug": "china-plans-to-increase-domestic-oil-gas-supplies-to-440m-tons-of-oil",
-      "headline": "China plans to increase domestic oil, gas supplies to 440m tons of oil equivalent by 2030",
-      "dek": "China has pledged to expand its long-distance pipeline network by an additional 20,000 kilometers.",
-      "authorSlug": "james-carter",
-      "source": "Global Times",
-      "publishedAt": "2026-08-13T08:20:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img2.webp",
-      "heroCaption": "A pipeline construction site in East China.",
-      "heroCredit": "Global Times",
-      "tags": [
-        "Business",
-        "Energy"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "China has pledged to increase its domestic oil and gas supplies to 440 million tons of oil equivalent, while expanding its long-distance pipeline network by an additional 20,000 kilometers."
-        },
-        {
-          "type": "paragraph",
-          "text": "Officials say the buildout is intended to improve energy security while supporting the country's broader industrial and manufacturing base."
-        }
-      ]
+      "type": "paragraph",
+      "text": "The numbers matter beyond just one company's scoreboard. Nvidia is now the world's most valuable publicly traded company, with a market cap north of $5 trillion, and its results have turned into a bellwether for the entire AI trade. When Nvidia sneezes, chipmakers, cloud providers, and even power utilities tied to data-center buildouts tend to catch a cold — or, on a quarter like this one, catch a rally."
     },
     {
-      "slug": "chinas-export-growth-beats-forecasts-in-july-amid-diversified-trade-ro",
-      "headline": "China's export growth beats forecasts in July amid diversified trade routes",
-      "dek": "Customs data show exports to ASEAN and Latin America offsetting softer demand from traditional markets.",
-      "authorSlug": "james-carter",
-      "source": "Global Times",
-      "publishedAt": "2026-08-18T09:15:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img3.webp",
-      "heroCaption": "Container ships loading at a port terminal in East China.",
-      "heroCredit": "Reuters",
-      "tags": [
-        "Business",
-        "Trade",
-        "Economy"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "China's exports grew faster than expected in July, according to customs data released this week, as shipments to Southeast Asia and Latin America helped offset softer demand from traditional Western markets."
-        },
-        {
-          "type": "heading",
-          "text": "Diversifying Trade Partners"
-        },
-        {
-          "type": "paragraph",
-          "text": "Trade officials pointed to expanded free trade agreements and new logistics corridors as key drivers of the shift."
-        },
-        {
-          "type": "paragraph",
-          "text": "Analysts caution that global demand remains uneven, and full-year growth will depend on how trade tensions with major partners evolve."
-        }
-      ]
+      "type": "heading",
+      "text": "Guidance Blows Past Expectations"
     },
     {
-      "slug": "yuan-denominated-cross-border-settlements-hit-record-high-in-first-hal",
-      "headline": "Yuan-denominated cross-border settlements hit record high in first half of 2026",
-      "dek": "The People's Bank of China says yuan settlement now covers a growing share of trade with Belt and Road partner countries.",
-      "authorSlug": "james-carter",
-      "source": "Global Times",
-      "publishedAt": "2026-08-12T07:40:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img1.webp",
-      "heroCaption": "A currency trading floor in Shanghai.",
-      "heroCredit": "AFP",
-      "tags": [
-        "Business",
-        "Finance",
-        "Economy"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Cross-border trade settlements denominated in yuan reached a record high in the first half of 2026, according to figures released by the People's Bank of China."
-        },
-        {
-          "type": "paragraph",
-          "text": "The increase was driven largely by expanded use of the currency in transactions with Belt and Road Initiative partner countries."
-        },
-        {
-          "type": "paragraph",
-          "text": "Analysts say the trend reflects gradual progress on yuan internationalization, though the dollar continues to dominate global trade settlement."
-        }
-      ]
+      "type": "paragraph",
+      "text": "What really moved the needle wasn't the quarter that just closed, though — it was the one ahead. Nvidia told investors to expect around $108 billion in revenue for the current quarter, comfortably ahead of the roughly $104 billion analysts had modeled. That would mark the first time a company has cleared $100 billion in quarterly revenue outside of a small handful of S&P 500 giants that have ever hit that mark."
     },
     {
-      "slug": "chinese-ev-makers-expand-production-capacity-in-southeast-asia",
-      "headline": "Chinese EV makers expand production capacity in Southeast Asia",
-      "dek": "New assembly plants in Thailand and Indonesia aim to serve fast-growing regional demand for electric vehicles.",
-      "authorSlug": "james-carter",
-      "source": "Global Times",
-      "publishedAt": "2026-08-10T10:05:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img2.webp",
-      "heroCaption": "An electric vehicle assembly line at a new regional plant.",
-      "heroCredit": "VCG",
-      "tags": [
-        "Business",
-        "EV",
-        "Manufacturing"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Several major Chinese electric vehicle manufacturers announced new or expanded assembly plants in Thailand and Indonesia this week, aiming to serve fast-growing regional demand."
-        },
-        {
-          "type": "heading",
-          "text": "Regional Expansion"
-        },
-        {
-          "type": "paragraph",
-          "text": "Executives said local production would help the companies navigate tariffs while building brand presence closer to customers."
-        },
-        {
-          "type": "paragraph",
-          "text": "The moves come as Southeast Asian governments roll out incentives to attract EV manufacturing investment and cut emissions from transport."
-        }
-      ]
+      "type": "paragraph",
+      "text": "CEO Jensen Huang leaned into the moment on the earnings call, framing the AI buildout as having reached a genuine inflection point rather than a temporary spending surge. He argued that customer demand is running well ahead of what the company projected for next fiscal year's growth, and that the real limiting factor isn't interest from buyers — it's Nvidia's ability to actually manufacture and ship enough chips to meet it."
     },
+    {
+      "type": "paragraph",
+      "text": "To back that up, the company pointed to its supply commitments, which more than doubled quarter over quarter, jumping from roughly $119 billion to about $279 billion. Much of that jump traces back to memory procurement, as Nvidia works to lock down the components it needs to keep pace with orders from hyperscalers and AI labs racing to expand their own infrastructure."
+    },
+    {
+      "type": "heading",
+      "text": "Margins Feel the Squeeze"
+    },
+    {
+      "type": "paragraph",
+      "text": "Not everything in the report was pure upside. Nvidia guided next quarter's gross margin to about 74%, a step down from 75% in the quarter just reported, and executives signaled margins could compress further before bottoming out later in the fiscal year. The culprit is a familiar one this year: memory prices have been climbing across the industry, and Nvidia isn't immune to it, even with its outsized market power."
+    },
+    {
+      "type": "paragraph",
+      "text": "Company finance chief Colette Kress addressed the margin pressure directly on the call rather than letting it become a lingering question mark, noting that memory scarcity is, in part, a byproduct of the very AI buildout driving Nvidia's growth in the first place. The company has also flagged a planned price increase for some of its systems, betting that customers generating strong returns from its hardware will absorb the higher costs without pulling back on orders."
+    },
+    {
+      "type": "heading",
+      "text": "Wall Street's Mixed Reaction"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shares whipsawed in after-hours trading, initially dipping before recovering and pushing higher as investors digested the details behind the headline beat. That kind of choppy reaction has become something of a pattern for Nvidia lately — the stock has now topped estimates for eight straight quarters, and some analysts argue the market has started pricing in near-perfect execution, leaving less room for the shares to react to good news alone."
+    },
+    {
+      "type": "paragraph",
+      "text": "Year-over-year revenue growth has now accelerated for five consecutive quarters, but the guidance for the upcoming quarter implies growth in the mid-to-high 80% range — still enormous by any normal company's standard, but a deceleration from the 106% pace just posted. Whether that's read as a sign of the AI boom finally cooling or simply the mathematical reality of comparing against an already massive base will likely keep dividing investors well into the fall."
+    },
+    {
+      "type": "heading",
+      "text": "Betting Big on OpenAI and Anthropic"
+    },
+    {
+      "type": "paragraph",
+      "text": "Huang also used the call to reaffirm Nvidia's deepening ties with two of its biggest AI customers, OpenAI and Anthropic, both of which are reportedly weighing public listings in the near future. He said he expects both companies to remain long-term customers and partners, and added that his only regret is not having invested in them earlier and more aggressively — a comment that underscores just how central a handful of AI labs have become to Nvidia's growth story."
+    },
+    {
+      "type": "paragraph",
+      "text": "That relationship cuts both ways, though. Nvidia has poured billions into AI startups through dozens of investments in recent years, a strategy that has drawn scrutiny from analysts worried about circular financing — essentially, Nvidia helping fund the very companies that turn around and buy its chips. Huang has pushed back firmly on those concerns, but they're likely to keep surfacing as the AI investment cycle matures."
+    },
+    {
+      "type": "heading",
+      "text": "Why This Earnings Report Matters for the Broader Market"
+    },
+    {
+      "type": "paragraph",
+      "text": "Beyond Nvidia's own stock price, this report lands at a moment when investors are trying to figure out whether the broader AI infrastructure boom still has legs or is starting to show cracks. Nvidia's results, and its confidence in demand outstripping supply well into next year, offer one of the clearest signals yet that hyperscalers and AI labs aren't slowing down their spending anytime soon — even as questions about margins, memory costs, and market concentration continue to swirl around the sector heading into the rest of 2026."
+    }
+  ]
+},
+    {
+  "slug": "tyson-foods-closes-illinois-utah-beef-plants-cattle-shortage-3200-jobs",
+  "headline": "Tyson Foods Shuts Down Illinois and Utah Beef Plants as Historic Cattle Shortage Bites, Cutting 3,200 Jobs",
+  "dek": "The closures in Joslin, Illinois, and Eagle Mountain, Utah, come as the U.S. cattle herd sits at its smallest size in nearly 75 years, forcing the meat giant to consolidate around fewer, larger plants.",
+  "authorSlug": "james-carter",
+  "source": "KSL.com",
+  "publishedAt": "2026-08-14T09:00:00Z",
+  "updatedAt": "2026-08-21T16:45:00Z",
+  "heroImage": "/images/tyson-foods-closes-illinois-utah-beef-plants-cattle-shortage-3200-jobs.webp",
+  "heroCaption": "The Tyson Foods case-ready meat facility in Eagle Mountain, Utah, which the company opened in 2021 and is now shutting down.",
+  "heroCredit": "KSL.com",
+  "tags": [
+    "Business",
+    "Economy",
+    "Retail",
+    "Labor"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Tyson Foods delivered a gut punch to two American communities this month, announcing it will shut down its beef plant in Joslin, Illinois, and its case-ready meat facility in Eagle Mountain, Utah, wiping out roughly 3,200 jobs between the two sites. The company is also looking to sell off a third facility in Pasco, Washington, as part of a broader reshuffling of its beef business."
+    },
+    {
+      "type": "paragraph",
+      "text": "The trigger behind all of it is something ranchers have been warning about for a while now: there simply aren't enough cattle. The U.S. herd shrank to about 86.2 million head as of January 1, 2026, the smallest count in nearly 75 years, according to Agriculture Department data. Drought, wildfires, pricey feed, and tighter border access have all chipped away at supply, leaving meatpackers with more processing capacity than there are animals to fill it."
+    },
+    {
+      "type": "heading",
+      "text": "A Five-Year-Old Plant, Gone"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Eagle Mountain closure stings in a particular way because of how new the plant is. Tyson opened the facility back in 2021 after pouring in roughly $300 million, backed by state tax incentives, and had projected an annual local payroll of about $44 million. Five years later, on what would have been close to the plant's anniversary, workers instead got notice that their jobs were ending. State filings put the number of affected Eagle Mountain employees at 723."
+    },
+    {
+      "type": "paragraph",
+      "text": "For the people who actually clock in there, the timing felt almost cruel. One longtime employee told a local news station she was heartbroken, saying the staff had been expecting an anniversary bonus and got a plant closure notice instead. Other workers described scrambling to figure out next steps with mortgages, bills, and kids to think about, and admitted they never imagined a cattle shortage playing out somewhere on a ranch would end up costing them their jobs."
+    },
+    {
+      "type": "heading",
+      "text": "Illinois Feels an Even Bigger Hit"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Joslin, Illinois, plant is the larger of the two closures by far. It processes around 3,000 head of cattle a day and employed close to 2,500 people, many of them drawing from towns across the Quad Cities region and surrounding farm country in western Illinois and eastern Iowa. Unlike Eagle Mountain's wind-down, the Joslin shutdown was immediate, and the ripple effects hit contractors almost right away — a sanitation company that serviced the plant laid off more than 100 of its own workers within days."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tyson says affected employees will keep getting paid through October 12, which softens the initial blow, but it doesn't erase the bigger worry: what happens after that date, especially for workers hired only weeks before the announcement who may not qualify for unemployment benefits in the same way longer-tenured staff would."
+    },
+    {
+      "type": "heading",
+      "text": "Consolidating Around Fewer, Bigger Plants"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tyson isn't walking away from beef altogether — it's betting on scale instead. The company plans to funnel processing capacity into three facilities it considers more strategically located: Dakota City, Nebraska; Holcomb, Kansas; and Amarillo, Texas. Industry analysts note that some of Tyson's older plants, including ones built decades ago, simply can't compete on efficiency with newer operations coming online, like a recently opened sustainable beef plant in North Platte, Nebraska, or a producer-owned facility still under construction in Amarillo."
+    },
+    {
+      "type": "paragraph",
+      "text": "This isn't an isolated move, either. Tyson has now closed roughly a dozen facilities since 2023, including chicken plants, a pork plant in Iowa, and an earlier beef plant in Nebraska, cutting more than 10,000 jobs across that stretch. Rival processor JBS shut down its own beef facility in Pennsylvania back in June. Combined, industry watchers estimate the recent wave of closures has removed close to 10,000 daily cattle-processing slots from the national supply chain."
+    },
+    {
+      "type": "heading",
+      "text": "What It Means for Beef Prices and Ranchers"
+    },
+    {
+      "type": "paragraph",
+      "text": "For shoppers, the fallout is already showing up at the meat counter, where tight cattle supply paired with steady demand has pushed prices higher over the past year. For the ranching industry, state agriculture officials frame the closures as a wake-up call about the fragility of the domestic herd and the importance of rebuilding it over time, even as they acknowledge there's little comfort in that for the hundreds of families in Utah and Illinois now searching for new jobs."
+    }
+  ]
+},
+    {
+  "slug": "dicks-sporting-goods-stock-plunges-30-percent-foot-locker-earnings-miss",
+  "headline": "Dick's Sporting Goods Stock Crashes 30% After Foot Locker Drags Down Earnings and Full-Year Outlook",
+  "dek": "The retailer's own stores grew sales nearly 5% on World Cup momentum, but losses at its recently acquired Foot Locker business overshadowed the good news and triggered the worst trading day in company history.",
+  "authorSlug": "james-carter",
+  "source": "CNBC",
+  "publishedAt": "2026-08-26T10:30:00Z",
+  "updatedAt": "2026-08-27T14:00:00Z",
+  "heroImage": "/images/dicks-sporting-goods-stock-plunges-30-percent-foot-locker-earnings-miss.webp",
+  "heroCaption": "A Dick's Sporting Goods storefront, photographed as the retailer navigates a rocky first year of owning Foot Locker.",
+  "heroCredit": "Getty Images",
+  "tags": [
+    "Business",
+    "Retail",
+    "Markets",
+    "Earnings"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Dick's Sporting Goods just had the kind of trading day investors don't forget. Shares cratered roughly 30% on Tuesday after the company posted second-quarter results that fell short of Wall Street's targets and, more importantly, slashed its outlook for the rest of the year. It's the retailer's worst single-day drop on record, and the sell-off carried into the next session too, wiping out billions in market value in the span of about 48 hours."
+    },
+    {
+      "type": "paragraph",
+      "text": "On paper, the quarter wasn't a total disaster. Dick's own legacy stores, the business the company built its name on, grew comparable sales by 4.9%, helped along by a surge of World Cup-related merchandise and shoppers spending more per visit. That's a genuinely strong number in a retail environment where plenty of chains would be thrilled to post growth at all right now."
+    },
+    {
+      "type": "heading",
+      "text": "Foot Locker Becomes the Problem Child"
+    },
+    {
+      "type": "paragraph",
+      "text": "So what spooked investors? One word, mostly: Foot Locker. Dick's closed its $2.4 billion acquisition of the sneaker chain back in 2025, betting the deal would expand its footprint internationally and sharpen its edge in athletic footwear. Instead, Foot Locker turned into the drag on an otherwise solid quarter, with comparable sales there falling 3.6% and the segment posting an operating loss of roughly $32 million."
+    },
+    {
+      "type": "paragraph",
+      "text": "Combined companywide revenue came in at $5.59 billion, up more than 53% year over year thanks to Foot Locker now being folded into the results, but that was still shy of the roughly $5.64 billion analysts had penciled in. Adjusted earnings landed at $3.53 a share, down from $4.38 the year before and below consensus estimates near $3.76. Net income slipped to $315 million from $381 million a year earlier."
+    },
+    {
+      "type": "heading",
+      "text": "A Full-Year Forecast That Rattled Wall Street"
+    },
+    {
+      "type": "paragraph",
+      "text": "What really sent the stock into freefall wasn't the quarter itself so much as what management said about the rest of the year. Dick's slashed its full-year earnings guidance to a range of $10.94 to $11.94 per share, a steep cut from its earlier forecast of $13.27 to $14.27. Executives also lowered the sales outlook specifically for Foot Locker, essentially admitting the turnaround they'd promised investors is taking longer, and proving harder, than expected."
+    },
+    {
+      "type": "paragraph",
+      "text": "Management pointed to a brutally promotional athletic footwear and apparel market as the root cause — heavy discounting across the industry, a lighter slate of buzzy sneaker launches than usual, and softer demand for older, legacy shoe styles that used to sell themselves. Dick's said it's now leaning into that price war itself to protect market share, which tends to be good news for shoppers and bad news for margins."
+    },
+    {
+      "type": "heading",
+      "text": "Not Just a Dick's Problem"
+    },
+    {
+      "type": "paragraph",
+      "text": "The pain wasn't contained to one stock. Dick's warning rattled other sportswear and footwear names too, feeding into a broader narrative that the athletic apparel category is going through something of a hangover between big product cycles, waiting on the next wave of must-have sneakers or apparel innovation to reignite consumer excitement. For an industry that's leaned heavily on hype-driven launches in recent years, a quiet stretch on the innovation front apparently hits harder than most people expected."
+    },
+    {
+      "type": "heading",
+      "text": "Is the Sell-Off Overdone?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Not everyone on Wall Street is convinced the market's reaction was proportionate. CNBC's Jim Cramer argued investors shouldn't give up on Dick's, pointing out that the company's core business — the stores that made it a household name long before Foot Locker entered the picture — is still growing at a healthy clip. He framed Foot Locker as a tougher fix than management anticipated, but not evidence the whole company is unraveling."
+    },
+    {
+      "type": "paragraph",
+      "text": "There were some quieter signs of confidence, too. At least one company director bought a sizable chunk of shares shortly after the crash, a move some investors read as a vote that the stock's drop had gone further than the underlying business justified. After the plunge, Dick's now trades at a forward price-to-earnings ratio well below the broader S&P 500 average, which value-focused investors will likely be watching closely in the weeks ahead."
+    }
+  ]
+},
+    {
+  "slug": "fed-chair-kevin-warsh-jackson-hole-speech-inflation-rate-hike-warning",
+  "headline": "Fed Chair Kevin Warsh Warns Inflation Is 'More Concerning' Than Expected, Opening Door to a Rate Hike",
+  "dek": "In his first Jackson Hole address as chairman, Warsh broke with two decades of tradition by declining to signal where rates are headed next, even as he flagged stubborn price pressures ahead of the Fed's September meeting.",
+  "authorSlug": "james-carter",
+  "source": "CNN Business",
+  "publishedAt": "2026-08-28T15:00:00Z",
+  "updatedAt": "2026-08-29T09:20:00Z",
+  "heroImage": "/images/fed-chair-kevin-warsh-jackson-hole-speech-inflation-rate-hike-warning.webp",
+  "heroCaption": "Federal Reserve Chair Kevin Warsh arrives at the Jackson Hole Economic Policy Symposium in Moran, Wyoming.",
+  "heroCredit": "Getty Images",
+  "tags": [
+    "Business",
+    "Finance",
+    "Economy",
+    "Federal Reserve"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Kevin Warsh stood in front of the world's most powerful central bankers on Friday and, in classic Warsh fashion, told them almost nothing about what he plans to do next. In his first appearance at the Jackson Hole Economic Symposium as Federal Reserve chairman, Warsh acknowledged the U.S. economy looks stronger than expected, but warned that the underlying inflation picture hasn't improved nearly enough for his comfort."
+    },
+    {
+      "type": "paragraph",
+      "text": "It was a notable departure from how the job usually gets done. For more than twenty years, whoever sits in the Fed chair has used the Jackson Hole keynote to more or less telegraph where interest rates are headed, giving markets a clear signal to trade on. Warsh skipped that part entirely, and by most accounts, that omission was very much intentional."
+    },
+    {
+      "type": "heading",
+      "text": "Inflation Still Running Hot"
+    },
+    {
+      "type": "paragraph",
+      "text": "The numbers behind his caution aren't subtle. Consumer prices climbed 3.4% over the twelve months through July, while the Fed's preferred inflation gauge came in even higher, at 3.7% — both comfortably above the central bank's long-standing 2% target. Warsh didn't pretend those figures were something other than what they are, telling the room bluntly that recent readings, while better than feared, don't convince him that the deeper inflation trend has genuinely turned a corner."
+    },
+    {
+      "type": "paragraph",
+      "text": "He recommitted to the Fed's 2% target as the institution's central priority and made clear that taming price growth, not chasing new tools or theories, remains job number one. That framing put him more clearly at odds with pressure from the White House to push interest rates lower, and it raised the stakes considerably for the Fed's next policy meeting in mid-September."
+    },
+    {
+      "type": "heading",
+      "text": "A Chairman Rewriting His Own Script"
+    },
+    {
+      "type": "paragraph",
+      "text": "Part of what made Friday's remarks notable is how much they diverged from the version of Warsh that campaigned for the job in 2025. Back then, he'd floated the idea that rapid advances in artificial intelligence might justify lower interest rates, and he'd argued that shrinking the Fed's balance sheet could be reason enough to cut as well — both positions that lined up neatly with calls from the White House for cheaper borrowing costs."
+    },
+    {
+      "type": "paragraph",
+      "text": "On Friday, he walked much of that framing back, telling attendees that questions about AI and the balance sheet aren't driving near-term policy decisions and that short-term interest rates remain the Fed's primary lever. He also used part of the speech to address criticism of his uneven performance at press conferences since taking the job, insisting he can be judged on results rather than on how polished he sounds in the moment."
+    },
+    {
+      "type": "heading",
+      "text": "Strength Alongside the Warning Signs"
+    },
+    {
+      "type": "paragraph",
+      "text": "Warsh wasn't entirely gloomy about the broader economy. He pointed to healthy business investment and noted that profits across S&P 500 companies have grown roughly 20% over the past year, evidence he cited as proof the economy has genuine underlying strength. He also described the labor market as being at full employment, chalking up a recent slowdown in hiring to a flattening supply of available workers rather than any deeper weakness."
+    },
+    {
+      "type": "paragraph",
+      "text": "Even so, he was careful not to let that optimism bleed into any promise about future policy. Rather than offering forward guidance or spelling out exactly what data would trigger a rate move, Warsh argued that leaning too heavily on Fed signals trains markets to look to the central bank for their next trade instead of doing their own independent analysis — a dynamic he suggested has done more harm than good in the past, pointing to the Fed's forward guidance during 2021 as an example of when clear signaling arguably slowed the response to rising inflation."
+    },
+    {
+      "type": "heading",
+      "text": "What It Means Heading Into September"
+    },
+    {
+      "type": "paragraph",
+      "text": "Investors didn't need an explicit signal to draw conclusions. Bond traders and market strategists broadly read the tone of the speech as hawkish, with many now pricing in a real chance the Fed could raise rates rather than cut them at the September meeting, a reversal from what many had expected earlier in the summer. With inflation still running well above target and Warsh unwilling to rule anything out, markets are left doing what he seemed to want all along: forming their own view, rather than waiting for the Fed to hand them one."
+    }
+  ]
+},
+    {
+  "slug": "us-ev-sales-slump-2026-automakers-pull-back-tax-credit-expired",
+  "headline": "US EV Sales Have Fallen Off a Cliff in 2026 — and Automakers Are Pulling Back Right Along With Them",
+  "dek": "With the $7,500 federal tax credit gone and emissions penalties scrapped, Ford, GM, and BMW are delaying battery plants while dealers sit on the biggest EV inventory glut in years.",
+  "authorSlug": "james-carter",
+  "source": "CNN Business",
+  "publishedAt": "2026-07-19T13:00:00Z",
+  "updatedAt": "2026-08-28T11:00:00Z",
+  "heroImage": "/images/us-ev-sales-slump-2026-automakers-pull-back-tax-credit-expired.webp",
+  "heroCaption": "Unsold electric vehicles sit on a dealership lot as inventory piles up across the US market.",
+  "heroCredit": "Getty Images",
+  "tags": [
+    "Business",
+    "EV",
+    "Manufacturing",
+    "Automotive"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "There's no soft way to say it: the US electric vehicle market has hit a wall in 2026. New EV sales fell 27% year over year in the first quarter to roughly 216,000 units, a market share of just 5.8%, down sharply from the 7.5% peak notched in late 2025. Zoom out to the first half of the year and the picture barely improves — automakers sold about 462,900 all-electric vehicles nationwide, down nearly 24% from the same stretch a year earlier."
+    },
+    {
+      "type": "paragraph",
+      "text": "The trigger is easy to pinpoint. The federal government's $7,500 EV purchase credit expired on September 30, 2025, wiped out by the One Big Beautiful Bill Act, and nothing has replaced it. Buyers who wanted to cash in rushed to close deals before the deadline, which briefly inflated sales last fall — and set up an inevitable hangover once the incentive actually disappeared."
+    },
+    {
+      "type": "heading",
+      "text": "It Wasn't Just the Tax Credit"
+    },
+    {
+      "type": "paragraph",
+      "text": "Losing the credit alone probably wouldn't have caused this much damage. Researchers at UC Davis's Institute of Transportation Studies estimate the incentive's expiration should have dented demand by 20% at most — yet California, the country's biggest EV market, saw electric vehicle share of new registrations plunge from 21% in 2025 to just 13.7% in the first quarter of 2026, a steeper drop than the tax credit alone can explain."
+    },
+    {
+      "type": "paragraph",
+      "text": "Part of the gap comes down to automakers themselves pulling back rather than pure buyer reluctance. Alongside the tax credit, regulators also eliminated financial penalties for automakers that missed fuel-economy and emissions targets — rules that had effectively forced legacy carmakers to keep building EVs whether demand justified it or not. With that pressure gone, several manufacturers cut back on electric models rather than fight for a shrinking pool of buyers, trimming the very selection that might have kept sales afloat."
+    },
+    {
+      "type": "heading",
+      "text": "Battery Plants Go on Ice"
+    },
+    {
+      "type": "paragraph",
+      "text": "The slowdown has rippled straight into the factories meant to build America's electric future. Ford put one of its planned Kentucky battery plants on indefinite hold. GM decided it only needs three battery plants instead of the four it once planned, selling off one site to LG while keeping two joint-venture facilities running under its Ultium brand. LG itself pushed back a $5.5 billion battery plant in Arizona that was meant to supply Tesla and Rivian, and BMW's battery partner paused construction on a $1.6 billion cell factory in South Carolina."
+    },
+    {
+      "type": "paragraph",
+      "text": "Volkswagen went a step further, announcing in April that it would stop building its all-electric ID.4 SUV at its Chattanooga, Tennessee, plant entirely — a facility the company had sunk $800 million into and which had been the first US site to build and sell a Volkswagen EV. Collectively, legacy automakers have absorbed tens of billions of dollars in charges against their earnings as they scale back electrification plans that once looked like sure bets."
+    },
+    {
+      "type": "heading",
+      "text": "Dealers Are Drowning in Inventory"
+    },
+    {
+      "type": "paragraph",
+      "text": "Walk onto almost any dealer lot right now and the glut is hard to miss. New EV inventory has swelled to about 130 days' supply nationally, roughly 46% higher than the 89-day supply of gas-powered vehicles sitting alongside them. To move the metal, automakers are dumping an average of nearly $5,700 per EV into incentives, more than double what they typically spend pushing hybrids and well above what gas vehicles get."
+    },
+    {
+      "type": "paragraph",
+      "text": "Even Tesla, still comfortably the market leader, hasn't been immune. Its US registrations dropped double digits earlier this year even as its share of a shrinking EV pie actually grew, a sign that the entire category is contracting rather than any one brand losing a competitive fight. Toyota, Rivian, Cadillac, and Subaru stand out as rare bright spots posting sales gains, while buyers priced out of new EVs are increasingly flocking to the used market instead, where prices are edging closer to parity with gas-powered cars."
+    },
+    {
+      "type": "heading",
+      "text": "Not Everyone Thinks It's Permanent"
+    },
+    {
+      "type": "paragraph",
+      "text": "Not every analyst reads the slump as a verdict on EVs themselves. Cox Automotive's Stephanie Valdez Streaty has described this stretch as the market finally discovering what natural, subsidy-free demand for electric vehicles actually looks like, rather than a sign that Americans have soured on the technology for good. Researchers studying California's market point out that most people who buy one EV go on to buy another, suggesting the underlying appetite hasn't vanished so much as gone quiet while automakers and buyers alike adjust to a world without the government thumb on the scale."
+    }
+  ]
+},
     {
       "slug": "shanghai-free-trade-zone-unveils-new-financial-opening-measures",
       "headline": "Shanghai free trade zone unveils new financial opening measures",

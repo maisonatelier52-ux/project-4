@@ -16,11 +16,12 @@ import authorsData from "../../../public/data/author.json";
  *
  * Data source: public/data/authors.json + public/data/articles.json — the
  * same two files used by app/[category]/[slug]/page.jsx, so author info
- * only needs to be edited in one place. Each author has a `category` field
- * in authors.json, so getArticlesByAuthor looks up that one category's
- * article list directly instead of scanning every category. Swap these for
- * real API/CMS calls later — the JSX doesn't change as long as the
- * returned shapes match.
+ * only needs to be edited in one place.
+ *
+ * SEO: generateMetadata() covers title, description, canonical URL, OG
+ * (type "profile"), Twitter card. JSON-LD covers Person, BreadcrumbList,
+ * ItemList (author's articles), Organization — all sourced from
+ * authorsData + articlesData.
  *
  * Next.js note: `params` is async in the App Router (Next 15+), so it's
  * awaited before use below.
@@ -32,6 +33,16 @@ import authorsData from "../../../public/data/author.json";
  *   ink-soft      #595959
  *   rule          #E5E5E5
  */
+
+// --- Site-wide constants (same values used across the article/category pages) ---
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://yourdomain.com"; // ⚠️ replace
+const SITE_NAME = "Global Times";
+const DEFAULT_OG_IMAGE = `${SITE_URL}/images/og-default.jpg`;
+
+function getAbsoluteUrl(path) {
+  if (!path) return DEFAULT_OG_IMAGE;
+  return path.startsWith("http") ? path : `${SITE_URL}${path}`;
+}
 
 // Swap this for: const res = await fetch(`${API_URL}/authors/${authorSlug}`)
 function getAuthorBySlug(authorSlug) {
@@ -68,6 +79,10 @@ function formatDate(iso) {
   });
 }
 
+// ---------------------------------------------------------------------------
+// generateMetadata — title, description, canonical URL, OG (profile), and
+// Twitter card, all sourced directly from author.json
+// ---------------------------------------------------------------------------
 export async function generateMetadata({ params }) {
   const { author } = await params;
   const authorData = getAuthorBySlug(author);
@@ -76,9 +91,36 @@ export async function generateMetadata({ params }) {
     return { title: "Author not found" };
   }
 
+  const url = `${SITE_URL}/authors/${authorData.slug}`;
+  const imageUrl = getAbsoluteUrl(authorData.avatarImage);
+
   return {
-    title: `${authorData.name} | Global Times`,
+    title: `${authorData.name} | ${SITE_NAME}`,
     description: authorData.bio,
+    alternates: {
+      canonical: url,
+    },
+    openGraph: {
+      title: authorData.name,
+      description: authorData.bio,
+      url,
+      siteName: SITE_NAME,
+      type: "profile",
+      images: [
+        {
+          url: imageUrl,
+          width: 400,
+          height: 400,
+          alt: authorData.name,
+        },
+      ],
+    },
+    twitter: {
+      card: "summary",
+      title: authorData.name,
+      description: authorData.bio,
+      images: [imageUrl],
+    },
   };
 }
 
@@ -175,8 +217,74 @@ export default async function AuthorPage({ params }) {
 
   const articles = getArticlesByAuthor(author, authorData.category);
 
+  // ---------------------------------------------------------------------
+  // JSON-LD — Person + BreadcrumbList + ItemList (author's articles) +
+  // Organization, sourced from authorsData + articlesData
+  // ---------------------------------------------------------------------
+  const url = `${SITE_URL}/authors/${authorData.slug}`;
+  const imageUrl = getAbsoluteUrl(authorData.avatarImage);
+
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": `${url}#person`,
+        name: authorData.name,
+        description: authorData.bio,
+        image: imageUrl,
+        url,
+        jobTitle: authorData.role || undefined,
+        knowsAbout: authorData.category || undefined,
+        sameAs: [authorData.social?.twitter, authorData.social?.linkedin].filter(
+          Boolean
+        ),
+        worksFor: {
+          "@type": "Organization",
+          name: SITE_NAME,
+          url: SITE_URL,
+        },
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": `${url}#breadcrumb`,
+        itemListElement: [
+          { "@type": "ListItem", position: 1, name: "Home", item: SITE_URL },
+          { "@type": "ListItem", position: 2, name: "Authors", item: `${SITE_URL}/authors` },
+          { "@type": "ListItem", position: 3, name: authorData.name, item: url },
+        ],
+      },
+      {
+        "@type": "ItemList",
+        "@id": `${url}#articles`,
+        name: `Articles by ${authorData.name}`,
+        itemListElement: articles.map((post, i) => ({
+          "@type": "ListItem",
+          position: i + 1,
+          url: `${SITE_URL}/${post.category}/${post.slug}`,
+          name: post.headline,
+        })),
+      },
+      {
+        "@type": "Organization",
+        "@id": `${SITE_URL}#organization`,
+        name: SITE_NAME,
+        url: SITE_URL,
+        logo: {
+          "@type": "ImageObject",
+          url: `${SITE_URL}/images/logo.png`, // ⚠️ replace with real logo
+        },
+      },
+    ],
+  };
+
   return (
     <main className="w-full max-w-[100vw] overflow-x-hidden bg-white text-[#1A1A1A]">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-8 sm:py-12">
         {/* Breadcrumb */}
         <nav className="flex flex-wrap items-center gap-1.5 font-sans text-xs text-[#8A8A8A] mb-6">
