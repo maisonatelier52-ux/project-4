@@ -2,8 +2,8 @@
   "business": [
     {
   "slug": "nvidia-q2-earnings-2026-smashes-estimates-108-billion-revenue-guidance",
-  "headline": "Nvidia Smashes Earnings Estimates, Guides to $108 Billion in Revenue as AI Demand Outpaces Supply",
-  "dek": "The chipmaker posted 106% year-over-year revenue growth and told investors the AI buildout is still in its early innings, even as rising memory costs squeeze margins.",
+  "headline": "Nvidia Crushes Earnings Estimates, Guides to $108B on AI Demand",
+  "dek": "The chipmaker posted 106% year-over-year revenue growth and told investors the AI buildout is still in its early innings, even as rising memory costs squeeze margins",
   "authorSlug": "james-carter",
   "source": "CNBC",
   "publishedAt": "2026-08-26T21:15:00Z",
@@ -90,7 +90,7 @@
 },
     {
   "slug": "tyson-foods-closes-illinois-utah-beef-plants-cattle-shortage-3200-jobs",
-  "headline": "Tyson Foods Shuts Down Illinois and Utah Beef Plants as Historic Cattle Shortage Bites, Cutting 3,200 Jobs",
+  "headline": "Tyson Foods Closes Illinois, Utah Beef Plants, Cuts 3,200 Jobs",
   "dek": "The closures in Joslin, Illinois, and Eagle Mountain, Utah, come as the U.S. cattle herd sits at its smallest size in nearly 75 years, forcing the meat giant to consolidate around fewer, larger plants.",
   "authorSlug": "james-carter",
   "source": "KSL.com",
@@ -162,8 +162,8 @@
 },
     {
   "slug": "dicks-sporting-goods-stock-plunges-30-percent-foot-locker-earnings-miss",
-  "headline": "Dick's Sporting Goods Stock Crashes 30% After Foot Locker Drags Down Earnings and Full-Year Outlook",
-  "dek": "The retailer's own stores grew sales nearly 5% on World Cup momentum, but losses at its recently acquired Foot Locker business overshadowed the good news and triggered the worst trading day in company history.",
+  "headline": "Dick's Sporting Goods Stock Crashes 30% on Foot Locker Losses",
+  "dek": "Dick's Sporting Goods stores grew sales nearly 5% on World Cup momentum, but losses at its newly acquired Foot Locker triggered the worst trading day in company history.",
   "authorSlug": "james-carter",
   "source": "CNBC",
   "publishedAt": "2026-08-26T10:30:00Z",
@@ -234,8 +234,8 @@
 },
     {
   "slug": "fed-chair-kevin-warsh-jackson-hole-speech-inflation-rate-hike-warning",
-  "headline": "Fed Chair Kevin Warsh Warns Inflation Is 'More Concerning' Than Expected, Opening Door to a Rate Hike",
-  "dek": "In his first Jackson Hole address as chairman, Warsh broke with two decades of tradition by declining to signal where rates are headed next, even as he flagged stubborn price pressures ahead of the Fed's September meeting.",
+  "headline": "Fed Chair Warsh Warns Inflation Concerns Open Door to Rate Hike",
+  "dek": "Fed Chair Kevin Warsh broke with two decades of tradition at Jackson Hole, avoiding rate signals while warning inflation remains a concern ahead of September's meeting.",
   "authorSlug": "james-carter",
   "source": "CNN Business",
   "publishedAt": "2026-08-28T15:00:00Z",
@@ -306,7 +306,7 @@
 },
     {
   "slug": "us-ev-sales-slump-2026-automakers-pull-back-tax-credit-expired",
-  "headline": "US EV Sales Have Fallen Off a Cliff in 2026 — and Automakers Are Pulling Back Right Along With Them",
+  "headline": "US EV Sales Crash in 2026 as Automakers Slash Battery Plans",
   "dek": "With the $7,500 federal tax credit gone and emissions penalties scrapped, Ford, GM, and BMW are delaying battery plants while dealers sit on the biggest EV inventory glut in years.",
   "authorSlug": "james-carter",
   "source": "CNN Business",
@@ -377,744 +377,1334 @@
   ]
 },
     {
-      "slug": "shanghai-free-trade-zone-unveils-new-financial-opening-measures",
-      "headline": "Shanghai free trade zone unveils new financial opening measures",
-      "dek": "The pilot program expands access for foreign investors to domestic bond and equity markets.",
-      "authorSlug": "james-carter",
-      "source": "Global Times",
-      "publishedAt": "2026-08-08T13:30:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img3.webp",
-      "heroCaption": "The Shanghai financial district skyline.",
-      "heroCredit": "Xinhua",
-      "tags": [
-        "Business",
-        "Finance"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "The Shanghai free trade zone unveiled a new set of financial opening measures this week, expanding access for foreign institutional investors to domestic bond and equity markets."
-        },
-        {
-          "type": "paragraph",
-          "text": "Officials described the changes as part of a broader, gradual approach to capital account liberalization."
-        },
-        {
-          "type": "paragraph",
-          "text": "Market participants welcomed the move but said further steps on currency convertibility would be needed to draw significantly larger inflows."
-        }
-      ]
-    },
-    {
-      "slug": "chinas-manufacturing-pmi-signals-steady-expansion-for-third-straight-m",
-      "headline": "China's manufacturing PMI signals steady expansion for third straight month",
-      "dek": "The purchasing managers' index came in above the 50-point threshold, pointing to continued factory-sector growth.",
-      "authorSlug": "james-carter",
-      "source": "Global Times",
-      "publishedAt": "2026-08-05T06:50:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img1.webp",
-      "heroCaption": "Workers on a factory production line in Guangdong Province.",
-      "heroCredit": "Global Times",
-      "tags": [
-        "Business",
-        "Economy",
-        "Manufacturing"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "China's official manufacturing purchasing managers' index remained above the 50-point expansion threshold for a third consecutive month, data released Monday showed."
-        },
-        {
-          "type": "paragraph",
-          "text": "New export orders and domestic demand both contributed to the reading, though small and medium-sized enterprises reported more mixed conditions than larger firms."
-        },
-        {
-          "type": "paragraph",
-          "text": "Economists said the figures suggest the industrial sector is stabilizing after a period of softer growth earlier in the year."
-        }
-      ]
-    }
+  "slug": "meta-18-billion-settlement-states-teen-social-media-harm-2026",
+  "headline": "Meta Settles for $18 Billion Over Teen Social Media Harm",
+  "dek": "Meta agrees to pay $18 billion and cap teen screen time on Instagram and Facebook, settling a landmark case with attorneys general from 52 states and territories.",
+  "authorSlug": "james-carter",
+  "source": "CNN Business",
+  "publishedAt": "2026-08-26T20:00:00Z",
+  "updatedAt": "2026-08-27T22:15:00Z",
+  "heroImage": "/images/meta-18-billion-settlement-states-teen-social-media-harm-2026.webp",
+  "heroCaption": "Meta CEO Mark Zuckerberg arrives at a courthouse in Los Angeles earlier this year amid the litigation that led to Wednesday's settlement.",
+  "heroCredit": "AFP/Getty Images",
+  "tags": [
+    "Business",
+    "Finance",
+    "Technology",
+    "Regulation"
   ],
-  "politics": [
+  "body": [
     {
-      "slug": "52nd-anniversary-of-china-brazil-diplomatic-relations-marked-in-rio-de",
-      "headline": "52nd anniversary of China-Brazil diplomatic relations marked in Rio de Janeiro",
-      "dek": "Officials from both countries gathered in Rio de Janeiro to mark more than five decades of bilateral ties.",
-      "authorSlug": "elena-vasquez",
-      "source": "Global Times",
-      "publishedAt": "2026-08-12T09:00:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img2.webp",
-      "heroCaption": "A concert marking 52 years of China-Brazil diplomatic relations at the Forte de Copacabana.",
-      "heroCredit": "Xinhua",
-      "tags": [
-        "Politics",
-        "China",
-        "Brazil"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Brazilian soprano Marilia Vargas sang a Chinese song during a concert marking the 52nd anniversary of China-Brazil diplomatic relations at the Forte de Copacabana in Rio de Janeiro."
-        },
-        {
-          "type": "heading",
-          "text": "Decades of Cooperation"
-        },
-        {
-          "type": "paragraph",
-          "text": "Officials from both countries used the occasion to highlight growing trade ties and cultural exchange programs launched over the past five years."
-        }
-      ]
+      "type": "paragraph",
+      "text": "Meta is writing one of the biggest checks in US legal history to make a years-long fight over its impact on kids go away. The company agreed on Wednesday to pay up to $18 billion and rework core features of Instagram and Facebook, settling a sprawling multistate lawsuit that accused it of knowingly building addictive platforms that damaged young people's mental health."
     },
     {
-      "slug": "chinese-fm-responds-to-trumps-order-to-scale-back-military-exercises-w",
-      "headline": "Chinese FM responds to Trump's order to scale back military exercises with South Korea",
-      "dek": "The foreign ministry said China supports steps that reduce tensions and encourage dialogue on the Korean Peninsula.",
-      "authorSlug": "elena-vasquez",
-      "source": "Global Times",
-      "publishedAt": "2026-08-19T10:20:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img3.webp",
-      "heroCaption": "China's foreign ministry spokesperson at a regular press briefing.",
-      "heroCredit": "Global Times",
-      "tags": [
-        "Politics",
-        "Diplomacy",
-        "Korean Peninsula"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "China's foreign ministry responded Tuesday to a reported US directive scaling back joint military exercises with South Korea, saying Beijing supports any steps that reduce tensions on the Korean Peninsula."
-        },
-        {
-          "type": "paragraph",
-          "text": "A spokesperson said China hopes all relevant parties will use the moment to create conditions for a resumption of dialogue."
-        },
-        {
-          "type": "paragraph",
-          "text": "The comments came during a regular press briefing in Beijing, where reporters also raised questions about regional security cooperation."
-        }
-      ]
+      "type": "paragraph",
+      "text": "The bulk of the money, just over $17 billion, resolves a case originally brought by 29 states back in 2023; the rest settles related claims from other states and territories. In total, attorneys general from 52 jurisdictions signed on to the agreement, which US District Judge Yvonne Gonzalez Rogers approved the same day it was announced."
     },
     {
-      "slug": "china-asean-agree-to-accelerate-free-trade-area-upgrade-talks",
-      "headline": "China, ASEAN agree to accelerate free trade area upgrade talks",
-      "dek": "Trade ministers from both sides set a new target date to conclude the long-running negotiations.",
-      "authorSlug": "elena-vasquez",
-      "source": "Global Times",
-      "publishedAt": "2026-08-17T14:00:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img1.webp",
-      "heroCaption": "Trade ministers meeting in Kuala Lumpur.",
-      "heroCredit": "Reuters",
-      "tags": [
-        "Politics",
-        "ASEAN",
-        "Trade"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "China and the Association of Southeast Asian Nations agreed this week to accelerate talks on upgrading their existing free trade area, trade ministers said following a meeting in Kuala Lumpur."
-        },
-        {
-          "type": "heading",
-          "text": "Toward a Broader Agreement"
-        },
-        {
-          "type": "paragraph",
-          "text": "The upgraded pact is expected to cover digital trade, green industries, and expanded supply chain cooperation."
-        },
-        {
-          "type": "paragraph",
-          "text": "Officials from several ASEAN member states said they hope to conclude negotiations within the next two years."
-        }
-      ]
+      "type": "heading",
+      "text": "A Trial That Never Reached a Verdict"
     },
     {
-      "slug": "beijing-calls-for-calm-as-regional-tensions-simmer-over-trade-disputes",
-      "headline": "Beijing calls for calm as regional tensions simmer over trade disputes",
-      "dek": "A foreign ministry statement urged all parties to resolve differences through dialogue rather than unilateral measures.",
-      "authorSlug": "elena-vasquez",
-      "source": "Global Times",
-      "publishedAt": "2026-08-14T08:15:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img2.webp",
-      "heroCaption": "The Chinese foreign ministry building in Beijing.",
-      "heroCredit": "AFP",
-      "tags": [
-        "Politics",
-        "Trade",
-        "Diplomacy"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Beijing issued a statement Thursday calling for calm amid simmering regional tensions over a series of trade disputes, urging all parties to resolve differences through dialogue rather than unilateral measures."
-        },
-        {
-          "type": "paragraph",
-          "text": "The statement did not name specific countries but was widely seen as addressing recent tariff announcements affecting several Asian economies."
-        }
-      ]
+      "type": "paragraph",
+      "text": "The timing tells its own story. The settlement landed just over a week into a California trial in which four states had been seeking as much as $1.4 trillion in damages and sweeping platform changes. Instagram chief Adam Mosseri had already spent two days on the witness stand, and Meta CEO Mark Zuckerberg was lined up to testify next — testimony the company avoided entirely by settling before he ever took the stand."
     },
     {
-      "slug": "china-reaffirms-commitment-to-multilateralism-at-un-security-council-s",
-      "headline": "China reaffirms commitment to multilateralism at UN Security Council session",
-      "dek": "The Chinese envoy emphasized support for a UN-centered international order during an open debate on global governance.",
-      "authorSlug": "elena-vasquez",
-      "source": "Global Times",
-      "publishedAt": "2026-08-11T16:40:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img3.webp",
-      "heroCaption": "A session of the UN Security Council in New York.",
-      "heroCredit": "VCG",
-      "tags": [
-        "Politics",
-        "United Nations",
-        "Diplomacy"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "China's permanent representative to the United Nations reaffirmed Beijing's commitment to multilateralism during an open Security Council debate on global governance this week."
-        },
-        {
-          "type": "paragraph",
-          "text": "The envoy called for reforms that give developing countries a greater voice in international institutions."
-        },
-        {
-          "type": "paragraph",
-          "text": "The session drew statements from more than 60 member states on the future of the multilateral system."
-        }
-      ]
+      "type": "paragraph",
+      "text": "That trial had already done real damage to Meta's public position. Internal documents surfaced during litigation suggested the company understood the risks its platforms posed to teenagers well before it said so publicly, even as executives spent years insisting Meta had invested heavily in keeping young users safe."
     },
     {
-      "slug": "chinese-and-european-officials-hold-high-level-dialogue-on-climate-coo",
-      "headline": "Chinese and European officials hold high-level dialogue on climate cooperation",
-      "dek": "The talks focused on green technology trade and joint emissions-reduction commitments ahead of the next UN climate summit.",
-      "authorSlug": "elena-vasquez",
-      "source": "Global Times",
-      "publishedAt": "2026-08-09T11:10:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img1.webp",
-      "heroCaption": "Officials at a China-EU climate dialogue session.",
-      "heroCredit": "Xinhua",
-      "tags": [
-        "Politics",
-        "Climate",
-        "European Union"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Senior Chinese and European Union officials held a high-level dialogue on climate cooperation this week, focusing on green technology trade and joint emissions-reduction commitments."
-        },
-        {
-          "type": "heading",
-          "text": "Green Technology Trade"
-        },
-        {
-          "type": "paragraph",
-          "text": "Both sides discussed ways to ease trade friction over solar panels and electric vehicles while advancing shared climate goals ahead of the next UN climate summit."
-        },
-        {
-          "type": "paragraph",
-          "text": "Officials described the talks as constructive, though several sticking points on subsidies remain unresolved."
-        }
-      ]
+      "type": "heading",
+      "text": "What Actually Changes for Teens"
     },
     {
-      "slug": "chinas-top-legislature-concludes-session-with-new-economic-reform-meas",
-      "headline": "China's top legislature concludes session with new economic reform measures",
-      "dek": "Lawmakers approved a package of measures aimed at boosting private investment and streamlining market access.",
-      "authorSlug": "elena-vasquez",
-      "source": "Global Times",
-      "publishedAt": "2026-08-06T09:35:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img2.webp",
-      "heroCaption": "A session of China's National People's Congress in Beijing.",
-      "heroCredit": "Global Times",
-      "tags": [
-        "Politics",
-        "Economy",
-        "Legislature"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "China's top legislature concluded its latest session this week, approving a package of measures aimed at boosting private investment and streamlining market access for foreign and domestic firms alike."
-        },
-        {
-          "type": "paragraph",
-          "text": "The measures include simplified licensing procedures and expanded protections for intellectual property."
-        },
-        {
-          "type": "paragraph",
-          "text": "Analysts said the reforms signal continued efforts to shore up business confidence amid a gradually recovering economy."
-        }
-      ]
+      "type": "paragraph",
+      "text": "Money aside, the settlement requires Meta to rebuild parts of how Instagram and Facebook work for younger users. The company has committed to hard daily time limits, built-in \"productive pause\" prompts encouraging teens to step away, restrictions during school hours, and a night mode that curbs late-night scrolling. Parents are also supposed to get real tools to manage and monitor how their kids use the apps, rather than relying on settings teens can quietly switch off."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not everyone is convinced the changes go far enough. Sebastian Mahal, co-chair of the youth-safety advocacy group Design It For Us, pointed out that teens can opt into a non-algorithmic, chronological feed, but the default experience remains Meta's personalized version — the one better suited to keeping users scrolling and, by extension, better for the company's ad business. He argued the safer option should be the default, not something a teenager has to actively seek out."
+    },
+    {
+      "type": "heading",
+      "text": "A Rounding Error for a $1.5 Trillion Company"
+    },
+    {
+      "type": "paragraph",
+      "text": "For context on scale: $18 billion is a fraction of what plaintiffs had sought at trial, and a relatively modest hit for a company valued at close to $1.5 trillion. Meta said it expects to book roughly $10 billion of the settlement as a legal expense in the third quarter of 2026, a number that will sting on paper but is unlikely to meaningfully dent the company's underlying business."
+    },
+    {
+      "type": "paragraph",
+      "text": "The company still isn't out of the woods, either. Meta continues to face hundreds of other lawsuits over similar allegations, meaning Wednesday's agreement resolves one major front in a much longer legal war rather than closing the book on the issue entirely."
+    },
+    {
+      "type": "heading",
+      "text": "A Challenge Thrown at TikTok and YouTube"
+    },
+    {
+      "type": "paragraph",
+      "text": "Meta didn't just settle quietly — it used the moment to put pressure on its competitors. Chief legal officer C.J. Mahoney framed the new rules as something the whole industry needs, arguing that because teenagers move fluidly between dozens of apps, safety measures on just one platform won't fix the underlying problem. He explicitly called on TikTok and YouTube to adopt the same framework, turning what could have been read as a defensive legal move into something closer to a public dare."
+    },
+    {
+      "type": "paragraph",
+      "text": "State officials, for their part, are calling it a watershed moment regardless of Meta's motives. Colorado Attorney General Phil Weiser said the relief secured in the deal goes well beyond anything a court was likely to order on its own, while California Attorney General Rob Bonta credited the settlement with forcing changes that will meaningfully reduce the risk of harm — changes he said Meta has agreed to roll out within months, not years."
     }
+  ]
+},
+    {
+  "slug": "us-manufacturing-pmi-four-year-high-july-2026-ism-report",
+  "headline": "US Manufacturing PMI Hits Four-Year High in July: ISM Report Shows",
+  "dek": "The ISM Manufacturing PMI jumped to 55.6% in July, its highest reading since 2022, as new orders, production, and hiring all accelerated even though tariffs and Middle East-driven fuel costs kept prices stubbornly high.",
+  "authorSlug": "james-carter",
+  "source": "Bloomberg",
+  "publishedAt": "2026-08-03T15:30:00Z",
+  "updatedAt": "2026-08-05T10:00:00Z",
+  "heroImage": "/images/us-manufacturing-pmi-four-year-high-july-2026-ism-report.webp",
+  "heroCaption": "A factory floor in the United States, where manufacturing activity accelerated to its fastest pace in more than four years in July.",
+  "heroCredit": "Bloomberg",
+  "tags": [
+    "Business",
+    "Economy",
+    "Manufacturing"
   ],
-  "technology": [
+  "body": [
     {
-      "slug": "china-unfolds-ai-landscape-with-diversified-local-strengths",
-      "headline": "China unfolds AI landscape with diversified local strengths",
-      "dek": "The latest economic data from 31 provincial-level regions shows a coordinated but locally tailored AI industry taking shape.",
-      "authorSlug": "raj-patel",
-      "source": "Global Times",
-      "publishedAt": "2026-08-16T14:10:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img3.webp",
-      "heroCaption": "A data center corridor supporting AI workloads in East China.",
-      "heroCredit": "Xinhua",
-      "tags": [
-        "Technology",
-        "AI",
-        "Economy"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "China is leveraging nationwide capabilities to forge a locally tailored but nationally coordinated AI industry landscape to generate fresh momentum for broader commercial deployment."
-        },
-        {
-          "type": "heading",
-          "text": "Regional Specialization"
-        },
-        {
-          "type": "paragraph",
-          "text": "The latest economic data from the 31 provincial-level regions presents an overall artificial intelligence sector featuring surging demand across manufacturing, logistics, and consumer applications."
-        },
-        {
-          "type": "paragraph",
-          "text": "Analysts say the strategy allows regions to specialize — coastal provinces leaning into chip design and cloud infrastructure, while inland provinces focus on applied manufacturing AI."
-        }
-      ]
+      "type": "paragraph",
+      "text": "American factories just turned in their strongest performance in four years, and the numbers caught even seasoned economists off guard. The Institute for Supply Management's Manufacturing PMI jumped to 55.6% in July, up 2.3 percentage points from June and comfortably ahead of the 54.0% economists had forecast. It's the highest reading since May 2022, when the index touched 55.9%, and it marks a seventh straight month of factory-sector growth."
     },
     {
-      "slug": "chinese-scientists-develop-brain-reading-ai-model-to-help-predict-depr",
-      "headline": "Chinese scientists develop 'brain-reading' AI model to help predict depression risk",
-      "dek": "The model analyzes brain imaging data to identify patterns that may indicate elevated depression risk before symptoms fully emerge.",
-      "authorSlug": "raj-patel",
-      "source": "Global Times",
-      "publishedAt": "2026-08-18T08:00:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img1.webp",
-      "heroCaption": "Researchers reviewing brain scan data on a monitor.",
-      "heroCredit": "Global Times",
-      "tags": [
-        "Technology",
-        "AI",
-        "Health"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "A team of Chinese researchers has developed an AI model that analyzes brain imaging data to identify patterns associated with elevated depression risk."
-        },
-        {
-          "type": "paragraph",
-          "text": "The team says the tool could eventually support earlier screening, though it stressed the model is intended to complement, not replace, clinical diagnosis."
-        },
-        {
-          "type": "paragraph",
-          "text": "Researchers hope the underlying approach could also inform future work on emotional-perception systems in humanoid robots."
-        }
-      ]
+      "type": "paragraph",
+      "text": "For context on the scale of the turnaround: as recently as November, the index sat at just 48.0%, deep in contraction territory. Getting from there to nearly 56% in the span of eight months, according to ISM Manufacturing Business Survey Committee chair Susan Spence, represents a genuinely dramatic shift, made all the more notable because it happened while manufacturers were simultaneously navigating the Iran conflict and a moving target of tariff policy."
     },
     {
-      "slug": "chinas-quantum-computing-lab-achieves-new-milestone-in-error-correctio",
-      "headline": "China's quantum computing lab achieves new milestone in error correction",
-      "dek": "The breakthrough reduces error rates in a multi-qubit system, a key hurdle for practical quantum computing.",
-      "authorSlug": "raj-patel",
-      "source": "Global Times",
-      "publishedAt": "2026-08-17T12:25:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img1.webp",
-      "heroCaption": "A quantum computing lab with cryogenic processing equipment.",
-      "heroCredit": "Reuters",
-      "tags": [
-        "Technology",
-        "Quantum Computing"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "A state-backed quantum computing laboratory announced a new milestone in error correction this week, reporting a significant reduction in error rates across a multi-qubit system."
-        },
-        {
-          "type": "heading",
-          "text": "A Key Hurdle"
-        },
-        {
-          "type": "paragraph",
-          "text": "Error correction remains one of the central hurdles standing between today's experimental quantum processors and practical, large-scale quantum computing."
-        },
-        {
-          "type": "paragraph",
-          "text": "The lab said the results will be submitted for peer review, with a public technical paper expected later this year."
-        }
-      ]
+      "type": "heading",
+      "text": "Growth Was Broad, Not Just a Headline Number"
     },
     {
-      "slug": "domestic-chipmakers-report-record-output-as-self-sufficiency-drive-con",
-      "headline": "Domestic chipmakers report record output as self-sufficiency drive continues",
-      "dek": "Several leading semiconductor firms posted their highest quarterly output on record amid continued investment in domestic capacity.",
-      "authorSlug": "raj-patel",
-      "source": "Global Times",
-      "publishedAt": "2026-08-14T15:50:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img1.webp",
-      "heroCaption": "A semiconductor fabrication facility cleanroom.",
-      "heroCredit": "AFP",
-      "tags": [
-        "Technology",
-        "Semiconductors"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Several of China's leading semiconductor manufacturers reported record quarterly output this week, as the country's push for greater chip self-sufficiency continues."
-        },
-        {
-          "type": "paragraph",
-          "text": "Executives credited sustained investment in domestic fabrication capacity and growing demand from the automotive and consumer electronics sectors."
-        },
-        {
-          "type": "paragraph",
-          "text": "Industry analysts noted that advanced-node production still trails global leaders, even as output of mature-node chips scales rapidly."
-        }
-      ]
+      "type": "paragraph",
+      "text": "What made July's report stand out wasn't just the topline figure — it was how widely the strength was shared. Four of the report's five major subindexes accelerated compared to June, with only inventories ticking down, and just barely. Fifteen of the sixteen manufacturing industries ISM tracks expanded during the month; chemical products was the lone holdout still in contraction."
     },
     {
-      "slug": "china-publishes-worlds-first-comprehensive-dictionary-of-ancient-bambo",
-      "headline": "China publishes world's first comprehensive dictionary of ancient bamboo and silk manuscripts",
-      "dek": "The digital reference tool catalogs thousands of characters found on manuscripts dating back more than two millennia.",
-      "authorSlug": "raj-patel",
-      "source": "Global Times",
-      "publishedAt": "2026-08-11T09:05:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img1.webp",
-      "heroCaption": "A researcher examining an ancient bamboo manuscript.",
-      "heroCredit": "VCG",
-      "tags": [
-        "Technology",
-        "Culture",
-        "Archaeology"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Chinese researchers have published what they describe as the world's first comprehensive dictionary of characters found on ancient bamboo and silk manuscripts, some dating back more than two millennia."
-        },
-        {
-          "type": "heading",
-          "text": "A Digital Archive"
-        },
-        {
-          "type": "paragraph",
-          "text": "The digital reference tool, developed with the help of machine learning models trained to recognize historical script variants, is intended to support scholars studying early Chinese texts."
-        },
-        {
-          "type": "paragraph",
-          "text": "Project leaders said the archive will continue to expand as more manuscripts are digitized and cataloged."
-        }
-      ]
+      "type": "paragraph",
+      "text": "New orders came in at 56.7%, extending their growth streak to seven months after spending four straight months shrinking earlier in the year. Backlog of orders jumped 4.5 percentage points to 55%, new export orders climbed to 53%, and production surged to 58.5% from 52.2% the month before — evidence that factories aren't just fielding more orders, they're actually able to keep up with them."
     },
     {
-      "slug": "6g-research-consortium-unveils-early-prototype-network-in-shenzhen",
-      "headline": "6G research consortium unveils early prototype network in Shenzhen",
-      "dek": "The trial network demonstrates data speeds and latency improvements over current 5G infrastructure.",
-      "authorSlug": "raj-patel",
-      "source": "Global Times",
-      "publishedAt": "2026-08-09T07:45:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img1.webp",
-      "heroCaption": "Engineers testing prototype 6G equipment in a lab.",
-      "heroCredit": "Xinhua",
-      "tags": [
-        "Technology",
-        "Telecom",
-        "6G"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "A research consortium involving several major telecom operators unveiled an early prototype 6G network in Shenzhen this week, demonstrating data speeds and latency improvements over current 5G infrastructure."
-        },
-        {
-          "type": "paragraph",
-          "text": "Officials cautioned that commercial 6G deployment remains years away, with the current trial focused on validating core technical standards."
-        },
-        {
-          "type": "paragraph",
-          "text": "The demonstration comes as several countries race to shape the next generation of global telecom standards."
-        }
-      ]
+      "type": "heading",
+      "text": "Hiring Turns a Corner After Nearly Three Years"
     },
     {
-      "slug": "chinese-ai-startups-draw-fresh-investment-despite-global-funding-slowd",
-      "headline": "Chinese AI startups draw fresh investment despite global funding slowdown",
-      "dek": "Venture funding for domestic AI firms rose in the second quarter even as overall tech investment cooled.",
-      "authorSlug": "raj-patel",
-      "source": "Global Times",
-      "publishedAt": "2026-08-07T13:20:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img1.webp",
-      "heroCaption": "A startup team presenting an AI product demo.",
-      "heroCredit": "Global Times",
-      "tags": [
-        "Technology",
-        "AI",
-        "Venture Capital"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Venture funding for Chinese AI startups rose in the second quarter of 2026, according to a new industry report, even as overall technology investment cooled globally."
-        },
-        {
-          "type": "paragraph",
-          "text": "Investors pointed to strong domestic demand for enterprise AI tools and continued government support for the sector."
-        },
-        {
-          "type": "paragraph",
-          "text": "The report noted that funding remains concentrated among a small number of well-established firms, with early-stage startups facing a more competitive fundraising environment."
-        }
-      ]
+      "type": "paragraph",
+      "text": "Perhaps the most closely watched number in the whole report was employment. The Employment Index hit 52.8%, up 3.1 points from June and its first reading in expansion territory in 33 months — essentially the first time factory hiring has grown, rather than shrunk, since well before most of the current tariff regime took hold. Spence described it as a milestone manufacturers had been waiting a long time to reach, noting that seven months of rising orders and nine months of rising production had finally translated into employers actually adding headcount instead of just managing the decline more gently."
+    },
+    {
+      "type": "heading",
+      "text": "Prices Are Cooling, But Still Running Hot"
+    },
+    {
+      "type": "paragraph",
+      "text": "The one blemish on an otherwise glowing report is cost pressure. The Prices Index came in at 71.1%, its third straight monthly decline from a peak near 84.6% back in April, but still elevated enough to signal continued inflation working its way through the supply chain. Spence pointed to three culprits driving the pressure: steel and aluminum costs rippling through the entire value chain, tariffs applied to a wide range of imported goods, and petroleum-based product costs climbing amid the ongoing Middle East conflict."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sentiment among the executives ISM surveys reflected that tension. Roughly 38% of written comments were positive and 62% negative, though the negative comments increasingly centered on cost volatility and geopolitical uncertainty rather than weak demand. Pricing volatility showed up in 57% of negative remarks, the Iran conflict in 43%, and tariffs in 18%, with one respondent in the transportation equipment sector noting the business is actively working to monitor and limit its exposure to ongoing tariffs on components used in its product lines."
+    },
+    {
+      "type": "heading",
+      "text": "What It Means Going Forward"
+    },
+    {
+      "type": "paragraph",
+      "text": "Spence pushed back on the idea that July's jump was a one-off. Speaking to reporters, she said the trend looks like it reflects six-plus months of demand steadily moving in the right direction rather than a statistical blip, though she stopped short of predicting the pace would hold at these levels. Markets, for their part, treated the report as good news with a catch: strong manufacturing activity paired with still-elevated prices gives the Federal Reserve less room to justify cutting interest rates anytime soon, even as it confirms the broader economy, now in its 21st straight month of expansion, continues to hold up better than many had feared."
     }
+  ]
+}
   ],
-  "health": [
+  "finance": [
     {
-      "slug": "chinas-short-drama-platform-begins-to-curb-ais-one-face-fits-all-probl",
-      "headline": "China's short-drama platform begins to curb AI's 'one-face-fits-all' problem",
-      "dek": "Platforms are rolling out new tools to help AI-generated short dramas feel less repetitive and more distinct to viewers.",
-      "authorSlug": "sarah-kim",
-      "source": "Global Times",
-      "publishedAt": "2026-08-11T10:30:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img1.webp",
-      "heroCaption": "A viewer watches a short-drama app on a smartphone.",
-      "heroCredit": "Xinhua",
-      "tags": [
-        "Health",
-        "Technology",
-        "Wellbeing"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "After binge-watching several AI short dramas on Chinese short-video platforms, viewers may find themselves wondering whether they have accidentally stumbled into the same show again."
-        },
-        {
-          "type": "paragraph",
-          "text": "Researchers studying screen-time habits say the sameness of AI-generated content can contribute to a fatigue effect, prompting platforms to invest in more varied generation techniques."
-        }
-      ]
+  "slug": "sp500-record-high-dow-tops-54000-cooling-inflation-august-2026",
+  "headline": "S&P 500 Hits Record High, Dow Tops 54,000 as Inflation Cools",
+  "dek": "A four-day, $3.7 trillion rally pushed Wall Street to record highs, as easing inflation and hopes for calm in the Strait of Hormuz gave investors reason to keep buying.",
+  "authorSlug": "elena-vasquez",
+  "source": "CNBC",
+  "publishedAt": "2026-08-12T20:30:00Z",
+  "updatedAt": "2026-08-17T09:00:00Z",
+  "heroImage": "/images/sp500-record-high-dow-tops-54000-cooling-inflation-august-2026.webp",
+  "heroCaption": "Traders on the floor of the New York Stock Exchange as the S&P 500 closed at a fresh record high.",
+  "heroCredit": "Getty Images",
+  "tags": [
+    "Business",
+    "Finance",
+    "Markets"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Wall Street just can't stop setting records this summer. The S&P 500 climbed to a fresh all-time high on Thursday, breaking past 7,800 for the first time and closing at 7,798.99, capping a stretch that has now delivered 25 record closes for the index in 2026 alone. The Nasdaq Composite wasn't far behind, gaining 0.81% to finish at 26,803.03, lifted by strong performances from Meta Platforms, Micron Technology, and Netflix."
     },
     {
-      "slug": "new-national-screening-program-aims-to-cut-cervical-cancer-rates-by-20",
-      "headline": "New national screening program aims to cut cervical cancer rates by 2030",
-      "dek": "The initiative expands free HPV testing to rural counties as part of a broader public health push.",
-      "authorSlug": "sarah-kim",
-      "source": "Global Times",
-      "publishedAt": "2026-08-18T09:40:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img1.webp",
-      "heroCaption": "A mobile health screening unit in a rural county.",
-      "heroCredit": "Global Times",
-      "tags": [
-        "Health",
-        "Public Health",
-        "Cancer"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "China's health authorities launched a new national screening program this week aimed at reducing cervical cancer rates by 2030, with a focus on expanding free HPV testing to rural counties."
-        },
-        {
-          "type": "heading",
-          "text": "Expanding Access"
-        },
-        {
-          "type": "paragraph",
-          "text": "Officials said the program builds on a decade of gradual improvements in cancer screening infrastructure, though access gaps between urban and rural areas remain a challenge."
-        },
-        {
-          "type": "paragraph",
-          "text": "Public health experts welcomed the expansion but called for continued investment in follow-up treatment capacity, not just screening."
-        }
-      ]
+      "type": "paragraph",
+      "text": "The Dow Jones Industrial Average has been on its own tear. Earlier in the month, the blue-chip index soared more than 900 points in a single session to close above 54,000 for the first time in its history, part of a broader four-day run that added roughly $3.7 trillion in combined market value across US stocks — the kind of number that's easy to write and genuinely hard to picture."
     },
     {
-      "slug": "chinese-researchers-report-progress-on-mrna-vaccine-platform-for-respi",
-      "headline": "Chinese researchers report progress on mRNA vaccine platform for respiratory illness",
-      "dek": "Early trial data show a promising immune response, though the vaccine remains in mid-stage clinical testing.",
-      "authorSlug": "sarah-kim",
-      "source": "Global Times",
-      "publishedAt": "2026-08-16T11:15:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img1.webp",
-      "heroCaption": "A laboratory researcher handling vaccine samples.",
-      "heroCredit": "Reuters",
-      "tags": [
-        "Health",
-        "Vaccines",
-        "Research"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "A team of Chinese researchers reported promising early results this week from a domestically developed mRNA vaccine platform targeting a common respiratory illness."
-        },
-        {
-          "type": "paragraph",
-          "text": "The vaccine remains in mid-stage clinical trials, with researchers cautioning that larger studies are needed before any approval decision."
-        },
-        {
-          "type": "paragraph",
-          "text": "The project is part of a broader national push to build domestic mRNA vaccine development capacity."
-        }
-      ]
+      "type": "heading",
+      "text": "Inflation Finally Cooperates"
     },
     {
-      "slug": "beijing-hospitals-pilot-ai-assisted-diagnosis-to-ease-doctor-shortages",
-      "headline": "Beijing hospitals pilot AI-assisted diagnosis to ease doctor shortages",
-      "dek": "The pilot program uses AI tools to help triage patients and flag cases that need urgent specialist attention.",
-      "authorSlug": "sarah-kim",
-      "source": "Global Times",
-      "publishedAt": "2026-08-13T14:00:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img1.webp",
-      "heroCaption": "A doctor reviewing AI-assisted diagnostic results.",
-      "heroCredit": "AFP",
-      "tags": [
-        "Health",
-        "AI",
-        "Hospitals"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Several major hospitals in Beijing began piloting AI-assisted diagnostic tools this month, aiming to help ease pressure from ongoing doctor shortages in certain specialties."
-        },
-        {
-          "type": "heading",
-          "text": "Easing the Burden"
-        },
-        {
-          "type": "paragraph",
-          "text": "The tools are designed to help triage patients and flag cases that may need urgent specialist attention, rather than replace physician judgment."
-        },
-        {
-          "type": "paragraph",
-          "text": "Hospital administrators said early feedback from staff has been largely positive, though some doctors raised questions about liability and oversight."
-        }
-      ]
+      "type": "paragraph",
+      "text": "What's actually driving all this? Start with inflation, which has been the market's biggest headache for the better part of two years. July's Consumer Price Index rose just 0.1% from the prior month, with the annual rate settling at 3.4%, a reading calm enough to ease worries that the Federal Reserve might need to keep rates higher for longer. For a market that's spent much of 2026 flinching at every inflation print, a quiet one felt almost like a gift."
     },
     {
-      "slug": "mental-health-hotline-usage-rises-as-awareness-campaigns-expand-nation",
-      "headline": "Mental health hotline usage rises as awareness campaigns expand nationwide",
-      "dek": "Call volumes have grown steadily over the past year alongside broader public education efforts.",
-      "authorSlug": "sarah-kim",
-      "source": "Global Times",
-      "publishedAt": "2026-08-10T08:25:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img1.webp",
-      "heroCaption": "A mental health support hotline call center.",
-      "heroCredit": "VCG",
-      "tags": [
-        "Health",
-        "Mental Health"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Usage of national mental health hotlines has risen steadily over the past year, according to figures released by health authorities, coinciding with expanded public awareness campaigns."
-        },
-        {
-          "type": "paragraph",
-          "text": "Officials said the increase likely reflects both growing need and reduced stigma around seeking help, rather than a rise in mental health issues alone."
-        },
-        {
-          "type": "paragraph",
-          "text": "Advocacy groups called for continued investment in hotline staffing and expanded access to follow-up counseling services."
-        }
-      ]
+      "type": "paragraph",
+      "text": "Oil prices have been cooperating too. Brent crude slid more than 2% to settle around $87 a barrel, while West Texas Intermediate dropped a similar amount to roughly $81, as traders grew more confident that tensions tied to the Iran conflict wouldn't disrupt the flow of crude through the Strait of Hormuz, the narrow waterway through which a huge share of the world's oil supply passes. Cheaper oil ripples through the whole economy, easing pressure on both consumer wallets and corporate cost lines at the same time."
     },
     {
-      "slug": "china-unveils-new-dietary-guidelines-to-combat-rising-obesity-rates",
-      "headline": "China unveils new dietary guidelines to combat rising obesity rates",
-      "dek": "The updated guidance recommends reduced sugar and salt intake alongside increased daily physical activity.",
-      "authorSlug": "sarah-kim",
-      "source": "Global Times",
-      "publishedAt": "2026-08-08T10:50:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img1.webp",
-      "heroCaption": "A public health poster promoting balanced nutrition.",
-      "heroCredit": "Xinhua",
-      "tags": [
-        "Health",
-        "Nutrition",
-        "Public Health"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Health authorities unveiled updated national dietary guidelines this week, aimed at addressing rising obesity rates among both children and adults."
-        },
-        {
-          "type": "paragraph",
-          "text": "The guidance recommends reduced sugar and salt intake, alongside targets for daily physical activity, and calls for schools to revise cafeteria menus accordingly."
-        },
-        {
-          "type": "paragraph",
-          "text": "Nutrition experts said the guidelines mark a meaningful step but stressed that implementation and public education will determine their real-world impact."
-        }
-      ]
+      "type": "heading",
+      "text": "Earnings and AI Optimism Add Fuel"
     },
     {
-      "slug": "traditional-chinese-medicine-clinics-see-growing-demand-among-younger",
-      "headline": "Traditional Chinese medicine clinics see growing demand among younger patients",
-      "dek": "Surveys show rising interest in TCM approaches to wellness and preventive care among people under 35.",
-      "authorSlug": "sarah-kim",
-      "source": "Global Times",
-      "publishedAt": "2026-08-05T15:10:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img1.webp",
-      "heroCaption": "A traditional Chinese medicine practitioner preparing herbal remedies.",
-      "heroCredit": "Global Times",
-      "tags": [
-        "Health",
-        "Traditional Medicine",
-        "Wellbeing"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Traditional Chinese medicine clinics across several major cities have reported growing demand from younger patients over the past two years, according to a new industry survey."
-        },
-        {
-          "type": "heading",
-          "text": "A Generational Shift"
-        },
-        {
-          "type": "paragraph",
-          "text": "Practitioners say rising interest in preventive care and wellness, rather than treatment of acute illness, is driving much of the new demand among patients under 35."
-        },
-        {
-          "type": "paragraph",
-          "text": "Some hospitals have begun integrating TCM consultations alongside conventional care as part of broader wellness programs."
-        }
-      ]
+      "type": "paragraph",
+      "text": "Cooling inflation and cheaper oil only tell part of the story. Corporate earnings have come in strong across the board this season, giving investors concrete reasons to keep buying rather than just riding a wave of macro relief. Technology stocks tied to artificial intelligence have led the charge, with chipmakers and AI infrastructure names continuing to post the kind of growth numbers that keep pulling fresh capital into the sector."
+    },
+    {
+      "type": "paragraph",
+      "text": "One thing that's stood out to strategists this time around is how broad the rally has actually been. Unlike some past bull runs that leaned almost entirely on a handful of mega-cap tech names, this stretch has pulled in gains from economically sensitive sectors like industrials and materials, defensive corners of the market like healthcare and utilities, and even international stocks — a breadth that tends to make a rally feel sturdier, even if it can't guarantee it'll last."
+    },
+    {
+      "type": "heading",
+      "text": "Not Everyone Is Celebrating"
+    },
+    {
+      "type": "paragraph",
+      "text": "Underneath the record highs, there's a more complicated picture for everyday Americans trying to build wealth in this market. A recent survey found a link between day trading and rising feelings of failure among young men, a reminder that a record-setting index doesn't necessarily translate into good outcomes for individual retail traders chasing momentum rather than sticking to a long-term plan."
+    },
+    {
+      "type": "paragraph",
+      "text": "There's also the concentration question hanging over the rally. With so much of the market's gains still tied to a relatively small group of AI and technology giants, some strategists are cautioning investors to check whether their own portfolios have drifted into being unintentionally overweight those names, and to think about rebalancing into underperforming sectors while valuations elsewhere still look reasonable by comparison."
+    },
+    {
+      "type": "heading",
+      "text": "What Comes Next"
+    },
+    {
+      "type": "paragraph",
+      "text": "For now, the combination of cooling prices, calmer oil markets, and solid corporate profits has given Wall Street plenty to like. But strategists are quick to note that record highs can just as easily set up sharper pullbacks if any of those pillars — inflation data, geopolitical calm, or earnings momentum — wobbles in the months ahead. Investors who've ridden this run higher are being encouraged to enjoy it, but not to assume it's a straight line from here."
     }
+  ]
+},
+    {
+  "slug": "gold-prices-rebound-best-week-since-january-fed-rate-hike-odds-fade",
+  "headline": "Gold Notches Its Best Week Since January as Fed Rate-Hike Fears Cool",
+  "dek": "Gold and mining stocks rallied after gold fell nearly 18% from a $5,300 record, boosted by cooler inflation data and fading odds of a Federal Reserve rate hike soon amid.",
+  "authorSlug": "elena-vasquez",
+  "source": "CNBC",
+  "publishedAt": "2026-08-12T18:00:00Z",
+  "updatedAt": "2026-08-19T08:30:00Z",
+  "heroImage": "/images/gold-prices-rebound-best-week-since-january-fed-rate-hike-odds-fade.webp",
+  "heroCaption": "Gold bars at a bullion vault, as the precious metal staged its strongest weekly rally since January.",
+  "heroCredit": "Reuters",
+  "tags": [
+    "Business",
+    "Finance",
+    "Markets",
+    "Commodities"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Gold traders finally got a week worth celebrating. The precious metal, along with silver, turned in its best performance in months, snapping a rough stretch that had seen prices slide as much as 18% from the record highs set earlier in the year. Gold mining stocks joined the party too, posting their hottest five-day run since 2008 — a stat that tells you just how starved the sector had been for good news."
+    },
+    {
+      "type": "paragraph",
+      "text": "To understand why this rebound matters, it helps to look at how rough 2026 has actually been for gold traders trying to time the market. The metal roared into the year by smashing through a series of records, eventually topping $5,300 an ounce, only to spend much of the following months grinding lower as the initial wave of safe-haven buying cooled off. For a trade that looked like a one-way bet in January, the reversal caught plenty of investors off guard."
+    },
+    {
+      "type": "heading",
+      "text": "What Turned the Tide"
+    },
+    {
+      "type": "paragraph",
+      "text": "Two things did the heavy lifting behind this month's bounce: softer-than-expected inflation data and a noticeable cooling in expectations that the Federal Reserve might need to raise interest rates. Gold doesn't pay a dividend or interest, so it tends to struggle when rates are high or climbing, since investors can earn a safe return elsewhere instead. When the odds of a rate hike fade, gold typically gets more attractive by comparison, and that's roughly what played out this time."
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts caution the recovery doesn't erase the bigger picture of a choppy year. Short-term volatility in the gold trade is likely to persist, and the metal's path for the rest of 2026 will probably keep swinging with every fresh inflation print and every shift in how traders read the Fed's next move, rather than settling into the kind of steady climb that defined 2025."
+    },
+    {
+      "type": "heading",
+      "text": "The Bigger Story Behind Gold's Wild Year"
+    },
+    {
+      "type": "paragraph",
+      "text": "Zoom out further and gold's 2026 makes a lot more sense as a hangover from an extraordinary run. The metal gained roughly 65% in 2025, outperforming nearly every major asset class except silver and the platinum group metals, fueled by a combination of central bank buying, ETF inflows, and investors hedging against currency and geopolitical risk. Global gold ETF holdings swelled to a record 4,025 tonnes last year, while annual inflows into gold-backed funds hit an all-time high of $89 billion."
+    },
+    {
+      "type": "paragraph",
+      "text": "Central banks have been one of the quieter but more persistent forces behind the entire multi-year rally. China's central bank alone extended its gold-buying streak well past a year, and demand from emerging-market monetary authorities has stayed elevated as more countries look to diversify their reserves away from a heavy reliance on the US dollar. That kind of structural buying doesn't disappear overnight just because prices pull back for a few months."
+    },
+    {
+      "type": "heading",
+      "text": "Where Wall Street Sees Gold Heading Next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Even after the recent stumble, big banks haven't abandoned their bullish calls. Major brokerages surveyed earlier this year had penciled in $5,000 an ounce as a realistic target for 2026, pointing to expectations of lower US real interest rates, continued Fed easing over time, and ongoing central bank diversification as reasons the longer-term trend should stay intact even if the ride there is bumpier than expected."
+    },
+    {
+      "type": "paragraph",
+      "text": "For everyday investors, the takeaway from this stretch is less about picking the exact top or bottom and more about recognizing gold's role as a hedge that moves on its own logic, often at odds with stocks and bonds. This month's rebound is a reminder that even after a sharp pullback, the underlying demand drivers — central banks, geopolitical uncertainty, and rate expectations — haven't gone anywhere, they just needed a fresh trigger to reassert themselves."
+    }
+  ]
+},
+    {
+  "slug": "us-canada-trade-talks-collapse-50-percent-tariffs-imposed-august-2026",
+  "headline": "US-Canada Trade Talks Collapse as 50% Tariffs Hit $20B Goods",
+  "dek": "US-Canada trade talks collapsed after a midnight deadline, ending hopes of a deal. Canada now vows to match Washington’s new tariffs dollar for dollar in response today.",
+  "authorSlug": "elena-vasquez",
+  "source": "CNBC",
+  "publishedAt": "2026-08-22T08:00:00Z",
+  "updatedAt": "2026-08-24T12:00:00Z",
+  "heroImage": "/images/us-canada-trade-talks-collapse-50-percent-tariffs-imposed-august-2026.webp",
+  "heroCaption": "A truck crosses the Peace Bridge from Buffalo, New York, into Ontario, Canada, days before new US tariffs took effect.",
+  "heroCredit": "AFP/Getty Images",
+  "tags": [
+    "Business",
+    "Finance",
+    "Trade",
+    "Economy"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Two of the world's closest trading allies just watched a trade deal fall apart at the finish line. The United States imposed 50% tariffs on roughly $20 billion worth of Canadian goods early Saturday morning after negotiators from both countries spent three days in Washington trying, and ultimately failing, to reach an agreement before a midnight deadline set by President Trump."
+    },
+    {
+      "type": "paragraph",
+      "text": "What makes the breakdown sting is how close the two sides appeared just hours earlier. Sources familiar with the talks say negotiators had seemingly been closing in on terms that would have lowered tariffs on steel, aluminum, and autos, and potentially even brought American alcohol back onto the shelves of Canadian liquor stores. Instead, talks collapsed, and each side spent the aftermath publicly blaming the other for derailing what had looked like real progress."
+    },
+    {
+      "type": "heading",
+      "text": "A Whiplash Week for Trade Watchers"
+    },
+    {
+      "type": "paragraph",
+      "text": "The reversal is especially jarring given what Trump himself was saying just three days earlier. On Wednesday, he told reporters the US had struck a very fair deal with Canada, one that would eliminate tariffs entirely on US farm exports and other goods heading north across the border. By Saturday morning, that framing had been replaced by 50% duties and a fresh round of retaliatory threats — a shift that left plenty of businesses on both sides of the border scrambling to figure out which version of events to actually plan around."
+    },
+    {
+      "type": "paragraph",
+      "text": "Canadian Prime Minister Mark Carney didn't mince words in response, vowing that Canada would match the new US tariffs dollar for dollar. That kind of tit-for-tat retaliation has become something of a familiar pattern in the broader US trade war playing out across multiple fronts this year, where nearly every escalation from Washington has been met with a mirrored response from the affected country."
+    },
+    {
+      "type": "heading",
+      "text": "Not a Knockout Blow, But Not Nothing Either"
+    },
+    {
+      "type": "paragraph",
+      "text": "For all the drama, the immediate economic sting is more contained than the headline numbers suggest. The goods hit by the new tariffs, things like wooden hockey sticks and other niche exports, represent just over 5% of Canada's total exports to the US, and Canada remains only the second-largest US trading partner behind Mexico. Analysts described the affected goods list as far from an economic game-changer for either country, even as it raises the political temperature considerably."
+    },
+    {
+      "type": "paragraph",
+      "text": "Still, the collapse lands at a delicate moment for a legal fight already playing out over the broader tariff regime. The US Court of International Trade has been weighing multiple challenges to the administration's use of emergency powers to impose tariffs, following a Supreme Court decision earlier this year that struck down the administration's use of the International Emergency Economic Powers Act for sweeping global duties. That same court separately upheld the administration's suspension of the longstanding de minimis exemption for low-value imports, a decision that will keep shaping how tariffs apply to everyday cross-border purchases."
+    },
+    {
+      "type": "heading",
+      "text": "What Comes Next"
+    },
+    {
+      "type": "paragraph",
+      "text": "For now, businesses that rely on the Canada-US supply chain are left navigating a familiar kind of uncertainty: tariffs that arrived fast, a negotiating table that could reopen just as quickly, and a legal backdrop in Washington that's still being sorted out in the courts. Whether this ends up as a temporary setback on the way to the kind of deal both sides were reportedly close to just days earlier, or the start of a longer standoff, will likely depend on how much political room either government has to blink first."
+    }
+  ]
+},
+    {
+  "slug": "us-jobs-report-july-2026-payrolls-shrink-unemployment-rate-4-1-percent",
+  "headline": "US Employers Unexpectedly Cut Jobs in July, Clouding Fed Outlook",
+  "dek": "US payrolls fell by 23,000 in July as prior estimates were revised lower, while unemployment reached 4.1%, creating uncertainty over labor market strength and Fed policy.",
+  "authorSlug": "elena-vasquez",
+  "source": "Bureau of Labor Statistics / Bloomberg",
+  "publishedAt": "2026-08-07T16:00:00Z",
+  "updatedAt": "2026-08-14T09:00:00Z",
+  "heroImage": "/images/us-jobs-report-july-2026-payrolls-shrink-unemployment-rate-4-1-percent.webp",
+  "heroCaption": "A hiring sign outside a retail storefront, as the latest jobs report showed the first monthly payroll decline in months.",
+  "heroCredit": "Getty Images",
+  "tags": [
+    "Business",
+    "Finance",
+    "Economy",
+    "Labor Market"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Friday's jobs report threw a curveball at anyone expecting a clean read on the US economy. Nonfarm payrolls fell by 23,000 in July, according to Bureau of Labor Statistics data, a genuine surprise after a stretch of surprising strength earlier in the year. To make the miss sting more, the agency also revised May and June's already-modest figures down by a combined 103,000 jobs, meaning the labor market had actually been weaker over the prior two months than anyone realized at the time."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here's where it gets confusing, though: the unemployment rate actually fell to 4.1% in July. Normally job losses and a falling unemployment rate don't move in the same direction, and the reason they did this time says a lot about what's really going on underneath the headline numbers — labor force participation continued sliding, meaning fewer people were actively counted as looking for work, which mechanically pushes the jobless rate down even as fewer jobs get added."
+    },
+    {
+      "type": "heading",
+      "text": "A Shrinking Labor Force Changes the Math"
+    },
+    {
+      "type": "paragraph",
+      "text": "Economists tracking the report point to a structural shift that's reshaping how these numbers should even be read. A steep drop-off in immigration, combined with retirements outpacing new entrants into the labor force, means the break-even rate of job growth — the number of jobs the economy needs to add each month just to keep the unemployment rate flat — has fallen to somewhere between roughly negative 10,000 and positive 30,000. In other words, a soft payrolls number that would have signaled real trouble a few years ago might now be closer to business as usual."
+    },
+    {
+      "type": "paragraph",
+      "text": "That reframing matters. Rather than reading July's decline as evidence of a sudden weakening, some analysts describe the labor market as sitting in something closer to a rough equilibrium, with the pace of job losses actually slowing rather than accelerating. Digging into the details, the softness concentrated in specific pockets — leisure and hospitality, driven largely by bars and restaurants, cooled off as a winding-down World Cup pulled back some of the seasonal hiring boost those sectors had enjoyed earlier in the summer."
+    },
+    {
+      "type": "heading",
+      "text": "Wage Growth Slows Too"
+    },
+    {
+      "type": "paragraph",
+      "text": "Adding to the mixed picture, wage growth slowed alongside the payroll decline, taking away one of the arguments some economists had been using to suggest the labor market was still running hot enough to keep inflation elevated. Employment continued to trend upward in health care even as it declined in local government education and retail trade, underscoring how uneven the hiring picture has become across different corners of the economy."
+    },
+    {
+      "type": "paragraph",
+      "text": "One curveball buried in the data: total employment including self-employment has actually fallen by roughly 920,000 people since January, even as traditional payroll jobs added a cumulative 266,000 over the same stretch. Economists suggest that gap likely reflects workers shifting out of self-employment and into more conventional payroll positions, a statistical quirk that can distort single-month headline numbers when the overall trend rate of job growth is already running this low."
+    },
+    {
+      "type": "heading",
+      "text": "What It Means for the Fed"
+    },
+    {
+      "type": "paragraph",
+      "text": "For the Federal Reserve, a report this muddled complicates an already delicate calculation. Weak payroll growth typically argues for lower interest rates to support hiring, but a falling unemployment rate paired with still-elevated inflation cuts the other way, leaving policymakers to weigh two indicators pointing in different directions rather than a single clear signal. Coming just weeks before the Fed's September meeting, and alongside a chairman in Kevin Warsh who has been notably reluctant to signal his next move, this report gives both sides of the rate debate something to point to — which is often the least helpful outcome for anyone trying to predict what happens next."
+    }
+  ]
+},
+    {
+  "slug": "us-housing-market-mortgage-rates-6-7-percent-inventory-rising-2026",
+  "headline": "US Housing Market Rebalances as Mortgage Rates Near 6.7%",
+  "dek": "US home sales rise 6.1% year-over-year as inventory improves, giving buyers more negotiating power, while economists say mortgage rates below 6% are unlikely soon.",
+  "authorSlug": "elena-vasquez",
+  "source": "Bankrate / Freddie Mac",
+  "publishedAt": "2026-08-27T14:00:00Z",
+  "updatedAt": null,
+  "heroImage": "/images/us-housing-market-mortgage-rates-6-7-percent-inventory-rising-2026.webp",
+  "heroCaption": "A row of homes for sale in a suburban US neighborhood, as inventory climbs and buyers regain some negotiating leverage.",
+  "heroCredit": "Getty Images",
+  "tags": [
+    "Business",
+    "Finance",
+    "Real Estate",
+    "Economy"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The US housing market spent much of 2026 stuck in a standoff between buyers waiting for rates to drop and sellers unwilling to budge on price. That standoff is finally starting to thaw. The average rate on a 30-year fixed mortgage sat at 6.66% as of August 27, according to Freddie Mac, essentially flat from the week before and only modestly higher than the 6.56% recorded at this point a year ago. It's not the relief buyers have been hoping for, but it's stable enough that both sides of the market seem to be adjusting to it rather than waiting it out."
+    },
+    {
+      "type": "paragraph",
+      "text": "That stability is starting to show up in actual transactions. Home sales climbed 6.1% year-over-year, and inventory has been rising in many parts of the country, giving buyers meaningfully more choices and a bit more negotiating leverage than they've had in years. Median list prices have edged down about 2% year-over-year nationally, though the declines remain modest rather than the kind of sharp correction some had feared."
+    },
+    {
+      "type": "heading",
+      "text": "Not a Crash, Economists Say — Just a Rebalancing"
+    },
+    {
+      "type": "paragraph",
+      "text": "Roughly 40% of buyers and sellers surveyed this year said they're worried about a potential housing market crash, but the data so far doesn't back that fear up. Most economists tracking the market describe 2026 as a rebalancing year rather than the start of a downturn, pointing to steadily rising inventory paired with only mild price softening as evidence the market is finding a new equilibrium rather than falling apart."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rate forecasters, meanwhile, have largely given up on predicting a return to the ultra-low rates many buyers are still anchored to. Fannie Mae's latest housing forecast pegs the average 30-year fixed rate at around 6.4% for the rest of the year, and mortgage analysts are blunt about what that means going forward: rates below 6% shouldn't be expected anytime soon, and the sub-3% rates of the pandemic era are very likely gone for good."
+    },
+    {
+      "type": "heading",
+      "text": "What's Actually Moving Rates Right Now"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mortgage rates have been drifting higher since the Iran conflict began earlier this year, as the resulting spike in oil prices fed through into broader inflation and, from there, into the interest-rate environment that shapes home-loan pricing. Inflation has since eased somewhat, coming in at 3.4% in July, down from 3.5% in June, which has modestly reduced market odds of a September Fed rate hike. For homebuyers, that translates into a mortgage market that's likely to hover in a fairly narrow band in the near term rather than swing sharply in either direction, with most forecasters expecting rates to stay somewhere between 6% and 7% through the rest of the year."
+    },
+    {
+      "type": "heading",
+      "text": "The Down Payment Gap Between Generations"
+    },
+    {
+      "type": "paragraph",
+      "text": "One of the more interesting shifts buried in this year's housing data involves who's actually buying. Millennials have now caught up with baby boomers in planned down payment size, with both generations expecting to put down a median of $65,000 — noticeably more than the $56,250 median among Gen X buyers. The typical American buyer overall is planning a $55,000 down payment, though that figure understates the reality in the country's most competitive markets, where buyers in top California metros often need more than triple that amount just to compete."
+    },
+    {
+      "type": "paragraph",
+      "text": "Foreign buyer activity, meanwhile, has been pulling back. International buyers purchased roughly 67,000 US homes between April 2025 and March 2026, a 14% decline from the prior year — a trend that, combined with rising domestic inventory, is one more sign the market's dynamics are shifting in favor of buyers, even if borrowing costs themselves haven't given much ground."
+    },
+    {
+      "type": "heading",
+      "text": "What Buyers and Sellers Are Actually Doing About It"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rather than waiting on rates to move, more buyers are exploring workarounds. Mortgage rate buydowns, where a buyer or seller pays upfront to secure a lower rate for some or all of the loan term, have become a more common strategy for making today's payments more manageable. Adjustable-rate mortgages are drawing renewed interest too, since five-year ARM rates have generally stayed below 30-year fixed rates in recent months, though housing counselors are quick to caution that ARMs carry their own risks if rates climb or the job market weakens down the line. For sellers, the advice circulating this month is similarly pragmatic: price the home correctly from the start, rather than setting an aggressive asking price and hoping the market eventually catches up to it."
+    }
+  ]
+},
+    {
+  "slug": "us-clean-energy-investment-75-billion-q2-2026-battery-storage-boom",
+  "headline": "US Clean Energy Investment Jumps 22% to $75 Billion, Even as Factories Keep Closing",
+  "dek": "A record-setting battery storage boom is masking a rockier reality for US clean tech manufacturing, where nearly $40 billion in projects have been canceled since early 2025.",
+  "authorSlug": "elena-vasquez",
+  "source": "Clean Investment Monitor / Semafor",
+  "publishedAt": "2026-08-13T12:00:00Z",
+  "updatedAt": "2026-08-26T10:00:00Z",
+  "heroImage": "/images/us-clean-energy-investment-75-billion-q2-2026-battery-storage-boom.webp",
+  "heroCaption": "A utility-scale battery storage facility paired with a solar farm in the western United States.",
+  "heroCredit": "Reuters",
+  "tags": [
+    "Business",
+    "Finance",
+    "Energy",
+    "Climate"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "US clean energy investment is telling two very different stories at once right now, and both of them happen to be true. On one hand, total investment in clean energy and transportation hit $75 billion in the second quarter of 2026, according to the Clean Investment Monitor, a 22% jump from the prior quarter and the second-highest quarterly total ever recorded. On the other hand, the sector has shed nearly $40 billion in canceled manufacturing projects and more than 53,000 announced jobs since the start of 2025."
+    },
+    {
+      "type": "paragraph",
+      "text": "Both numbers are real, and reconciling them requires looking at where the money is actually going. The surge isn't being driven by new factories breaking ground — it's coming almost entirely from deployment: batteries, solar panels, and storage systems that are already cheap enough and proven enough that homeowners and grid operators are buying them regardless of what's happening in Washington on the incentive front."
+    },
+    {
+      "type": "heading",
+      "text": "Battery Storage Is Having a Moment"
+    },
+    {
+      "type": "paragraph",
+      "text": "The single biggest driver of the quarter's jump was distributed electricity generation and storage, which reached nearly $12 billion in investment, more than double the roughly $5 billion recorded just one quarter earlier and the highest total on record for that category. Residential battery storage installations actually surpassed residential solar installations for a second straight quarter, now accounting for about 75% of all investment in that segment — a sign that homeowners increasingly see a battery, not just panels on the roof, as the real prize."
+    },
+    {
+      "type": "paragraph",
+      "text": "Utility-scale battery deployment is having its own breakout year. The US is on pace to install roughly 24,000 megawatts of utility-scale battery capacity in 2026, a 60% jump over last year, as developers increasingly pair batteries directly with solar farms to store cheap midday power and sell it back to the grid during expensive evening peak hours. Grid operators already have plans to add another 54 gigawatts of battery capacity by the end of 2028, which would roughly double the nation's total storage capacity again by 2030."
+    },
+    {
+      "type": "heading",
+      "text": "But Manufacturing Is a Different Picture Entirely"
+    },
+    {
+      "type": "paragraph",
+      "text": "The factory side of the industry tells a much rougher story. Companies announced about $7.9 billion in new clean energy manufacturing investments in the second quarter while simultaneously canceling $2.9 billion in previously announced projects, most of that concentrated in electric vehicle assembly, solar, and hydrogen electrolyzer manufacturing. Two of the largest planned electrolyzer plants in the country were either canceled outright or put on hold during the quarter."
+    },
+    {
+      "type": "paragraph",
+      "text": "Perhaps the starkest illustration of how much the investment climate has cooled: from mid-2023 through the end of 2024, companies announced 24 clean energy manufacturing projects worth more than $1 billion each. In the eighteen months since, there have been just three. The largest of those three, Convalt Energy's planned $5 billion solar manufacturing campus in New Mexico, now stands out as something of an outlier rather than a sign the investment floodgates have reopened."
+    },
+    {
+      "type": "heading",
+      "text": "Why the Two Trends Are Pulling in Opposite Directions"
+    },
+    {
+      "type": "paragraph",
+      "text": "The split traces back largely to policy. The elimination of federal tax incentives under the One Big Beautiful Bill Act has made it harder to justify building new domestic factories, even as the same shift, combined with a long stretch of falling solar and battery equipment prices, has made it easier and cheaper than ever to actually deploy the technology once it's built somewhere. Manufacturing investment did tick up 4% quarter-over-quarter, breaking a six-quarter streak of consecutive declines, but analysts caution that one quarter of modest improvement doesn't undo eighteen months of retreat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Solar manufacturing in particular remains caught in a bind: even after the US worked to bring its entire supply chain onshore over the past few years, domestic manufacturers still struggle to access the components and basic infrastructure materials, like steel, needed to actually build panels at scale, given current trade policy. Industry analysts describe global manufacturing capacity as facing severe, persistent oversupply that's outpacing even the healthy demand growth projected for 2026."
+    },
+    {
+      "type": "heading",
+      "text": "The Bigger Picture for Investors and Policymakers"
+    },
+    {
+      "type": "paragraph",
+      "text": "For anyone trying to gauge where US clean energy is really headed, the lesson from this quarter is that the sector isn't collapsing, but it is bifurcating. Deployment-side businesses — the companies installing batteries, panels, and storage systems that are already commercially proven — are thriving on falling costs and strong underlying demand. Manufacturing-side businesses betting on new US factories are navigating a far chillier environment, one where policy uncertainty and thin incentive support are doing more to determine which projects survive than raw technology economics alone."
+    }
+  ]
+}
+  ],
+  "world": [
+    {
+  "slug": "nepal-china-border-flash-floods-thousands-missing-glacier-collapse-2026",
+  "headline": "Nepal-China Flash Floods Kill Hundreds, Thousands Still Missing",
+  "dek": "A glacier collapse near Langtang Lirung triggered a flood destroying the Gyirong border crossing in minutes; search efforts are now in day five across Nepal and Tibet.",
+  "authorSlug": "raj-patel",
+  "source": "CNN / Reuters",
+  "publishedAt": "2026-08-30T09:00:00Z",
+  "updatedAt": "2026-08-31T14:00:00Z",
+  "heroImage": "/images/nepal-china-border-flash-floods-thousands-missing-glacier-collapse-2026.webp",
+  "heroCaption": "Soldiers search through debris for survivors following flash floods in Devighat, Nepal.",
+  "heroCredit": "Reuters",
+  "tags": [
+    "World",
+    "Disaster",
+    "Nepal",
+    "China"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "It started with a piece of ice breaking loose high in the Himalayas, and within minutes it had erased entire settlements downstream. On the morning of August 26, a large section of glacier near Langtang Lirung peak collapsed, triggering an avalanche and landslide that sent a wall of water, ice, and rock cascading down the Trishuli and Bhote Koshi river valleys along the Nepal-China border. Surveillance footage showed the surge destroying the Gyirong Port border crossing roughly seven minutes after the initial collapse, a stretch of time that left almost no room for warning."
+    },
+    {
+      "type": "paragraph",
+      "text": "Five days later, the scale of the disaster is still coming into focus, and the numbers keep climbing. Nepali authorities have confirmed at least 903 deaths with 4,247 people still missing, while Chinese officials in the Tibet Autonomous Region have reported 16 dead and 546 missing on their side of the border. The flood struck settlements along a roughly 45-mile stretch of the Trishuli River, and floodwaters carried the bodies of some victims as far as 150 miles downstream into neighboring India."
+    },
+    {
+      "type": "heading",
+      "text": "A Race Against a Closing Window"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rescue crews have been working around the clock since the disaster struck, but they're contending with obstacles that would slow down any recovery effort: wrecked roads and bridges, widespread power outages, and mountainous terrain that's difficult to reach even in ordinary conditions. Search teams are acutely aware of the window they're working against — the first 48 to 72 hours after a disaster like this are typically regarded as the best chance of finding survivors, and that window has now closed for most of the missing."
+    },
+    {
+      "type": "paragraph",
+      "text": "The disaster hasn't stayed contained to Nepal and China. Foreign nationals from more than a dozen countries are among the missing, including dozens of Americans who had been traveling with a tour group of roughly 50 people at the time floodwaters struck. South Korean officials said nine of their citizens working on a hydropower project in the area are unaccounted for, and Malaysia's foreign ministry said 11 of its nationals lost contact while believed to be in the Rasuwa district. Family members reached by journalists in the days since have described a mix of desperate hope and mounting grief as they wait for any word."
+    },
+    {
+      "type": "heading",
+      "text": "The Danger Hasn't Fully Passed"
+    },
+    {
+      "type": "paragraph",
+      "text": "Adding to the anguish of the search effort, the immediate physical danger in the region hasn't fully cleared. A barrier lake formed by the initial landslide has begun overflowing near the flood zone, and while Chinese officials described the situation as stable on Sunday and said a complete breach appeared unlikely, Nepali disaster authorities issued fresh alerts over the weekend warning residents near the Bhote Koshi River to stay alert as water flow increased. A second glacial lake elsewhere in the mountains has also been swelling, and meteorologists have warned that more rain could complicate both the search effort and the risk of further flooding."
+    },
+    {
+      "type": "heading",
+      "text": "Questions About What Triggered It, and What Comes Next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Scientists are still piecing together exactly what caused the glacier collapse, though early analysis points to a familiar and increasingly urgent culprit: a warming Himalaya. Disaster risk researchers note the region experienced a similar flash flood just fourteen months ago, when a glacial lake overflow in Tibet caused significant damage, and a comparable event struck the same border area in August of last year as well. Climate scientists have repeatedly flagged glacial lake outburst floods as a growing hazard across the Himalayas as rising temperatures destabilize ice formations that have remained largely static for generations."
+    },
+    {
+      "type": "paragraph",
+      "text": "The disaster has also drawn attention to how differently the two affected countries are handling information in its aftermath. International reporters have noted that footage and details from the Tibetan side of the border have been considerably harder to verify than reporting from Nepal, with some video from the affected region reportedly appearing briefly online before being taken down. Nepal's government, for its part, has formally requested search-and-rescue assistance from both India and China as it works to reach the more than 4,000 people still unaccounted for on its side of the border."
+    },
+    {
+      "type": "paragraph",
+      "text": "For now, families on multiple continents are left in the same painful position: waiting for news that may not come, and holding on to whatever hope the search effort can still offer. As one relative of two missing American tourists put it in the days after the flood, there's no room left for being afraid — only for hoping."
+    }
+  ]
+},
+    {
+  "slug": "us-venezuela-oil-deal-65-billion-barrels-trump-rodriguez-2026",
+  "headline": "US Strikes Historic Deal for 65 Billion Barrels of Venezuelan Oil",
+  "dek": "President Trump called it the biggest oil deal in world history, coming months after US forces captured Maduro amid rising gas prices and the war with Iran.",
+  "authorSlug": "raj-patel",
+  "source": "NPR / NBC News",
+  "publishedAt": "2026-08-29T10:00:00Z",
+  "updatedAt": "2026-08-31T15:00:00Z",
+  "heroImage": "/images/us-venezuela-oil-deal-65-billion-barrels-trump-rodriguez-2026.webp",
+  "heroCaption": "A sculpture stands outside the Caracas headquarters of Petróleos de Venezuela, the country's state-owned oil company.",
+  "heroCredit": "AFP/Getty Images",
+  "tags": [
+    "World",
+    "Energy",
+    "Venezuela",
+    "Politics"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "President Trump wasted no words on modesty when he announced the agreement Friday evening. In a post on Truth Social, he called it the biggest oil deal in world history, saying the United States had secured majority control of more than 65 billion barrels of proven oil reserves in Venezuela. He added that the arrangement would more than double America's oil reserves and substantially lower gas prices for everyday Americans, a claim that will likely take years, not weeks, to actually test."
+    },
+    {
+      "type": "paragraph",
+      "text": "The deal, negotiated by Secretary of State Marco Rubio and Defense Secretary Pete Hegseth alongside Venezuela's acting president Delcy Rodríguez, grants a newly formed private company a 100-year lease over oil fields holding those 65 billion barrels. The US government would hold an effective 55% stake in that company's output, according to an official familiar with the terms, along with rights to buy oil at cost — an arrangement that would make the venture the second-largest corporate holder of proven oil reserves in the world, trailing only Saudi Aramco."
+    },
+    {
+      "type": "heading",
+      "text": "The Backdrop: A Captured President and a War Driving Up Gas Prices"
+    },
+    {
+      "type": "paragraph",
+      "text": "This deal doesn't exist in a vacuum. It arrives roughly nine months after US forces carried out a military operation in Caracas that captured then-president Nicolás Maduro and his wife, Cilia Flores, and brought them to the United States to face federal charges of narcoterrorism and drug trafficking. Both have pleaded not guilty and are set to stand trial in New York in 2027. Delcy Rodríguez has served as Venezuela's acting president since Maduro's removal, and it's her government that negotiated and signed off on the new oil arrangement."
+    },
+    {
+      "type": "paragraph",
+      "text": "The timing also lines up with real political pressure at home. Trump is facing mounting scrutiny over gas prices, which have climbed since the war between the US, Israel, and Iran began roughly six months ago, and with midterm elections approaching, the administration has been eager to show it's taking concrete steps to bring energy costs back down. Whether this particular deal actually delivers on that promise anytime soon is a separate question entirely."
+    },
+    {
+      "type": "heading",
+      "text": "Why the Payoff Could Take Years, Not Days"
+    },
+    {
+      "type": "paragraph",
+      "text": "Venezuela sits on an estimated 303 billion barrels of proven crude reserves, roughly 17% of the world's known supply, more than any other country on Earth. But there's a catch that's been true for decades: because of chronically underfunded, deteriorating infrastructure, the country currently produces only about 1% of global oil output. Unlike other reserves around the world that still require exploration, Venezuela's oil is largely already mapped and understood — the problem has never been finding it, but pumping it out at scale."
+    },
+    {
+      "type": "paragraph",
+      "text": "That gap between reserves and actual production is exactly why energy analysts are cautioning against expecting a quick payoff. Much of the acreage covered by the new deal is greenfield land that typically takes seven to ten years to bring into production, while the rest consists of aging brownfield sites left to decay under the Chávez and Maduro governments, which will require billions of dollars in fresh investment before they can meaningfully add to global supply. Chevron, currently the only major US oil company still operating inside Venezuela, declined to comment on the announcement."
+    },
+    {
+      "type": "heading",
+      "text": "What It Means for Venezuela — and for Washington's Reach in the Region"
+    },
+    {
+      "type": "paragraph",
+      "text": "For Venezuela, officials are framing the deal as a lifeline for an economy battered by years of sanctions, mismanagement, and isolation. Rodríguez said in a statement that the agreement would have a significant impact on the nation's revival, and US officials have suggested it could bring close to $100 billion in private investment into the country over time. Oil produced at cost through the new arrangement is also expected to help refill the US Strategic Petroleum Reserve and support American military fuel needs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Beyond the barrels themselves, the deal marks a striking expansion of Washington's direct role in shaping Venezuela's economy, following a stretch of aggressive US actions in the region that included a naval blockade intercepting tankers suspected of trafficking sanctioned oil. Some analysts have compared the structure to earlier US arrangements involving sanctions relief tied to narrow legal carve-outs in Iran, though on a considerably larger scale and with the US government itself taking a more direct hand than in those earlier cases. Whether Venezuela's own legal and constitutional framework, which reserves core oil industry control for the state, ultimately allows the deal to proceed without further challenge remains an open question heading into the coming weeks."
+    }
+  ]
+},
+    {
+  "slug": "lionel-messi-retires-argentina-national-team-2026",
+  "headline": "Lionel Messi Retires From Argentina's National Team After 21 Years",
+  "dek": "The 39-year-old leaves as Argentina's all-time leader in caps and goals, capping a career with the 2022 World Cup and a runner-up finish, weeks after his father's death.",
+  "authorSlug": "raj-patel",
+  "source": "NPR / CNN",
+  "publishedAt": "2026-08-31T16:00:00Z",
+  "updatedAt": "2026-08-31T18:00:00Z",
+  "heroImage": "/images/lionel-messi-retires-argentina-national-team-2026.webp",
+  "heroCaption": "Lionel Messi reacts on the pitch after Argentina's loss to Spain in the 2026 World Cup final.",
+  "heroCredit": "Reuters",
+  "tags": [
+    "World",
+    "Sports",
+    "Argentina"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Lionel Messi has played his last game in Argentina's blue and white. The 39-year-old announced Monday that he's retiring from international soccer, closing out 21 years of national team duty that turned him into arguably the sport's greatest player and, for Argentina, a source of both heartbreak and, eventually, redemption."
+    },
+    {
+      "type": "paragraph",
+      "text": "The numbers alone tell an extraordinary story. Messi made his Argentina debut in 2005 and leaves as the country's all-time leader in both appearances and goals, having played 207 matches and scored 125 times. He represented his country across six World Cups, and this summer he became the tournament's all-time leading scorer with 21 career World Cup goals, a record that stood only briefly before France's Kylian Mbappé edged ahead with 22."
+    },
+    {
+      "type": "heading",
+      "text": "A Career Defined by One Final Chase"
+    },
+    {
+      "type": "paragraph",
+      "text": "For much of his international career, Messi carried a peculiar burden: universally regarded as one of the greatest players ever, yet without the one trophy that mattered most to Argentine fans. He lost three straight Copa América finals between 2007 and 2016, including a heartbreaking penalty miss in the 2016 shootout against Chile that led him to briefly announce his first retirement from the national team, only to reverse course months later."
+    },
+    {
+      "type": "paragraph",
+      "text": "That long chase finally ended in 2022, when Messi captained Argentina to World Cup glory in Qatar, finally delivering the trophy that had eluded him for nearly two decades. He added two Copa América titles in 2021 and 2024 along the way, before returning to a World Cup final one more time this summer, only to fall short against Spain in July."
+    },
+    {
+      "type": "heading",
+      "text": "A Decision Shaped by Grief"
+    },
+    {
+      "type": "paragraph",
+      "text": "In his statement, posted on Instagram, Messi said he'd spent weeks weighing his future after the World Cup final loss before deciding it was time to step away. He described the decision as one that hurt, and still hurts, but said he understood the moment had arrived. He thanked his family, teammates, coaches, and fans for the journey, writing that he always gave everything for the jersey, not just in the recent years of trophies but throughout the harder years before them."
+    },
+    {
+      "type": "paragraph",
+      "text": "Messi revealed he'd actually written much of his farewell message back in July, just two days after the World Cup final, but held off on publishing it. He said the recent death of his father, Jorge Messi, who had managed much of his career and business affairs, made him even more certain the time had come to close this chapter and step into a new role: supporting Argentina from the stands, as a fan, rather than from the pitch."
+    },
+    {
+      "type": "heading",
+      "text": "What Comes Next"
+    },
+    {
+      "type": "paragraph",
+      "text": "The retirement applies only to international duty — Messi continues playing professionally for Inter Miami in Major League Soccer, and he gave no indication in his statement about how much longer his club career might continue. Argentina's football federation has previously said it plans to retire his number 10 jersey for the national team permanently once his international career ended, a tribute the federation's president has compared to honoring Diego Maradona, the only other player who commands that level of reverence in Argentine soccer history."
+    },
+    {
+      "type": "paragraph",
+      "text": "For a generation of fans who grew up watching Messi chase, and eventually catch, the one prize that had defined his career, Monday's announcement closes a rare kind of sports story: one where the ending actually arrived on the player's own terms, trophy in hand, rather than being taken from him by decline or misfortune."
+    }
+  ]
+},
+    {
+  "slug": "tsmc-arizona-expansion-100-billion-us-chip-manufacturing-2026",
+  "headline": "TSMC Pours $100 Billion Into Arizona as US Chipmaking Surges",
+  "dek": "TSMC now has 12 planned US facilities and a $265 billion total American investment, even as rival Intel's foundry business struggles to land major customers.",
+  "authorSlug": "raj-patel",
+  "source": "MarketWise / DigiTimes",
+  "publishedAt": "2026-08-14T13:00:00Z",
+  "updatedAt": "2026-08-21T09:00:00Z",
+  "heroImage": "/images/tsmc-arizona-expansion-100-billion-us-chip-manufacturing-2026.webp",
+  "heroCaption": "A cleanroom technician works inside TSMC's advanced chip fabrication facility in Phoenix, Arizona.",
+  "heroCredit": "Reuters",
+  "tags": [
+    "Business",
+    "Technology",
+    "Semiconductors",
+    "Manufacturing"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Taiwan Semiconductor Manufacturing Company just made its biggest bet yet on American soil. The world's largest contract chipmaker confirmed it's committing another $100 billion toward its first advanced semiconductor manufacturing site in the US, according to CFO Wendell Huang, bringing the company's total planned American investment to a staggering $265 billion across 12 semiconductor and packaging facilities."
+    },
+    {
+      "type": "paragraph",
+      "text": "The scale of that number is hard to overstate. It's more than double what most analysts expected TSMC to eventually commit to the US when the CHIPS and Science Act first passed back in 2022, and it reflects just how central American demand has become to the company's business. Roughly 78% of TSMC's second-quarter revenue this year came from North American customers alone, chief among them Apple, Nvidia, and Advanced Micro Devices, all of which depend on TSMC's most advanced chips to power everything from smartphones to AI data centers."
+    },
+    {
+      "type": "heading",
+      "text": "A Dominance That Keeps Widening"
+    },
+    {
+      "type": "paragraph",
+      "text": "TSMC isn't just investing more, it's pulling further ahead of everyone else in the industry. The company now holds roughly 72% of the global pure-play foundry market, and at the leading edge of chip technology, its advantage is even starker. TSMC's 2nm manufacturing node is already in volume production, while its closest rivals remain at least 12 to 18 months behind on equivalent technology. That gap has helped push TSMC's market capitalization to around $1.1 trillion, making it easily the most valuable semiconductor company on Earth and one of the ten most valuable companies of any kind."
+    },
+    {
+      "type": "paragraph",
+      "text": "TSMC's overseas operations, including the US facilities, have also crossed an important financial threshold this year: they turned profitable in the first half of 2026 for the first time, with the Arizona operations specifically posting a 663% year-over-year profit surge. For a company that spent years absorbing losses to stand up unfamiliar manufacturing operations far from its Taiwanese base, that turnaround marks a genuine milestone, not just a symbolic one."
+    },
+    {
+      "type": "heading",
+      "text": "Intel's Harder Road"
+    },
+    {
+      "type": "paragraph",
+      "text": "The contrast with Intel, once positioned as America's homegrown answer to TSMC's dominance, has only grown more pronounced. Intel Foundry Services continues to face real headwinds, with the company's overall 2026 capital spending outlook flat to declining as it restructures the foundry business. Intel's newer 18A manufacturing process has shown promise in early testing, but the company has yet to land major external customers willing to bet their chip production on it at scale, a stark difference from TSMC's already sold-out 2nm capacity."
+    },
+    {
+      "type": "paragraph",
+      "text": "To shore up its finances during this stretch, Intel priced a stock offering to raise roughly $19.7 billion, money the company says will help fund its transition toward the next-generation 14A manufacturing node. Whether that investment translates into the kind of customer wins needed to make Intel Foundry genuinely competitive with TSMC remains one of the more closely watched questions in the entire chip industry heading into 2027."
+    },
+    {
+      "type": "heading",
+      "text": "Why the CHIPS Act Bet Is Still a Work in Progress"
+    },
+    {
+      "type": "paragraph",
+      "text": "It's worth remembering how bumpy the road to this moment has actually been. The CHIPS and Science Act, signed into law in 2022 with roughly $52.7 billion in incentives, generated enormous early optimism with a wave of announced fabs from TSMC, Intel, and Samsung. But by late 2024, those projects had run into real logistical and financial headwinds, and TSMC itself pushed back its original Arizona fab timeline by roughly a year, citing labor shortages and prolonged incentive negotiations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Those early struggles help explain why analysts are treating this latest $100 billion commitment as more significant than a routine investment update. It suggests TSMC's calculus has shifted from cautious hedging toward genuine long-term confidence that building at scale in the US, despite the higher costs and slower ramp-up compared to Taiwan, is now worth the trade-off given how much its biggest customers value having advanced chip supply closer to home."
+    },
+    {
+      "type": "heading",
+      "text": "What It Means for the Broader Chip Race"
+    },
+    {
+      "type": "paragraph",
+      "text": "Even with this expansion, Taiwan still manufactures more than 90% of the world's most advanced logic chips, and that geographic concentration isn't going away overnight regardless of how much capacity gets built stateside. But for American AI and technology companies that have spent the past few years anxious about supply chain exposure concentrated on one island in a geopolitically sensitive region, TSMC's growing US footprint represents real, if gradual, diversification — even if the chips rolling off Arizona's production lines still represent a small fraction of what the company produces globally."
+    }
+  ]
+},
+    {
+  "slug": "ai-decodes-complete-herculaneum-scroll-vesuvius-challenge-2000-years",
+  "headline": "AI Fully Reads Ancient Scroll Buried by Vesuvius 2,000 Years Ago",
+  "dek": "The Vesuvius Challenge, a US-backed competition offering millions in prize money, helped researchers recover the full text of a Herculaneum scroll without unrolling it.",
+  "authorSlug": "raj-patel",
+  "source": "Greek Reporter / Nature",
+  "publishedAt": "2026-06-26T10:00:00Z",
+  "updatedAt": "2026-08-20T09:00:00Z",
+  "heroImage": "/images/ai-decodes-complete-herculaneum-scroll-vesuvius-challenge-2000-years.webp",
+  "heroCaption": "A carbonized papyrus scroll from Herculaneum, buried by the eruption of Mount Vesuvius in 79 CE and now readable for the first time with AI.",
+  "heroCredit": "Reuters",
+  "tags": [
+    "Technology",
+    "Culture",
+    "Archaeology",
+    "AI"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "For nearly two thousand years, a library's worth of scrolls sat sealed inside a villa in Herculaneum, carbonized into fragile black lumps by the same volcanic eruption that buried Pompeii in 79 CE. Any attempt to physically unroll them destroys them instantly, which is exactly why they'd never been read, until researchers this year managed to recover the complete text of one scroll using artificial intelligence, without ever touching the ancient papyrus itself."
+    },
+    {
+      "type": "paragraph",
+      "text": "The breakthrough is the latest milestone from the Vesuvius Challenge, a competition founded by US technology executives that has now paid out $1.8 million in prize money to researchers and computer scientists racing to crack open these ancient documents virtually. The approach combines high-resolution CT scanning with machine learning models trained to detect the faint traces of carbon-based ink on carbonized papyrus, then digitally unrolls the scroll's internal layers into a flat, readable surface."
+    },
+    {
+      "type": "heading",
+      "text": "How You Read a Scroll You Can Never Open"
+    },
+    {
+      "type": "paragraph",
+      "text": "The technical challenge here is genuinely strange, even by archaeology standards. The scrolls are scanned inside a particle accelerator to produce extraordinarily detailed 3D X-ray images, since standard imaging can't distinguish carbon-based ink from the carbonized papyrus it sits on, the two are nearly identical in density. Machine learning models trained on thousands of scanned fragments learn to pick out the subtle textural differences that mark where ink was applied, effectively teaching a computer to see something the human eye simply cannot."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nat Friedman, the US tech executive who helped found and fund the Vesuvius Challenge, described this latest full-scroll result as only the beginning, and said researchers expect meaningful further improvements in both the AI algorithms and the ink-detection methods that made the breakthrough possible. He's also been actively recruiting more computing talent to join the effort, betting that the hardest technical problems left in the project are exactly the kind that a wider pool of researchers might crack faster."
+    },
+    {
+      "type": "heading",
+      "text": "A Broader Wave of AI Meeting Ancient History"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Herculaneum breakthrough isn't happening in isolation. Across American universities, classics and digital humanities departments have quietly become some of the more surprising adopters of cutting-edge AI over the past couple of years. At the University of Iowa, classics professor Paul Dilley recently secured a $500,000 grant from the philanthropic research funder Schmidt Sciences to train AI models capable of suggesting plausible reconstructions for missing or damaged sections of ancient manuscripts, a project he expects to run for the next three years."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dilley has been careful to frame the technology as a research aid rather than a replacement for traditional scholarship, emphasizing that human experts still need to have the final word on what a damaged passage most likely said. Similar caution runs through much of the field. Researchers at the University of Notre Dame have spent recent years developing neural networks capable of transcribing complex medieval handwriting, and have already adapted the system to read Ethiopian manuscripts written in an entirely different character set, a first step toward tools that could eventually handle multiple ancient languages at once."
+    },
+    {
+      "type": "heading",
+      "text": "The Limits of What AI Can Actually Do Here"
+    },
+    {
+      "type": "paragraph",
+      "text": "Not every part of this pipeline is going smoothly. A recent benchmarking study testing large language models against the full workflow of preparing a scholarly digital edition found that while top AI systems scored above 90 out of 100 on straightforward ancient-language translation and grammar parsing, their performance dropped sharply, down to 60 to 74 out of 100, when asked to generate the structured technical metadata scholars actually need to catalog a manuscript properly. The models frequently invented catalog formats that don't exist or misapplied technical markup, a reminder that reading ancient text and correctly documenting it for other researchers remain two very different problems."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rutgers digital humanities librarian Francesca Giannetti, who has watched the field evolve closely, says classicists arrived at a similar realization early on: computational tools would clearly help with the grinding, technical work of the discipline, but they were never going to substitute for the trained judgment scholars bring to interpreting what a damaged or ambiguous passage actually means. The Herculaneum scroll result suggests just how far the technical side of that partnership has already come, even as the harder questions of meaning and context remain firmly in human hands."
+    }
+  ]
+},
+    {
+  "slug": "nvidia-nokia-6g-ai-ran-t-mobile-trials-2026",
+  "headline": "NVIDIA and Nokia Partner on AI-Native 6G, T-Mobile Trials Begin",
+  "dek": "The partnership pairs NVIDIA's telecom computing chips with Nokia's radio equipment, betting AI built into wireless networks is the key to America's next-gen mobile race.",
+  "authorSlug": "raj-patel",
+  "source": "NVIDIA Newsroom / DCD",
+  "publishedAt": "2026-08-19T14:00:00Z",
+  "updatedAt": "2026-08-25T10:00:00Z",
+  "heroImage": "/images/nvidia-nokia-6g-ai-ran-t-mobile-trials-2026.webp",
+  "heroCaption": "Engineers test AI-RAN equipment at an NVIDIA and Nokia demonstration site, part of the companies' push toward AI-native 6G networks.",
+  "heroCredit": "NVIDIA",
+  "tags": [
+    "Technology",
+    "Telecom",
+    "6G",
+    "AI"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "NVIDIA and Nokia are betting that the fight over 6G won't be won on raw data speeds alone, it'll be won on which networks can think for themselves. The two companies announced a strategic partnership this month to build commercial-grade AI-RAN products, essentially wireless network hardware with artificial intelligence baked directly into the radio access layer, on top of NVIDIA's computing platforms. T-Mobile has signed on as an early collaborator, with field trials expected to begin later this year focused on validating real-world performance and efficiency gains."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the center of the announcement is a new piece of hardware NVIDIA is calling the Arc Aerial RAN Computer, a telecom computing platform the company describes as 6G-ready. Nokia plans to fold NVIDIA-powered, AI-RAN products into its existing radio access network portfolio, while Dell Technologies is contributing PowerEdge servers to help power the resulting systems. It's a genuinely unusual lineup, chipmaker, telecom equipment vendor, server maker, and wireless carrier all working from the same architecture at once."
+    },
+    {
+      "type": "heading",
+      "text": "Why AI Inside the Network, Not Just On Top of It"
+    },
+    {
+      "type": "paragraph",
+      "text": "The pitch behind AI-RAN is straightforward, even if the engineering underneath it is not: today's cellular networks run on radio access algorithms that are, in NVIDIA's own description, roughly fifty years old at their core. Threading AI directly into that layer, rather than treating it as an add-on service running elsewhere, is supposed to squeeze meaningfully more spectral efficiency out of the same physical airwaves, while also giving networks the horsepower to handle a coming wave of AI-heavy traffic, from generative AI assistants on phones to autonomous drones and robots that will need near-instant, reliable connections."
+    },
+    {
+      "type": "paragraph",
+      "text": "NVIDIA's telecom lead, Ronnie Vasishta, has described this as building the intelligent network infrastructure that what the industry calls physical AI, autonomous machines actually operating in the real world, will ultimately depend on. It's a bigger ambition than simply making phone calls clearer or downloads faster; the argument is that the whole next wave of AI-powered hardware, from self-driving cars to factory robots, needs a wireless network smart enough to keep up with it in real time."
+    },
+    {
+      "type": "heading",
+      "text": "A Crowded, and Increasingly Geopolitical, Race"
+    },
+    {
+      "type": "paragraph",
+      "text": "NVIDIA isn't approaching this alone or quietly. The company has built out an AI-RAN Alliance that now counts more than 130 participating companies, and has separately joined the US FutureG Office's OCUDU Initiative, a government-industry effort aimed at accelerating open, software-defined, AI-native 6G architecture domestically. NVIDIA has also put real money behind the bet, investing roughly $1 billion in Nokia as part of its broader push to use 6G as an entry point into the telecom hardware business it's historically had little presence in."
+    },
+    {
+      "type": "paragraph",
+      "text": "That flurry of alliances and investment isn't happening in a vacuum. Industry analysts tracking the space note that geopolitics has made the race toward 6G considerably more interesting than prior generational shifts, with multiple countries racing to shape the technical standards and supply chains that will define the next era of global wireless infrastructure. For the US specifically, backing an AI-native approach to 6G is being framed by some in the industry as a chance to reclaim ground in wireless leadership that shifted overseas during earlier network generations."
+    },
+    {
+      "type": "heading",
+      "text": "Still Early, and Not Everyone's Convinced Yet"
+    },
+    {
+      "type": "paragraph",
+      "text": "For all the momentum, plenty of skepticism remains about how fast, and how completely, this vision actually gets built. Formal 3GPP standards work covering dedicated 6G studies isn't expected to wrap up until the 2026-2028 window, with commercial specifications not fully codified until closer to 2030 or 2031. Even within the industry, there's genuine debate about just how far AI hardware should physically extend into network infrastructure. A Samsung networks executive has noted that operators are still carefully weighing the total cost of actually putting GPUs inside base stations against the business case for doing so, a sign that the economics here are far from settled even as the technical vision gets more concrete."
+    },
+    {
+      "type": "paragraph",
+      "text": "Market forecasters, meanwhile, are penciling in a long runway before this translates into real revenue. Global technology intelligence firm ABI Research projects total 6G radio revenue will grow from roughly $8.1 billion in 2029 to $67 billion by 2034, with AI-chipset radio revenue specifically climbing from $1.8 billion to nearly $58 billion over that same stretch. Researchers at the firm describe 2029 through 2031 as the critical proving period, when operators will find out whether enterprise demand and AI-driven services can actually justify the scale of investment being discussed today."
+    }
+  ]
+}
+  ],
+  "us": [
+    {
+  "slug": "one-week-social-media-detox-improves-mental-health-jama-study-2026",
+  "headline": "A One-Week Social Media Break Improved Young Adults' Mental Health",
+  "dek": "Participants who quit TikTok, Instagram, X, Snapchat, and Facebook for seven days saw anxiety drop 16% and depression fall nearly 25%, per new JAMA research.",
+  "authorSlug": "sarah-kim",
+  "source": "JAMA Network Open / EdSource",
+  "publishedAt": "2026-07-02T13:00:00Z",
+  "updatedAt": "2026-08-20T10:00:00Z",
+  "heroImage": "/images/one-week-social-media-detox-improves-mental-health-jama-study-2026.webp",
+  "heroCaption": "A young adult sets aside their phone, part of a week-long social media detox studied by researchers.",
+  "heroCredit": "Getty Images",
+  "tags": [
+    "Health",
+    "Technology",
+    "Wellbeing"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "It turns out a week away from the scroll can do more for your mood than most people expect. A national study published in JAMA Network Open found that young adults who quit social media entirely for one week saw meaningful, measurable improvements in their mental health, with anxiety symptoms dropping by roughly 16%, depression symptoms falling by nearly 25%, and insomnia easing by close to 15%."
+    },
+    {
+      "type": "paragraph",
+      "text": "Researchers followed 373 participants between the ages of 18 and 24, first tracking a baseline week of ordinary social media use before inviting them into a week-long detox. Of that group, 295 opted in and agreed to stop using TikTok, X, Instagram, Snapchat, and Facebook entirely for seven days, giving the research team a genuinely apples-to-apples comparison of the same people's mental health before and after cutting the apps out."
+    },
+    {
+      "type": "heading",
+      "text": "The Twist: It Didn't Actually Reduce Screen Time"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here's the part that surprised even the researchers. During the detox, participants did cut their social media use dramatically, from just under two hours a day down to roughly 30 minutes. But their overall phone use barely budged, and in some cases even ticked up slightly, as people simply redirected their attention to other apps and activities instead of putting the phone down altogether."
+    },
+    {
+      "type": "paragraph",
+      "text": "That finding complicates a lot of the simpler advice floating around about digital wellbeing. It suggests the mental health benefit wasn't really about screen time in some general sense, phone use overall stayed roughly flat, but something more specific to what social media apps themselves do to people's mood and headspace when they're actively in the feed."
+    },
+    {
+      "type": "heading",
+      "text": "It's Not About How Much You Use It — It's How"
+    },
+    {
+      "type": "paragraph",
+      "text": "Digging deeper into the data, the researchers found that objective usage metrics, like how many times someone opened an app or picked up their phone, didn't reliably predict who struggled with mental health and who didn't. What did predict it was something harder to measure from the outside: whether someone reported patterns of what researchers call problematic use, things like compulsively checking notifications, comparing themselves to others they see online, or feeling like they can't stop scrolling even when they want to."
+    },
+    {
+      "type": "paragraph",
+      "text": "Participants who reported those compulsive or comparison-driven usage patterns were considerably more likely to experience poor mental health than participants who used social media just as often but in a more passive, low-stakes way. Loneliness, notably, didn't change much for either group during the detox week, suggesting the apps' effect on mood operates somewhat separately from whatever role they play in helping people feel socially connected."
+    },
+    {
+      "type": "heading",
+      "text": "What This Means If You're Not Ready to Fully Quit"
+    },
+    {
+      "type": "paragraph",
+      "text": "The findings arrive at a moment when concern about social media's effect on young people's mental health has become one of the more consistent themes in American public health conversation, with Johns Hopkins researchers and others regularly examining the science behind social media use disorder and its links to anxiety and depression in children, teens, and adults alike. This particular study adds a useful, practical data point to that broader conversation: even a short, temporary break seems to move the needle, without requiring someone to permanently delete their accounts or give up their phone."
+    },
+    {
+      "type": "paragraph",
+      "text": "For anyone weighing whether a digital detox is worth trying, the takeaway from this research is less about the total hours spent on a screen and more about noticing your own relationship to the apps themselves. If checking in feels compulsive rather than intentional, or if scrolling tends to leave you comparing your life to everyone else's highlight reel, this study suggests that's the pattern worth interrupting, even briefly, rather than screen time in the abstract."
+    }
+  ]
+},
+    {
+  "slug": "acs-colorectal-cancer-screening-guidelines-2026-new-blood-test-option",
+  "headline": "American Cancer Society Adds Colorectal Cancer Test Options",
+  "dek": "The 2026 guideline adds a blood test alongside colonoscopy and stool-based options, aiming to reach the 20 million unscreened Americans as cases rise in adults under 50.",
+  "authorSlug": "sarah-kim",
+  "source": "American Cancer Society",
+  "publishedAt": "2026-05-27T14:00:00Z",
+  "updatedAt": "2026-08-15T09:00:00Z",
+  "heroImage": "/images/acs-colorectal-cancer-screening-guidelines-2026-new-blood-test-option.webp",
+  "heroCaption": "A patient discusses colorectal cancer screening options with a physician, following the American Cancer Society's updated 2026 guidelines.",
+  "heroCredit": "Getty Images",
+  "tags": [
+    "Health",
+    "Public Health",
+    "Cancer"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The American Cancer Society updated its colorectal cancer screening guidelines this year with a straightforward goal: give more people an option that actually fits their life, so fewer people skip screening altogether. The 2026 update reaffirms that average-risk adults should start screening at age 45 and continue through 75, but it's the new menu of testing options that marks the real shift, adding a blood-based test taken during a routine doctor's visit alongside an updated and a brand-new at-home stool test."
+    },
+    {
+      "type": "paragraph",
+      "text": "Colonoscopy remains the gold standard in the guideline, both detecting and removing precancerous polyps in the same procedure. But the American Cancer Society has been explicit that expanding the list of alternatives isn't about replacing colonoscopy, it's about meeting the roughly 20 million eligible Americans, about one in three adults, who haven't been screened as recommended somewhere closer to where they already are."
+    },
+    {
+      "type": "heading",
+      "text": "Why the Stakes Keep Rising"
+    },
+    {
+      "type": "paragraph",
+      "text": "The urgency behind this update isn't abstract. Recent American Cancer Society research found that colorectal cancer has become the leading cause of cancer death among adults under age 50 in the United States, a shift that would have seemed unthinkable a generation ago, when the disease was overwhelmingly associated with older adults. Robert Smith, the organization's senior vice president for early cancer detection science and senior author of the guideline update, said broadening the available screening tools is meant to help close that gap and catch more cancers while they're still at an early, treatable stage."
+    },
+    {
+      "type": "paragraph",
+      "text": "The numbers on early detection make the case for screening hard to argue with: five-year survival rates top 90% when colorectal cancer is caught early, a figure that drops sharply the longer a diagnosis is delayed. That gap between what early screening can achieve and how many eligible adults actually get tested is exactly the problem the new guideline is trying to close."
+    },
+    {
+      "type": "heading",
+      "text": "What's New on the Testing Menu"
+    },
+    {
+      "type": "paragraph",
+      "text": "The headline addition is a blood-based test, marketed under the name Shield, which requires only a blood draw at a doctor's office and is recommended every three years for people who choose it over more invasive options. It joins two at-home stool-based tests, one updated version of an existing option and one entirely new addition, both of which work by detecting hidden blood or molecular markers that can signal the presence of polyps or early-stage cancer."
+    },
+    {
+      "type": "paragraph",
+      "text": "It's worth being clear-eyed about where these new options fit in the hierarchy, though. Visual exams like colonoscopy and stool-based tests remain the preferred screening methods in the guideline; the newer blood-based tests are included as a recommended option but not yet a preferred one, reflecting that they're a genuinely useful entry point for people who would otherwise skip screening entirely, even if they don't yet match colonoscopy's combined ability to both detect and immediately remove precancerous growths."
+    },
+    {
+      "type": "heading",
+      "text": "The Broader Screening Picture for 2026"
+    },
+    {
+      "type": "paragraph",
+      "text": "Colorectal cancer isn't the only area where US screening guidance has shifted this year. Guidance for people ages 76 to 85 now explicitly frames continued colorectal screening as a personal decision, weighed against life expectancy, overall health, and prior screening history, rather than a blanket recommendation, while people over 85 are generally advised to stop screening altogether. Similar age-based, risk-adjusted frameworks now guide current US recommendations for breast, lung, cervical, and prostate cancer screening as well, part of a broader trend across American public health guidance toward more individualized rather than one-size-fits-all recommendations."
+    },
+    {
+      "type": "paragraph",
+      "text": "For anyone unsure where they fall in the current guidance, cancer specialists are consistent on one point: the specific test matters far less than actually getting screened. Whichever option someone is most likely to actually complete, whether that's a colonoscopy, an at-home stool kit, or a simple blood draw, is the right one for them, and talking through the options with a primary care provider remains the most reliable way to figure out which path fits an individual's risk factors and life circumstances."
+    }
+  ]
+},
+    {
+  "slug": "fda-approves-first-mrna-flu-vaccine-moderna-mflusiva-2026",
+  "headline": "FDA Approves First-Ever mRNA Flu Vaccine After Refusing It",
+  "dek": "Moderna's mFLUSIVA cleared regulators after an unusual reversal, arriving for the 2026-2027 flu season, with trial data showing stronger protection than traditional shots.",
+  "authorSlug": "sarah-kim",
+  "source": "NPR / US News",
+  "publishedAt": "2026-08-07T12:00:00Z",
+  "updatedAt": "2026-08-23T10:00:00Z",
+  "heroImage": "/images/fda-approves-first-mrna-flu-vaccine-moderna-mflusiva-2026.webp",
+  "heroCaption": "A vial of mFLUSIVA, Moderna's newly FDA-approved mRNA flu vaccine, set for release ahead of the 2026-2027 respiratory virus season.",
+  "heroCredit": "Getty Images",
+  "tags": [
+    "Health",
+    "Vaccines",
+    "Research"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The FDA just approved something it had refused to even look at a few months earlier. On August 5, regulators cleared mFLUSIVA, Moderna's messenger RNA flu vaccine, making it the first mRNA-based flu shot ever approved in the United States. The approval covers adults ages 50 to 64 outright, while adults 65 and older receive it under an accelerated approval pathway, one that allows broad use now but requires a follow-up study to confirm the full benefit down the line."
+    },
+    {
+      "type": "paragraph",
+      "text": "What makes this approval genuinely unusual isn't the science, it's the road it took to get there. Earlier this year, the FDA declined to even review Moderna's application at all, a rare move against a large pharmaceutical company that had run a substantial, largely favorable clinical trial. The agency only relented after real pushback from the pharmaceutical industry and public health experts, eventually convening a meeting of independent outside advisers in June before ultimately clearing the vaccine two months later."
+    },
+    {
+      "type": "heading",
+      "text": "Why the Fight Over This Vaccine Got Political"
+    },
+    {
+      "type": "paragraph",
+      "text": "The FDA's initial refusal to review the application didn't happen in a vacuum. It came amid a broader climate of hostility toward mRNA technology within the current administration, with Health and Human Services Secretary Robert F. Kennedy Jr., a longtime vaccine critic, repeatedly condemning mRNA vaccines publicly. The administration has also cut funding for mRNA vaccine research more broadly and scaled back access to COVID vaccines during the same stretch, part of a wider backlash against pandemic-era vaccine mandates that spilled over into skepticism of the underlying technology itself."
+    },
+    {
+      "type": "paragraph",
+      "text": "Against that backdrop, the eventual approval reads as a genuine reversal rather than a routine regulatory milestone. Moderna CEO Stéphane Bancel framed it as proof of the continued strength and versatility of the company's mRNA platform, calling it an important new option for older Americans navigating a persistent public health challenge."
+    },
+    {
+      "type": "heading",
+      "text": "What the Data Actually Shows"
+    },
+    {
+      "type": "paragraph",
+      "text": "Company research covering more than 40,000 participants found mFLUSIVA to be safe and, notably, associated with stronger protection than traditional flu vaccines, according to trial results shared with regulators. That protection matters given how severe recent flu seasons have been: the 2024-2025 season alone was linked to an estimated 45,000 deaths in the US, with flu-related hospitalizations and outpatient visits reaching their highest levels in fifteen years, according to the Centers for Disease Control and Prevention."
+    },
+    {
+      "type": "paragraph",
+      "text": "Experts are careful to frame mFLUSIVA as an additional option rather than a wholesale replacement for existing flu vaccines. Dr. Georges Benjamin, chief executive of the American Public Health Association, pointed to a different advantage entirely: mRNA vaccines don't rely on the decades-old process of growing vaccine virus in chicken eggs, a method that limits how quickly manufacturers can respond when a flu strain shifts unexpectedly. He said the technology could eventually let public health officials adjust to emerging flu strains far faster than the current system allows."
+    },
+    {
+      "type": "heading",
+      "text": "A Faster Path Ahead, If the System Adapts"
+    },
+    {
+      "type": "paragraph",
+      "text": "Moderna has floated an even bigger long-term implication: the speed of mRNA vaccine production could eventually end the practice of selecting a single flu strain for an entire hemisphere each season, a system that's been the global norm for decades. In theory, individual countries could instead pick whichever strain match works best for their own population in real time, rather than committing to one forecasted strain many months in advance across an entire hemisphere."
+    },
+    {
+      "type": "paragraph",
+      "text": "For now, mFLUSIVA is expected to be available within weeks, in time for the 2026-2027 respiratory virus season. Whether the vaccine's arrival marks a genuine turning point for mRNA technology in the US, or simply one approval within a still-contentious regulatory and political environment, will likely depend on how the accelerated approval for older adults holds up once the required follow-up data comes in."
+    }
+  ]
+},
+    {
+  "slug": "us-hospitals-ai-physician-shortage-2026-adoption-doximity-report",
+  "headline": "US Hospitals Bet on AI as Doctor Shortage Grows Harder to Ignore",
+  "dek": "With up to 86,000 physicians projected missing by 2036, roughly 80% of US hospitals now use AI clinically, though some doctors dispute the shortage itself.",
+  "authorSlug": "sarah-kim",
+  "source": "Doximity / Fortune",
+  "publishedAt": "2026-05-20T13:00:00Z",
+  "updatedAt": "2026-08-22T09:00:00Z",
+  "heroImage": "/images/us-hospitals-ai-physician-shortage-2026-adoption-doximity-report.webp",
+  "heroCaption": "A physician reviews AI-assisted documentation on a tablet between patient visits at a US hospital.",
+  "heroCredit": "Getty Images",
+  "tags": [
+    "Health",
+    "AI",
+    "Hospitals"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "American hospitals are leaning on artificial intelligence harder than ever, and the numbers behind that shift are becoming hard to ignore. Roughly 80% of US hospitals now use AI in at least one clinical or operational function, according to industry data, and the Food and Drug Administration had cleared or approved about 1,250 AI- or machine-learning-enabled medical devices as of last year, a figure that keeps climbing month over month."
+    },
+    {
+      "type": "paragraph",
+      "text": "The pressure driving that adoption is demographic as much as technological. More than 10,000 Americans turn 65 and age into Medicare every single day, even as a wave of practicing physicians nears retirement themselves. The Association of American Medical Colleges projects the country could face a shortage of up to 86,000 physicians by 2036, an improvement from earlier, grimmer forecasts of 124,000, but still a substantial gap in a system where hospitals are already operating on razor-thin margins of roughly 1.5%."
+    },
+    {
+      "type": "heading",
+      "text": "Where AI Is Actually Making a Dent"
+    },
+    {
+      "type": "paragraph",
+      "text": "The clearest, most measurable wins so far aren't in diagnosis, they're in paperwork. AI scribes and ambient listening tools, which automatically transcribe and summarize patient visits, are associated with a 40% to 45% reduction in physician documentation time, according to industry surveys. That matters more than it might sound: physicians have historically spent less than a third of their working hours actually with patients, with the rest swallowed by charting, notes, and administrative overhead that AI tools are increasingly absorbing instead."
+    },
+    {
+      "type": "paragraph",
+      "text": "A 2026 survey from Doximity found that adoption is already broadest among younger physicians, with more than 61% of doctors under 30 reporting they currently use AI in their practice, compared with 55% among physicians in their 50s. Neurology, gastroenterology, and internal medicine reported the highest current usage rates among medical specialties. Notably, even among physicians 60 and older, where adoption is lower, only 11% said they had no interest in using AI tools at all, suggesting resistance to the technology is fading even among more veteran doctors."
+    },
+    {
+      "type": "heading",
+      "text": "What Physicians Say They'd Do With the Time Back"
+    },
+    {
+      "type": "paragraph",
+      "text": "The same survey asked doctors what they'd actually do with hours reclaimed from administrative work, and the answers cut against any narrative that physicians are simply looking to work less. Nearly 37% said they'd want to spend more time with their existing patients, while almost one in five said they'd use the freed-up capacity to take on new patients entirely, a detail that matters given how directly patient access ties back to the physician shortage discussion in the first place."
+    },
+    {
+      "type": "heading",
+      "text": "A Dissenting View: Is This Even the Right Problem?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Not every physician is convinced AI is solving the problem most people think it's solving. Dr. Marc Ayoub, a practicing physician, has argued publicly that framing this as a doctor shortage at all is a mistake, describing it instead as a distribution problem: the physicians largely exist, he argues, but the system is remarkably effective at preventing qualified doctors from practicing where patients actually need them, whether that's rural communities, specific specialties, or underserved regions. Under that view, pouring AI into hospitals that are already well-staffed does little to fix the deeper structural mismatch between where doctors are and where patients live."
+    },
+    {
+      "type": "paragraph",
+      "text": "That critique doesn't dismiss AI's usefulness so much as complicate the story around it. Even AI's more enthusiastic backers in the field tend to agree it won't fix reimbursement policy or single-handedly erase workforce gaps with a software update; the more grounded claim is that it can give physicians back meaningful hours in their day and reduce the burnout that's been pushing experienced doctors toward early retirement or reduced hours in the first place."
+    },
+    {
+      "type": "heading",
+      "text": "Diagnosis Is a Harder Problem Than Paperwork"
+    },
+    {
+      "type": "paragraph",
+      "text": "It's worth being precise about where AI's clinical strengths actually sit right now. Narrow AI models, tools built for a single, well-defined task like flagging a particular pattern on a radiology scan, can already reach genuinely high, specialist-level performance. Radiology is where the vast majority of FDA-cleared AI medical devices are concentrated for exactly that reason. But more general-purpose AI systems, the kind that would need to weigh a complex, ambiguous case the way a physician does, still lag meaningfully behind human specialists on open-ended diagnostic reasoning."
+    },
+    {
+      "type": "paragraph",
+      "text": "That gap helps explain why most hospital AI deployments today are framed around triage, documentation, and flagging cases for physician review, rather than autonomous diagnosis. The technology's near-term role looks less like replacing physicians and more like clearing enough of the noise around them that the doctors who do exist can spend more of their limited time on the patients who need them most."
+    }
+  ]
+},
+    {
+  "slug": "army-secretary-dan-driscoll-resigns-hegseth-tension-2026",
+  "headline": "Army Secretary Dan Driscoll Resigns Amid Hegseth Tension",
+  "dek": "Driscoll's departure, effective September 3, follows a strained relationship with Defense Secretary Pete Hegseth over the firing of top generals and Army readiness concerns.",
+  "authorSlug": "sarah-kim",
+  "source": "CNN / Military Times",
+  "publishedAt": "2026-08-31T20:30:00Z",
+  "updatedAt": "2026-09-01T09:00:00Z",
+  "heroImage": "/images/army-secretary-dan-driscoll-resigns-hegseth-tension-2026.webp",
+  "heroCaption": "Secretary of the Army Dan Driscoll testifies before Congress earlier this year, months before submitting his resignation.",
+  "heroCredit": "Getty Images",
+  "tags": [
+    "US",
+    "Politics",
+    "Defense"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Dan Driscoll's tenure as the Army's top civilian leader is coming to an end, less than two years after it began. The 26th secretary of the Army submitted his resignation to President Trump on Monday, according to multiple people familiar with the matter, with a departure date set for September 3. The move ends a run that started with real momentum and closed amid mounting tension with one of the administration's most powerful national security officials."
+    },
+    {
+      "type": "paragraph",
+      "text": "One source told reporters the decision wasn't a surprise given the friction between Driscoll and Defense Secretary Pete Hegseth. A second source said Driscoll's resignation letter raised concerns about the administration's approach to Army transformation and military readiness, and specifically pointed to Hegseth's role in blocking those efforts by removing the generals responsible for carrying them out."
+    },
+    {
+      "type": "heading",
+      "text": "A Relationship That Frayed Over Firings"
+    },
+    {
+      "type": "paragraph",
+      "text": "The rupture between the two men traces back at least in part to earlier this year, when Hegseth fired Army Chief of Staff General Randy George along with two other senior generals. Driscoll had worked closely with George, and in April congressional testimony, he spoke warmly of the general's four decades of service and Purple Heart, calling him an amazing, transformational leader. Lawmakers from both parties pressed Hegseth on the firings at the time and voiced their own admiration for George, a sign the tension wasn't confined to internal Pentagon politics."
+    },
+    {
+      "type": "paragraph",
+      "text": "The strain reportedly deepened in the weeks before Driscoll's resignation. The Wall Street Journal, which first reported the departure, noted that Driscoll had already moved his family out of the formal Army Secretary's residence and into more modest housing by late August, a detail that outside observers read as an early sign he expected his time in the role to end soon. Other outlets had reported he was weighing a resignation around the Labor Day holiday."
+    },
+    {
+      "type": "heading",
+      "text": "Who Driscoll Is, and How He Got the Job"
+    },
+    {
+      "type": "paragraph",
+      "text": "Driscoll, an Army veteran who served one deployment in Iraq and holds a Ranger tab, came to the role from a background in venture capital and Republican politics rather than a traditional military career track. He ran an unsuccessful 2020 campaign for North Carolina's 11th Congressional District before working as an advisor on Trump's 2024 reelection campaign, and is a close, longtime friend of Vice President JD Vance. He took over as Army secretary in February 2025 and simultaneously served as acting director of the Bureau of Alcohol, Tobacco, Firearms and Explosives until April of this year."
+    },
+    {
+      "type": "paragraph",
+      "text": "During his time in the role, Driscoll pushed hard on modernization and acquisition reform, and the White House credited him with helping negotiate elements of the Russia-Ukraine talks alongside his Pentagon duties. In a statement following the resignation, White House spokeswoman Anna Kelly said Driscoll had been highly effective in advancing the administration's national security agenda and had provided outstanding leadership during a stretch of historic military operations."
+    },
+    {
+      "type": "heading",
+      "text": "What Happens Next"
+    },
+    {
+      "type": "paragraph",
+      "text": "It's not yet clear who will step into the role. Under normal succession, the Army's undersecretary, a position currently held by Michael Obadal, would typically take over, and an Army official has described Obadal as having a strong working relationship with Hegseth. But Hegseth retains the authority to name whoever he wants to serve in an acting capacity, with no obligation to elevate Obadal either temporarily or as a permanent nominee."
+    },
+    {
+      "type": "paragraph",
+      "text": "One name already circulating as a possible successor is Sean Parnell, an Army veteran and political operative currently serving as the Pentagon's chief spokesman, who reporting earlier this year indicated had expressed interest in the job following the abrupt removal of General George. Driscoll's exit adds to a pattern that's defined Hegseth's tenure at the Pentagon since he took office in January 2025, one marked by a string of firings and early departures among senior military and civilian leadership."
+    }
+  ]
+},
+    {
+  "slug": "us-student-loan-debt-1-9-trillion-new-repayment-rules-2026",
+  "headline": "US Student Debt Nears $1.9 Trillion Amid New Repayment Rules",
+  "dek": "Incoming freshmen are projected to graduate owing $43,000 on average, as new Tiered Standard and Repayment Assistance plans arrive alongside resumed wage garnishment.",
+  "authorSlug": "sarah-kim",
+  "source": "Federal Reserve / CNBC / Department of Education",
+  "publishedAt": "2026-08-24T14:00:00Z",
+  "updatedAt": "2026-08-31T09:00:00Z",
+  "heroImage": "/images/us-student-loan-debt-1-9-trillion-new-repayment-rules-2026.webp",
+  "heroCaption": "A college graduate walks across campus, part of a generation now carrying record levels of student loan debt.",
+  "heroCredit": "Getty Images",
+  "tags": [
+    "US",
+    "Education",
+    "Economy"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The number keeps climbing, and it's climbing toward a milestone that would have seemed unthinkable a generation ago. Student loan debt in the United States approached $1.9 trillion in the first quarter of 2026, according to Federal Reserve data, up 3.1% from a year earlier and now spread across roughly 42.8 million Americans holding federal loans alone. For a country where higher education costs more, and is subsidized less, than in almost any other wealthy nation, that trajectory has become one of the more closely watched threads running through the broader US economy."
+    },
+    {
+      "type": "paragraph",
+      "text": "The rise isn't a mystery. Tuition has climbed roughly 5.6% a year on average over recent decades, consistently outpacing both inflation and household income growth, according to J.P. Morgan Asset Management. A growing number of schools have crept toward the $100,000 threshold for total annual cost of attendance, per data from The Princeton Review, and incoming college freshmen this year are projected to graduate owing an average of $43,000 in federal and private loans combined, according to a NerdWallet analysis released this spring."
+    },
+    {
+      "type": "heading",
+      "text": "Collections Resume, and Borrowers Are Feeling It"
+    },
+    {
+      "type": "paragraph",
+      "text": "For borrowers already behind on payments, 2026 has brought real consequences rather than more warnings. The Trump administration resumed collections on defaulted federal loans back in May 2025, reinstating tools like wage garnishment and the seizure of tax refunds that had been paused for years during the pandemic-era relief period. As of the end of last year, $111.3 billion in direct loans sat in some stage of delinquency, affecting about 4.1 million borrowers and accounting for 18% of the direct loan repayment balance, according to Department of Education figures."
+    },
+    {
+      "type": "paragraph",
+      "text": "The scale of financial distress among borrowers extends beyond formal delinquency, too. Roughly 15% of people with a student loan payment due in a recent month either didn't pay at all or paid less than what was required, per the Federal Reserve's most recent Survey of Household Economics and Decisionmaking. Among borrowers already struggling, nearly a quarter had their loans handed over to a debt collector within the past year, a sign of how quickly financial trouble can escalate once a borrower falls behind."
+    },
+    {
+      "type": "heading",
+      "text": "A New Repayment System Arrives"
+    },
+    {
+      "type": "paragraph",
+      "text": "Against that backdrop, the federal government rolled out a genuinely significant overhaul of how student loans get repaid. As of July 1, 2026, key provisions of what the administration calls the Working Families Tax Cuts Act took effect, replacing the tangle of previous repayment options with two simplified paths: a new Tiered Standard plan and an income-driven option called the Repayment Assistance Plan, or RAP. The Department of Education has framed the change as an answer to what it describes as a confusing maze of prior repayment structures that too often left borrowers owing more despite making consistent payments."
+    },
+    {
+      "type": "paragraph",
+      "text": "The rule went through a formal public comment period before taking effect, drawing more than 80,000 responses after being proposed in January. Most provisions kicked in this July, though some elements tied to loan rehabilitation, deferment, and forbearance won't take effect until 2027, and older repayment plans are set to sunset entirely by mid-2028, giving borrowers currently enrolled in those plans a runway to transition rather than an abrupt cutoff."
+    },
+    {
+      "type": "heading",
+      "text": "Are Colleges Actually Getting Cheaper?"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Department of Education has pointed to early signs that some institutions are responding to the new policy environment by trimming costs directly. The University of California, Irvine, for instance, cut tuition for its MBA program by more than 20%, a move the department has cited as evidence the broader legislation is nudging schools toward affordability. Whether that kind of price-cutting becomes widespread across higher education, or remains a handful of standout examples cited in a fact sheet, is a question that will likely take another admissions cycle or two to answer with any confidence."
+    },
+    {
+      "type": "heading",
+      "text": "A Generation Rethinking Whether College Is Worth It"
+    },
+    {
+      "type": "paragraph",
+      "text": "All of this is unfolding alongside a broader shift in how American families are weighing the decision to enroll at all. Around 46% of this year's high school graduates are expected to go on to a four-year college or university, according to NerdWallet, a meaningful share but one reflecting a cultural conversation that's grown considerably more skeptical of college's return on investment than it was a decade ago. Research from Georgetown's Center on Education and the Workforce found that a full quarter of bachelor's degree graduates never fully recoup the cost of their education when measured against what they would have earned without the debt, a statistic that's been widely cited as colleges, students, and policymakers all try to figure out where the true breakeven point for a degree actually sits."
+    },
+    {
+      "type": "paragraph",
+      "text": "That skepticism is already reshaping enrollment patterns. While total college enrollment ticked up slightly to about 19.4 million students in fall 2025, driven largely by 3% growth at community colleges, private nonprofit institutions have seen enrollment decline even as the overall numbers hold roughly steady, with several smaller, tuition-dependent schools closing their doors entirely this year. For prospective students weighing their options, financial advisors increasingly frame the question less as whether to attend college at all, and more as which path, four-year degree, community college, trade program, or apprenticeship, offers the most sustainable debt-to-earnings outlook for their specific field."
+    }
+  ]
+}
   ],
   "lifestyle": [
     {
@@ -1345,219 +1935,373 @@
   ],
   "sports": [
     {
-      "slug": "robotics-meets-athletics-what-unitrees-new-speed-record-means-for-huma",
-      "headline": "Robotics meets athletics: what Unitree's new speed record means for human sport",
-      "dek": "As humanoid robots edge closer to human athletic benchmarks, sports scientists are watching closely.",
-      "authorSlug": "daniel-osei",
-      "source": "Global Times",
-      "publishedAt": "2026-08-15T15:00:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img1.webp",
-      "heroCaption": "A sprinter trains on an athletics track.",
-      "heroCredit": "Xinhua",
-      "tags": [
-        "Sports",
-        "Technology"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "As humanoid robots inch closer to matching human athletic performance in controlled settings, sports scientists say the comparisons are useful for understanding biomechanics even if head-to-head competition remains far off."
-        },
-        {
-          "type": "paragraph",
-          "text": "Coaches note that robotic benchmarks are already influencing how some training programs model sprint mechanics and jump technique."
-        }
-      ]
+  "slug": "nfl-digital-athlete-ai-biomechanics-injury-prevention-2026-season",
+  "headline": "Inside the NFL's AI System Mapping Players to Predict Injuries",
+  "dek": "The Digital Athlete program, built with Amazon Web Services, has helped drive a 25% drop in lower-extremity injuries since 2024, ahead of the 2026 season kickoff.",
+  "authorSlug": "daniel-osei",
+  "source": "NFL / AWS",
+  "publishedAt": "2026-08-25T15:00:00Z",
+  "updatedAt": "2026-08-31T10:00:00Z",
+  "heroImage": "/images/nfl-digital-athlete-ai-biomechanics-injury-prevention-2026-season.webp",
+  "heroCaption": "Sensors and camera arrays track player movement during an NFL practice, part of the league's Digital Athlete AI safety program.",
+  "heroCredit": "Getty Images",
+  "tags": [
+    "Sports",
+    "Technology",
+    "NFL"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Football in 2026 runs on more than playbooks and film sessions. As the NFL kicks off its 107th season this month, the league's biggest technological bet is a program most fans have never heard of: the Digital Athlete, a joint venture with Amazon Web Services that treats player safety less like sideline medicine and more like a computational engineering problem, built to spot injury risk before it actually happens."
     },
     {
-      "slug": "chinese-table-tennis-team-sweeps-podium-at-international-championship",
-      "headline": "Chinese table tennis team sweeps podium at international championship",
-      "dek": "The team claimed gold, silver, and bronze in the women's singles event this weekend.",
-      "authorSlug": "daniel-osei",
-      "source": "Global Times",
-      "publishedAt": "2026-08-18T18:20:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img1.webp",
-      "heroCaption": "The medal ceremony at the international table tennis championship.",
-      "heroCredit": "Global Times",
-      "tags": [
-        "Sports",
-        "Table Tennis"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "China's national table tennis team swept the podium in the women's singles event at this weekend's international championship, claiming gold, silver, and bronze."
-        },
-        {
-          "type": "paragraph",
-          "text": "Coaches credited an intensive training cycle focused on shot variation and mental resilience under pressure."
-        },
-        {
-          "type": "paragraph",
-          "text": "The result extends China's dominant recent record in the sport, though officials say they remain focused on developing the next generation of talent."
-        }
-      ]
+      "type": "paragraph",
+      "text": "The scale of the data collection behind it is hard to overstate. Every player on the field gets mapped across 29 distinct body points, tracked 60 times per second, capturing joint alignment, torque, and asymmetry in enough detail to catch subtle biomechanical changes that would be invisible to a coach watching from the sideline or even reviewing film afterward. Across the league, the system processes roughly 500 million data points every single week, drawn from 38 high-resolution stadium cameras and sensors embedded in players' shoulder pads."
     },
     {
-      "slug": "national-football-league-announces-expansion-to-two-new-host-cities",
-      "headline": "National football league announces expansion to two new host cities",
-      "dek": "The league says the expansion aims to grow grassroots interest in regions with limited top-flight football access.",
-      "authorSlug": "daniel-osei",
-      "source": "Global Times",
-      "publishedAt": "2026-08-16T10:10:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img1.webp",
-      "heroCaption": "A football stadium in one of the newly announced host cities.",
-      "heroCredit": "Reuters",
-      "tags": [
-        "Sports",
-        "Football"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "China's national football league announced this week that it will expand to include two new host cities starting next season, as part of a broader push to grow grassroots interest in the sport."
-        },
-        {
-          "type": "heading",
-          "text": "Growing the Game"
-        },
-        {
-          "type": "paragraph",
-          "text": "League officials said the expansion targets regions with limited access to top-flight football, aiming to build new fan bases and youth development pipelines."
-        },
-        {
-          "type": "paragraph",
-          "text": "The move follows several years of restructuring aimed at improving the league's financial sustainability and competitive balance."
-        }
-      ]
+      "type": "heading",
+      "text": "From Treating Injuries to Forecasting Them"
     },
     {
-      "slug": "young-swimmers-break-multiple-national-records-at-summer-trials",
-      "headline": "Young swimmers break multiple national records at summer trials",
-      "dek": "Several teenage athletes posted personal bests that also stood as new national marks in their age categories.",
-      "authorSlug": "daniel-osei",
-      "source": "Global Times",
-      "publishedAt": "2026-08-14T13:45:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img1.webp",
-      "heroCaption": "A swimmer competing at the national summer trials.",
-      "heroCredit": "AFP",
-      "tags": [
-        "Sports",
-        "Swimming"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Several teenage swimmers broke national records at this summer's trials, posting personal bests that also stood as new marks in their respective age categories."
-        },
-        {
-          "type": "paragraph",
-          "text": "Coaches said the strong performances reflect improved training infrastructure and a deeper talent pool coming through regional development programs."
-        },
-        {
-          "type": "paragraph",
-          "text": "National team selectors said they will monitor the swimmers' progress closely ahead of upcoming international qualifying events."
-        }
-      ]
+      "type": "paragraph",
+      "text": "The fundamental shift the program represents is philosophical as much as technical. Historically, football medicine has been reactive by necessity: a player gets hurt, and the medical staff responds. Digital Athlete flips that model, using AI simulations to model how force accumulates in a player's body over the course of a game or season, essentially forecasting structural stress before it turns into torn ligaments or fractured bone. League officials describe it as running a virtual biomechanics laboratory for all 32 teams simultaneously, rather than 32 separate medical staffs each working with whatever data their own franchise happens to collect."
     },
     {
-      "slug": "chinas-marathon-scene-booms-as-amateur-runner-numbers-double-in-five-y",
-      "headline": "China's marathon scene booms as amateur runner numbers double in five years",
-      "dek": "Race organizers say demand for entry slots now far outstrips available spots in most major city marathons.",
-      "authorSlug": "daniel-osei",
-      "source": "Global Times",
-      "publishedAt": "2026-08-12T09:30:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img1.webp",
-      "heroCaption": "Runners at the start line of a major city marathon.",
-      "heroCredit": "VCG",
-      "tags": [
-        "Sports",
-        "Running",
-        "Wellbeing"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "The number of amateur marathon runners in China has roughly doubled over the past five years, according to figures from national race organizers, fueling a boom in the sport."
-        },
-        {
-          "type": "heading",
-          "text": "A Running Boom"
-        },
-        {
-          "type": "paragraph",
-          "text": "Demand for entry slots in major city marathons now far outstrips available spots, with several races moving to lottery-based registration systems."
-        },
-        {
-          "type": "paragraph",
-          "text": "Running clubs say the trend spans a wide range of ages, with many newcomers citing wellness and social community as key motivations."
-        }
-      ]
+      "type": "paragraph",
+      "text": "That predictive capability now runs on serious computing muscle. The system has simulated more than 10,000 virtual football seasons to train its models, and it's built to deliver injury-risk inferences in under 100 milliseconds, fast enough to be useful in something close to real time rather than only in post-game analysis."
     },
     {
-      "slug": "basketball-academy-partnership-aims-to-develop-grassroots-talent-natio",
-      "headline": "Basketball academy partnership aims to develop grassroots talent nationwide",
-      "dek": "The new partnership will fund coaching programs and facility upgrades in underserved regions.",
-      "authorSlug": "daniel-osei",
-      "source": "Global Times",
-      "publishedAt": "2026-08-10T16:00:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img1.webp",
-      "heroCaption": "Young athletes practicing at a grassroots basketball clinic.",
-      "heroCredit": "Xinhua",
-      "tags": [
-        "Sports",
-        "Basketball"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "A new partnership between a national basketball association and a group of regional sports academies aims to develop grassroots talent in underserved parts of the country."
-        },
-        {
-          "type": "paragraph",
-          "text": "The program will fund coaching clinics and facility upgrades, with an initial focus on smaller cities that currently lack access to structured youth basketball programs."
-        },
-        {
-          "type": "paragraph",
-          "text": "Organizers said the goal is to widen the talent pipeline feeding into professional and national team programs over the next decade."
-        }
-      ]
+      "type": "heading",
+      "text": "The Results Are Already Showing Up in the Injury Numbers"
     },
     {
-      "slug": "winter-sports-infrastructure-investment-continues-ahead-of-next-games",
-      "headline": "Winter sports infrastructure investment continues ahead of next Games cycle",
-      "dek": "New training facilities are being built in several regions as part of a long-term winter sports development plan.",
-      "authorSlug": "daniel-osei",
-      "source": "Global Times",
-      "publishedAt": "2026-08-07T11:25:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img1.webp",
-      "heroCaption": "An indoor winter sports training facility under construction.",
-      "heroCredit": "Global Times",
-      "tags": [
-        "Sports",
-        "Winter Sports"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Investment in winter sports infrastructure is continuing across several regions, as part of a long-term development plan tied to future international competition cycles."
-        },
-        {
-          "type": "paragraph",
-          "text": "New training facilities, including indoor ski and skating venues, are being built to give athletes year-round access regardless of local climate."
-        },
-        {
-          "type": "paragraph",
-          "text": "Sports officials say the goal is to build a sustainable athlete pipeline that outlasts any single competition cycle."
-        }
-      ]
+      "type": "paragraph",
+      "text": "What makes this more than an impressive tech demo is that it's already shaping actual rule changes, and those rule changes appear to be working. Lower-extremity injuries have dropped by roughly 25% following two major interventions informed by the program's data: the 2024 Dynamic Kickoff rule redesign and the league's ban on hip-drop tackles. Both changes were built directly on patterns the Digital Athlete's models surfaced about where and how those specific injuries were actually occurring on the field, rather than relying purely on anecdotal coaching wisdom or historical injury reports."
+    },
+    {
+      "type": "paragraph",
+      "text": "That feedback loop, data revealing a risk pattern, the league adjusting a rule, and injury numbers actually improving afterward, is what NFL officials point to as validation that the investment is paying off in the metric that matters most to players and teams alike: games missed to injury. The league's broader Engineering Roadmap, a $60 million initiative managed through Football Research, Inc., has funded this kind of biomechanics work since 2017, when researchers first began simulating player impacts using modified crash-test dummies to understand how concussions actually happen on the field."
+    },
+    {
+      "type": "heading",
+      "text": "Part of a Bigger Wave Across American Sports"
+    },
+    {
+      "type": "paragraph",
+      "text": "The NFL isn't alone in leaning this heavily on AI-driven biomechanics. San Francisco-based Infinite Athlete, formed through a 2023 merger of two established sports-tech firms, has built out its own player-tracking and biomechanics analytics platform used across multiple pro sports, reflecting how quickly this kind of technology has moved from research curiosity to standard infrastructure across American professional sports. A broader academic review published in 2025 found AI-driven biomechanics work concentrated heavily on two goals, improving athletic performance and predicting injury risk, with wearable sensors and motion-capture systems increasingly treated as standard training-room equipment rather than experimental add-ons."
+    },
+    {
+      "type": "paragraph",
+      "text": "For a league where player availability has become one of the most valuable and closely guarded competitive assets a team can have, that shift from reactive treatment to what officials call engineered availability management isn't just a safety story, it's increasingly a competitive one too. As the 2026 season gets underway, teams that can keep their best players healthy through data science, rather than luck or reduced practice intensity alone, are betting that translates directly into wins."
     }
+  ]
+},
+    {
+  "slug": "us-open-2026-alcaraz-comeback-record-prize-money-flushing-meadows",
+  "headline": "Carlos Alcaraz Returns From Injury to Open US Open Title Defense",
+  "dek": "The defending champion looked sharp in his first match back from a four-month wrist injury, as the US Open kicks off with a record $101 million prize pool.",
+  "authorSlug": "daniel-osei",
+  "source": "ATP Tour / Bleacher Report",
+  "publishedAt": "2026-08-31T20:00:00Z",
+  "updatedAt": "2026-09-01T08:00:00Z",
+  "heroImage": "/images/us-open-2026-alcaraz-comeback-record-prize-money-flushing-meadows.webp",
+  "heroCaption": "Carlos Alcaraz serves during his opening-round match at the 2026 US Open in Flushing Meadows, New York.",
+  "heroCredit": "Getty Images",
+  "tags": [
+    "Sports",
+    "Tennis",
+    "US Open"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Carlos Alcaraz picked up right where he left off, which is exactly what a defending champion coming off a four-month layoff needs to do. The Spaniard opened his 2026 US Open title defense with a straight-sets win over Roman Safiullin, 6-4, 6-4, 6-4, looking sharp enough on his forehand and fit enough on his feet that any lingering concerns about his wrist injury faded almost as soon as the match got underway."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alcaraz hadn't played competitive tennis in four months heading into Flushing Meadows, and while his serve wasn't hitting its usual top speeds, the rest of his game more than compensated. He saved five of six break points he faced and dominated at the net, winning 19 of 24 points when he came forward, the kind of aggressive, controlled performance that suggested the time off did little to dull his instincts on a hard court."
+    },
+    {
+      "type": "heading",
+      "text": "A Record-Setting Tournament Off the Court, Too"
+    },
+    {
+      "type": "paragraph",
+      "text": "This year's US Open is making headlines beyond the results board as well. The tournament is offering a record $101 million total prize pool, the largest in tennis history and a 19% jump from last year's already-substantial $85 million. Running from August 23 through September 13 at the USTA Billie Jean King National Tennis Center, the tournament closes out the Grand Slam calendar with both the men's and women's fields deeper and, thanks to the bigger purse, more financially lucrative than ever before for players across the entire draw, not just the eventual champions."
+    },
+    {
+      "type": "heading",
+      "text": "Other Big Names Made Their Mark Early"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alcaraz wasn't the only story of the tournament's opening days. Top-ranked Aryna Sabalenka cruised through her own first-round match, dropping just a handful of games against Camila Osorio, while American Ben Shelton needed four sets to get past Tallon Griekspoor in front of a home crowd clearly hoping for a deep run from one of the sport's rising domestic stars."
+    },
+    {
+      "type": "paragraph",
+      "text": "There was genuine upset drama too. Stefanos Tsitsipas, a former World No. 3 who's spent recent seasons trying to recapture his earlier form, pulled off his first top-10 win at a major since 2022, taking down Arthur Fils in four sets. Fils had entered the tournament fresh off a title run at the Cincinnati Open and was widely considered one of the players most likely to make a deep run in New York, which made Tsitsipas's win one of the tournament's more meaningful early results rather than just an opening-round formality."
+    },
+    {
+      "type": "heading",
+      "text": "American Players Have Reasons for Optimism"
+    },
+    {
+      "type": "paragraph",
+      "text": "On the American side of the draw, ninth-seeded Taylor Fritz enters the tournament with real momentum, having won the Citi Open and reached the quarterfinals at the Cincinnati Open during this summer's hard-court swing, a stretch of form that positions him as one of the stronger domestic threats for a deep run. Taylor Townsend also delivered one of the tournament's notable early upsets on the women's side, knocking out 20th-seeded Maja Chwalinska, this year's French Open finalist, in straight sets."
+    },
+    {
+      "type": "paragraph",
+      "text": "With two full weeks of tennis still ahead before the women's final on September 12 and the men's final closing out the tournament on September 13, this year's US Open has already delivered the mix organizers hope for every year: a compelling comeback story at the top of the draw, genuine upsets shaking up the bracket, and enough depth in both American and international fields to keep the tournament's storylines shifting deep into the second week."
+    }
+  ]
+},
+    {
+  "slug": "nfl-record-2026-international-games-expansion-future-franchise",
+  "headline": "NFL Sets Record With Nine International Games, Eyes Future Team",
+  "dek": "Melbourne, Rio de Janeiro, and Paris join the NFL's global rotation for the first time, as Commissioner Roger Goodell confirms the league is eyeing an international franchise.",
+  "authorSlug": "daniel-osei",
+  "source": "NFL / Pro Football Hall of Fame",
+  "publishedAt": "2026-08-26T13:00:00Z",
+  "updatedAt": "2026-08-31T09:00:00Z",
+  "heroImage": "/images/nfl-record-2026-international-games-expansion-future-franchise.webp",
+  "heroCaption": "Fans gather outside Tottenham Hotspur Stadium in London ahead of an NFL International Series game, part of the league's record 2026 global slate.",
+  "heroCredit": "Getty Images",
+  "tags": [
+    "Sports",
+    "Football",
+    "NFL"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The NFL isn't just testing the waters overseas anymore, it's diving in. The league has unveiled its most ambitious international slate yet for the 2026 season: nine regular-season games spread across four continents, seven countries, and eight stadiums, a new high-water mark in a global expansion push that's been building steadily for years."
+    },
+    {
+      "type": "paragraph",
+      "text": "Three cities are hosting NFL games for the very first time this season. The international slate kicks off in Melbourne, Australia, on September 10, when the San Francisco 49ers face the Los Angeles Rams at the Melbourne Cricket Ground, before the rotation extends to Rio de Janeiro and, for the first time ever, Paris, where the Pittsburgh Steelers and New Orleans Saints will play at the Stade de France on October 25. Established international markets aren't going anywhere either: London hosts three games this season, its 16th year in the rotation, while Madrid, Munich, and Mexico City round out the schedule."
+    },
+    {
+      "type": "heading",
+      "text": "A Milestone Nearly Two Decades in the Making"
+    },
+    {
+      "type": "paragraph",
+      "text": "This year's expansion builds on a project that traces back to October 2005, when the Arizona Cardinals and San Francisco 49ers played the league's first regular-season game outside the United States at Estadio Azteca in Mexico City, a matchup that drew 103,467 fans and remains the largest crowd ever to watch an NFL regular-season game. That single game helped pave the way for the NFL International Series, which officially launched in 2007 and has since sent 62 regular-season games overseas, to markets including London, Berlin, Munich, Frankfurt, Madrid, Dublin, São Paulo, Mexico City, and Toronto."
+    },
+    {
+      "type": "paragraph",
+      "text": "NFL Commissioner Roger Goodell has framed the addition of Paris specifically as a genuinely significant next step in the league's global footprint, rather than simply another market checked off a list. Peter O'Reilly, the league's executive vice president overseeing international business, described this year's schedule as reflecting the NFL's global growth vision, bringing fans in new markets meaningfully closer to the sport rather than treating international games as one-off novelty events."
+    },
+    {
+      "type": "heading",
+      "text": "Beyond Single Games: A Real International Business Strategy"
+    },
+    {
+      "type": "paragraph",
+      "text": "The single-game headlines are really just the visible surface of a much bigger commercial operation. The league's Global Markets Program, launched in 2022, grants individual NFL clubs marketing and fan-engagement rights in specific international territories, functioning as a longer-term investment in building fandom rather than a one-time event. All 32 teams now participate, with rights spread across 22 international markets, and the program added Italy as a new territory this year, with the Cleveland Browns and New Orleans Saints picking up marketing rights there while the Las Vegas Raiders expanded their own rights to cover Canada, the United Arab Emirates, and the United Kingdom."
+    },
+    {
+      "type": "paragraph",
+      "text": "That kind of structured, year-round international footprint, spanning broadcast deals, sponsorship, ticketing, and grassroots youth football development, marks a real shift from treating overseas games as neutral-site curiosities toward integrating them into the league's core commercial strategy on a permanent basis."
+    },
+    {
+      "type": "heading",
+      "text": "Could an International Team Actually Happen?"
+    },
+    {
+      "type": "paragraph",
+      "text": "The bigger question hovering over all of this is whether the NFL eventually plants a full-time franchise overseas, and for the first time, league officials are talking about it as a real possibility rather than a hypothetical. Goodell has confirmed the league's intent to explore international expansion at the franchise level, and reporting suggests the league is weighing structures like an international division, potentially with four teams playing consecutive road games abroad to help manage the travel burden that's historically made an overseas franchise logistically difficult."
+    },
+    {
+      "type": "paragraph",
+      "text": "London has emerged as the clear frontrunner for that eventual team, given its two decades of hosting NFL games, an established and passionate local fanbase, and the practical advantage of no language barrier alongside direct flight access from major US cities. Germany, particularly Munich or Berlin, is considered the next-strongest contender, backed by a passionate following and a growing slate of annual games in the country. Whether any of this materializes into an actual franchise remains genuinely uncertain, but the league's tone around the question has shifted noticeably from deflection to active planning."
+    }
+  ]
+},
+    {
+  "slug": "teen-swimmers-break-american-national-age-group-records-2026-us-nationals",
+  "headline": "Teen Swimmers Rewrite the Record Books at 2026 US National Championships",
+  "dek": "Anna Moesch broke the American record in the 100m freestyle, while teen swimmers set new age-group marks in Irvine, alongside champions Caeleb Dressel and Kate Douglass.",
+  "authorSlug": "daniel-osei",
+  "source": "SwimSwam / NBC Sports",
+  "publishedAt": "2026-08-02T14:00:00Z",
+  "updatedAt": "2026-08-20T10:00:00Z",
+  "heroImage": "/images/teen-swimmers-break-american-national-age-group-records-2026-us-nationals.webp",
+  "heroCaption": "A swimmer competes in a freestyle final at the 2026 Toyota USA Swimming National Championships in Irvine, California.",
+  "heroCredit": "Getty Images",
+  "tags": [
+    "Sports",
+    "Swimming"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The 2026 Toyota USA Swimming National Championships in Irvine, California, delivered exactly the kind of meet that keeps swim fans checking results in real time: a genuine mix of Olympic legends chasing new milestones and teenagers rewriting the record books right alongside them. Held over five days at the William Woollett Jr. Aquatics Center, the meet produced multiple American records and a wave of new national age-group marks, several of them set by swimmers still years away from their first Olympic Trials."
+    },
+    {
+      "type": "paragraph",
+      "text": "The standout individual performance of the meet belonged to Anna Moesch, who broke her own American record in the women's 100m freestyle, touching in 51.88 seconds to reset the national mark she'd already claimed. She backed that up the following night by winning the 200m freestyle in a personal-best 1:55.05, going out fast enough to sit nearly a full second ahead of the field at the midpoint of the race."
+    },
+    {
+      "type": "heading",
+      "text": "The Teenagers Weren't Just Along for the Ride"
+    },
+    {
+      "type": "paragraph",
+      "text": "What made this year's meet particularly notable was how many of the headline moments came from swimmers barely old enough to drive. Liberty Clark claimed her third overall national age-group record of the meet in the 50m freestyle final, clocking 24.28 seconds, while a relay squad of Benjamin Jaggers, Max Laine, Sawyer Stolarczyk, and Julian Rusk set a new 15-18 age-group record in the 400m medley relay. In the women's 200m butterfly, an unnamed 17-year-old jumped into the national rankings by winning the title outright and setting a new 17-18 age-group record in the process."
+    },
+    {
+      "type": "paragraph",
+      "text": "Those performances reflect more than individual talent, they point to a genuinely deep pipeline of age-group swimmers pushing times that would have been unthinkable for their age category just a few years ago. Coaches and USA Swimming officials have pointed to improved regional training infrastructure and a broader, more competitive youth development system as key factors behind the surge in age-group records this season."
+    },
+    {
+      "type": "heading",
+      "text": "Sharing the Pool With Olympic Royalty"
+    },
+    {
+      "type": "paragraph",
+      "text": "The rising talent competed alongside some of the sport's biggest names, which only raised the stakes further. Eight-time Olympic champion Caeleb Dressel, working his way through a comeback ahead of the Los Angeles 2028 Games, posted his fastest 100m freestyle time since the 2024 US Olympic Trials, touching in 47.70 seconds to claim the national title and signaling real progress in his return to top form."
+    },
+    {
+      "type": "paragraph",
+      "text": "Two-time Olympic champion Kate Douglass, fresh off breaking the 50m freestyle world record earlier in the year at the Pro Swim Series in Indianapolis, and fellow two-time Olympic champion Gretchen Walsh, who'd taken that same world record from Douglass just a week later, both headlined a women's 50m freestyle field that had fans buzzing well before the starting horn. Walsh went on to set a new American record of 24.51 in the event during the championship, adding yet another mark to what's already been a record-shattering year for the 50m sprint events."
+    },
+    {
+      "type": "heading",
+      "text": "What Comes Next"
+    },
+    {
+      "type": "paragraph",
+      "text": "Notably, several of the country's top swimmers sat out Nationals entirely to focus their preparation on the 2026 Pan Pacific Championships in mid-August, meaning the meet's results represent only part of the full picture of American swimming's depth heading into the second half of the year. For the teenagers who did headline in Irvine, national team selectors say they'll be watching closely as those swimmers progress toward future international qualifying events, with several already being talked about as legitimate contenders for a spot on the senior national team well ahead of the traditional timeline."
+    }
+  ]
+},
+    {
+  "slug": "us-marathon-boom-2026-nyc-chicago-lottery-record-demand",
+  "headline": "US Marathon Demand Explodes, NYC Lottery Odds Hit Just 1%",
+  "dek": "More than 240,000 applied for roughly 55,000 New York City Marathon spots, while Chicago drew 200,000 applicants for 45,000 places this year.",
+  "authorSlug": "daniel-osei",
+  "source": "New York Road Runners / NBC News",
+  "publishedAt": "2026-06-12T14:00:00Z",
+  "updatedAt": "2026-08-20T10:00:00Z",
+  "heroImage": "/images/us-marathon-boom-2026-nyc-chicago-lottery-record-demand.webp",
+  "heroCaption": "Runners fill the streets at the start of a major US marathon, as demand for entry spots reaches record levels nationwide.",
+  "heroCredit": "Getty Images",
+  "tags": [
+    "Sports",
+    "Running",
+    "Wellbeing"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Getting into a major American marathon has never been harder, and the numbers behind that statement keep getting more extreme by the year. New York Road Runners reported more than 240,000 applications for the 2026 TCS New York City Marathon drawing, chasing a field capped at roughly 55,000 runners, a gap that's pushed acceptance odds for non-guaranteed lottery applicants down to somewhere between 1% and 3%, worse odds than getting into an Ivy League college."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chicago tells a nearly identical story. The Bank of America Chicago Marathon drew more than 200,000 applicants competing for roughly 45,000 to 50,000 spots in its 2026 race, and organizers say demand has kept climbing even as the field size has grown to accommodate more runners. It's not a one-city phenomenon, it's the new normal across the sport's biggest American races."
+    },
+    {
+      "type": "heading",
+      "text": "A Boom That Hasn't Slowed Down Since the Pandemic"
+    },
+    {
+      "type": "paragraph",
+      "text": "The scale of this surge shows up clearly in the national participation data. According to RunSignup's RaceTrends report, overall US race participation grew 5% from 2024 to 2025, on top of 8% growth the year before that and 11% the year before that, a multi-year streak that's put to rest any lingering theory this was simply a temporary pandemic-era spike. Marathon finishers specifically jumped 14.6% in 2024 alone, and the 2025 TCS New York City Marathon set a world record as the largest marathon ever run, with 59,226 official finishers crossing the line."
+    },
+    {
+      "type": "paragraph",
+      "text": "Even Boston, which fills most of its field through qualifying times rather than a lottery, has felt the squeeze. For the 2026 race, the qualifying cutoff came in 4 minutes and 34 seconds faster than the previous year's standard, meaning runners who hit the official Boston Qualifying time on paper still weren't fast enough to actually get in. Race analysts describe that kind of compressing qualifying window as one more symptom of the same underlying pressure: too many runners chasing a supply of race bibs that simply can't expand as fast as demand."
+    },
+    {
+      "type": "heading",
+      "text": "Why the Physical Math Doesn't Work in Runners' Favor"
+    },
+    {
+      "type": "paragraph",
+      "text": "Part of what makes this boom different from ordinary demand spikes is that the supply side genuinely can't stretch much further. City streets only hold so many runners at once, aid stations only cover so much ground, and most major marathons are already operating at or close to their physical capacity for a single-day event. London is exploring an expansion to a two-day race format targeting 100,000 total runners, one of the few majors actively experimenting with structural changes rather than simply tightening its lottery odds further."
+    },
+    {
+      "type": "paragraph",
+      "text": "That capacity ceiling has pushed race organizers, and runners themselves, toward workarounds. Charity entry programs have become one of the more reliable paths into sold-out majors: the 2025 Bank of America Chicago Marathon alone raised a record $47.1 million through charity runners, and roughly a third of this year's Chicago field is expected to be running on behalf of an official nonprofit partner, trading a hefty fundraising minimum for a guaranteed bib."
+    },
+    {
+      "type": "heading",
+      "text": "A Cultural Shift, Not Just a Sports Story"
+    },
+    {
+      "type": "paragraph",
+      "text": "Much of this growth traces back to something bigger than the races themselves. Run clubs have exploded into genuine social hubs in cities across the country since the pandemic, turning what used to be a solitary training grind into a group activity built around community as much as competition. Strava's year-in-sport data has tracked a continued surge in new running club formation, and marathon culture more broadly has leaked well beyond its traditional endurance-sport niche, propelled by social media visibility, celebrity finishers, and a running shoe technology arms race that's made the marathon feel both faster and more achievable for everyday runners than it did a decade ago."
+    },
+    {
+      "type": "paragraph",
+      "text": "The performance data backs up that broader accessibility. The average American marathon finish time actually improved from 4 hours 39 minutes in 2019 to 4 hours 34 minutes in 2024, according to RunRepeat's analysis, even as the pool of participants running those times has grown dramatically wider and more varied. For runners still chasing a bib at one of the majors, race analysts increasingly offer the same practical advice: don't wait on the lottery alone, there are hundreds of other marathons across the country offering the same 26.2-mile achievement, often with a smaller field, a lower price tag, and just as memorable a finish line."
+    }
+  ]
+},
+    {
+  "slug": "nba-foundation-six-years-grassroots-basketball-all-star-2026-homecourt-hoops",
+  "headline": "NBA Foundation Hits $165M in Grants for Grassroots Basketball",
+  "dek": "Six years after launching, the Foundation has served over a million under-resourced youth, while All-Star weekend in LA paired free hoops with facility renovations.",
+  "authorSlug": "daniel-osei",
+  "source": "NBA.com / Youth Sports Business Report",
+  "publishedAt": "2026-07-15T14:00:00Z",
+  "updatedAt": "2026-08-25T09:00:00Z",
+  "heroImage": "/images/nba-foundation-six-years-grassroots-basketball-all-star-2026-homecourt-hoops.webp",
+  "heroCaption": "Young players participate in a Jr. NBA basketball clinic, part of the league's expanding grassroots development efforts.",
+  "heroCredit": "Getty Images",
+  "tags": [
+    "Sports",
+    "Basketball",
+    "NBA"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Six years into its existence, the NBA Foundation has quietly become one of the more substantial grassroots investment efforts in American professional sports. The organization marked its sixth anniversary this year having served more than 1 million under-resourced youth, built a portfolio of over 300 partner nonprofit organizations, and awarded $165 million in grants, crossing the halfway point of an initial $300 million commitment made when the Foundation launched in partnership with all 30 NBA teams back in 2020."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Foundation's core focus has stayed consistent since its founding: workforce development and economic opportunity for under-resourced youth, with particular attention to organizations that are Black-controlled or deeply embedded in the communities they serve. Rather than simply writing checks, the Foundation asks applicant organizations to demonstrate measurable results, education outcomes, employment placement, or entrepreneurship growth among the young people they work with, before committing to what are often multi-year grant relationships."
+    },
+    {
+      "type": "heading",
+      "text": "All-Star Weekend Became a Community Investment Event"
+    },
+    {
+      "type": "paragraph",
+      "text": "That grassroots emphasis was on full display when the league brought All-Star weekend to Los Angeles in February 2026. Beyond the on-court festivities, the NBA and its partners built five days of community-facing programming designed to reach more than 100,000 Los Angeles residents directly, an unusually large-scale commitment for a single event weekend."
+    },
+    {
+      "type": "paragraph",
+      "text": "The centerpiece was the Homecourt Hoops initiative, through which the LA Clippers distributed more than 5,600 free outdoor basketball hoops directly to families across the city. The Clippers have now refurbished more than 500 basketball courts across Southern California through their broader community efforts, addressing a genuine access gap: in the region, fewer than 35% of young kids play sports regularly, a decline of nearly 10 percentage points over the past decade, with almost 40% of families reporting they don't have a safe, walkable place nearby for their child to play at all."
+    },
+    {
+      "type": "heading",
+      "text": "Real Facilities, Not Just Symbolic Gestures"
+    },
+    {
+      "type": "paragraph",
+      "text": "The All-Star programming went beyond distributing equipment. On February 12, the NBA, the National Basketball Players Association, the LA Clippers, State Farm, and the nonprofit Heart of America unveiled a full renovation of the Weingart YMCA Wellness & Aquatic Center, updating its STEAM lab, teen center, and basketball court as part of a broader legacy project timed to coincide with the YMCA's 175th anniversary in the United States. More than 1,000 local youth also participated in Jr. NBA and Jr. WNBA clinics that weekend, including sessions built around a curriculum developed through the Luka Dončić Foundation."
+    },
+    {
+      "type": "paragraph",
+      "text": "The league paired its youth programming with an economic development angle as well. The NBA Foundation hosted a pitch competition featuring seven Los Angeles-based entrepreneurs competing for $200,000 in total prize money, judged by celebrity panelists and backed by corporate partners including Comcast NBCUniversal, KKR, and American Express, an attempt to extend the Foundation's economic mobility mission beyond youth sports and into small business development in the same communities."
+    },
+    {
+      "type": "heading",
+      "text": "A Pattern That Extends Well Beyond One Weekend"
+    },
+    {
+      "type": "paragraph",
+      "text": "This kind of investment isn't confined to marquee events. Individual players have built their own grassroots efforts alongside league-wide programming; Miami Heat center Bam Adebayo, a finalist for this year's NBA Social Justice Champion award, invested more than $563,000 through his own foundation into 18 separate initiatives this season, funding school supplies, transportation for thousands of students, and youth development programs including his own basketball camp across South Florida and North Carolina."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nationally, the USA Basketball Foundation has been running its own parallel push, expanding youth development clinics with an explicit focus on reaching kids in diverse and underserved communities across the country, part of a broader landscape of NBA-affiliated and independent organizations, including the Jr. NBA Program and various team foundations, all working the same basic thesis: that widening access to coaching, facilities, and mentorship at the grassroots level is what ultimately builds a deeper, more diverse talent pipeline feeding the sport for the next generation."
+    }
+  ]
+}
   ]
 }

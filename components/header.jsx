@@ -16,6 +16,13 @@ import articlesData from "../public/data/article.json";
  *   - Search/menu icons sit in a soft hover circle
  *   - Masthead scales up very slightly on hover for a bit of life
  *
+ * Nav labels vs. URL slugs:
+ *   NAV_LINKS holds the display text shown to the user (e.g. "U.S.").
+ *   The URL for each link is derived with slugify(), which strips periods
+ *   and other punctuation and collapses whitespace into hyphens, so "U.S."
+ *   correctly becomes the route /us instead of /u.s. — never build hrefs
+ *   with label.toLowerCase() directly, always go through slugify().
+ *
  * Search: clicking the search icon (desktop or mobile) opens a dropdown
  * panel with a text input. Typing live-filters every article across all 6
  * categories in public/data/articles.json (matching on headline or dek),
@@ -33,7 +40,21 @@ import articlesData from "../public/data/article.json";
  *   rule          #E5E5E5   (hairlines)
  */
 
-const NAV_LINKS = ["Business", "Politics", "Technology", "Health", "Lifestyle", "Sports"];
+const NAV_LINKS = ["Business", "Finance", "World", "U.S.", "Lifestyle", "Sports"];
+
+// Turns a display label into a URL-safe slug.
+// "U.S." -> "us", "Global Times" -> "global-times", "Business" -> "business".
+// Periods are dropped outright (so "U.S." doesn't become "u-s"), then any
+// remaining run of non-alphanumeric characters (spaces, slashes, etc.)
+// collapses into a single hyphen, and stray leading/trailing hyphens are
+// trimmed off.
+function slugify(label) {
+  return label
+    .toLowerCase()
+    .replace(/\./g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
 
 // Flattens articles.json (grouped by category) into one searchable list.
 function getAllArticles() {
@@ -246,7 +267,7 @@ export default function Header() {
                   results.map((article) => (
                     <a
                       key={`${article.category}-${article.slug}`}
-                      href={`/${article.category}/${article.slug}`}
+                      href={`/${slugify(article.category)}/${article.slug}`}
                       onClick={closeSearch}
                       className="flex items-center justify-between gap-4 py-3 hover:bg-[#F7F5EF] transition-colors"
                     >
@@ -270,7 +291,7 @@ export default function Header() {
             {NAV_LINKS.map((label) => (
               <a
                 key={label}
-                href={`/${label.toLowerCase()}`}
+                href={`/${slugify(label)}`}
                 className="relative uppercase py-1 hover:text-[#D01418] transition-colors after:absolute after:left-1/2 after:-bottom-[1px] after:h-[2px] after:w-0 after:-translate-x-1/2 after:bg-[#D01418] after:transition-all after:duration-300 hover:after:w-full"
               >
                 {label}
@@ -317,7 +338,7 @@ export default function Header() {
             {NAV_LINKS.map((label) => (
               <a
                 key={label}
-                href={`/${label.toLowerCase()}`}
+                href={`/${slugify(label)}`}
                 onClick={() => setMenuOpen(false)}
                 className="py-3 border-b border-[#E5E5E5] last:border-none font-sans text-sm font-medium uppercase tracking-wide text-[#1A1A1A] hover:text-[#D01418] hover:pl-1 transition-all"
               >
@@ -336,5 +357,5 @@ export default function Header() {
       </div>
     </header>
   );
-  
+
 }

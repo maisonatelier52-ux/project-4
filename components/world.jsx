@@ -1,18 +1,18 @@
 import articlesData from "../public/data/article.json";
 
 /**
- * TechnologySection — the "TECHNOLOGY" category block for the homepage
+ * WorldSection — the "WORLD" category block for the homepage
  *   Left    : two stacked stories — image above headline, no excerpt
  *   Center  : one large main story — big image, headline, excerpt
  *   Right   : three stacked text-only stories, separated by dividers
  *
- * Data source: public/data/articles.json — reads only the "technology"
+ * Data source: public/data/articles.json — reads only the "world"
  * category, sorted by publishedAt (newest first). This layout has 6 slots
- * (2 left + 1 main + 3 text-only); the 6 most recent technology articles
- * fill them, each used exactly once, so nothing repeats. With 7 technology
- * articles in the data file today, the oldest one simply doesn't appear
- * here — this is a homepage showcase, not the full category listing
- * (that's app/technology/page.jsx, which shows all of them).
+ * (2 left + 1 main + 3 text-only); the 6 most recent world articles
+ * fill them, each used exactly once, so nothing repeats. If there are more
+ * than 6 world articles in the data file, the oldest ones simply don't
+ * appear here — this is a homepage showcase, not the full category listing
+ * (that's app/world/page.jsx, which shows all of them).
  *
  * Palette (matches header/footer/other homepage sections):
  *   masthead-red  #D01418
@@ -21,11 +21,11 @@ import articlesData from "../public/data/article.json";
  *   rule          #E5E5E5
  */
 
-const CATEGORY = "Technology";
-const CATEGORY_SLUG = "technology";
+const CATEGORY = "World";
+const CATEGORY_SLUG = "world";
 const CATEGORY_HREF = `/${CATEGORY_SLUG}`;
 
-function getTechnologyArticles() {
+function getWorldArticles() {
   const posts = articlesData[CATEGORY_SLUG] || [];
   return [...posts].sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
 }
@@ -118,8 +118,8 @@ function TextStory({ article }) {
   );
 }
 
-export default function TechnologySection() {
-  const sorted = getTechnologyArticles();
+export default function WorldSection() {
+  const sorted = getWorldArticles();
 
   // Each article used exactly once across these three slices — no repeats.
   const leftArticles = sorted.slice(0, 2); // 2 stories
@@ -127,7 +127,7 @@ export default function TechnologySection() {
   const textArticles = sorted.slice(3, 6); // 3 stories
 
   if (!mainArticle) {
-    return null; // no technology articles yet — nothing to show
+    return null; // no world articles yet — nothing to show
   }
 
   return (
