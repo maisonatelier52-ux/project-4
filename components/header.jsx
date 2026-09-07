@@ -40,7 +40,7 @@ import articlesData from "../public/data/article.json";
  *   rule          #E5E5E5   (hairlines)
  */
 
-const NAV_LINKS = ["Business", "Finance", "World", "U.S.", "Lifestyle", "Sports"];
+const NAV_LINKS = ["Business", "Finance", "World", "U.S.", "Politics", "Sports"];
 
 // Turns a display label into a URL-safe slug.
 // "U.S." -> "us", "Global Times" -> "global-times", "Business" -> "business".

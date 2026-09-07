@@ -1706,232 +1706,393 @@
   ]
 }
   ],
-  "lifestyle": [
+  "politics": [
     {
-      "slug": "people-attend-celebration-of-nag-panchami-in-lalitpur-nepal",
-      "headline": "People attend celebration of Nag Panchami in Lalitpur, Nepal",
-      "dek": "Devotees performed rituals during the Hindu festival dedicated to the worship of snakes.",
-      "authorSlug": "maria-santos",
-      "source": "Global Times",
-      "publishedAt": "2026-08-17T07:00:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img1.webp",
-      "heroCaption": "Devotees perform rituals during a celebration of Nag Panchami in Bhaktapur, Nepal.",
-      "heroCredit": "Xinhua",
-      "tags": [
-        "Lifestyle",
-        "Culture",
-        "Nepal"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Devotees performed rituals during a celebration of Nag Panchami, a Hindu festival dedicated to the worship of snakes, in Bhaktapur, Nepal."
-        },
-        {
-          "type": "paragraph",
-          "text": "The festival draws large crowds of families each year, with offerings left at shrines throughout the old city."
-        }
-      ]
+  "slug": "supreme-court-trump-white-house-ballroom-construction-ruling-2026",
+  "headline": "Supreme Court Lets Trump's Ballroom Construction Continue 5-4",
+  "dek": "Chief Justice Roberts broke with the conservative majority, joining a dissent arguing the project oversteps presidential authority, though the ruling turned on legal standing.",
+  "authorSlug": "maria-santos",
+  "source": "NPR / NBC News / Slate",
+  "publishedAt": "2026-08-31T18:00:00Z",
+  "updatedAt": "2026-09-01T09:00:00Z",
+  "heroImage": "/images/supreme-court-trump-white-house-ballroom-construction-ruling-2026.webp",
+  "heroCaption": "Construction continues on the new White House ballroom, seen from the Washington Monument, days before the Supreme Court's ruling.",
+  "heroCredit": "Associated Press",
+  "tags": [
+    "Politics",
+    "US",
+    "Supreme Court"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "The Supreme Court handed President Trump a win on Monday, ruling 5-4 that construction on his new White House ballroom can continue indefinitely while a legal challenge to the project plays out. The unsigned order blocks lower court rulings that would have paused the aboveground portion of the building, clearing the way for a project that's already reshaped one of the most historically significant properties in the country."
     },
     {
-      "slug": "chinese-conservationist-explores-community-based-wildlife-protection-i",
-      "headline": "Chinese conservationist explores community-based wildlife protection in Kenya",
-      "dek": "Rangers in the Maasai Mara ecosystem are working alongside a Chinese conservationist known locally as 'Simba.'",
-      "authorSlug": "maria-santos",
-      "source": "Global Times",
-      "publishedAt": "2026-08-18T06:30:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img1.webp",
-      "heroCaption": "Rangers patrol the Ol Kinyei Conservancy at dawn in Kenya's Maasai Mara ecosystem.",
-      "heroCredit": "Global Times",
-      "tags": [
-        "Lifestyle",
-        "Wildlife",
-        "Kenya"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "As dawn breaks over Ol Kinyei Conservancy in Kenya's Maasai Mara ecosystem, rangers are already combing the grasslands for signs of unauthorized entry and poaching while keeping a close watch on wildlife."
-        },
-        {
-          "type": "heading",
-          "text": "Dawn Patrol"
-        },
-        {
-          "type": "paragraph",
-          "text": "Among them is Chinese conservationist Zhuo Qiang, nicknamed \"Simba,\" the Swahili word for lion, who has spent several years working alongside local community-based conservation programs."
-        },
-        {
-          "type": "paragraph",
-          "text": "Zhuo says the partnership model, which shares tourism revenue directly with local communities, has helped reduce poaching incidents in the conservancy."
-        }
-      ]
+      "type": "paragraph",
+      "text": "The ruling followed an interim decision along similar lines issued on August 21 by Chief Justice John Roberts, who allowed the emergency stay to take effect while the full court weighed a final answer. That final answer, delivered ten days later, kept construction moving but stopped well short of declaring the project legal."
     },
     {
-      "slug": "chinese-film-uses-a-kitchen-to-crush-hollywoods-war-myth",
-      "headline": "Chinese film uses a kitchen to crush Hollywood's war myth",
-      "dek": "A quiet, character-driven war drama set almost entirely in a family kitchen has drawn unexpected box office attention.",
-      "authorSlug": "maria-santos",
-      "source": "Global Times",
-      "publishedAt": "2026-08-15T12:40:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img1.webp",
-      "heroCaption": "A still from the film showing the family kitchen set.",
-      "heroCredit": "Reuters",
-      "tags": [
-        "Lifestyle",
-        "Film",
-        "Culture"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "A new Chinese war drama set almost entirely within a single family kitchen has drawn unexpected box office attention, offering a quieter, more intimate counterpoint to big-budget action-driven war films."
-        },
-        {
-          "type": "paragraph",
-          "text": "Critics have praised the film's restraint, noting that its focus on domestic routine amid wartime disruption offers a different lens on conflict than typical genre fare."
-        },
-        {
-          "type": "paragraph",
-          "text": "The film's director said the choice of setting was deliberate, aiming to center everyday survival rather than battlefield spectacle."
-        }
-      ]
+      "type": "heading",
+      "text": "A Technicality, Not a Verdict on the Merits"
     },
     {
-      "slug": "female-dog-spotted-living-with-male-wolf-at-hubei-wildlife-park",
-      "headline": "Female dog spotted living with male wolf at Hubei wildlife park",
-      "dek": "Park officials say the pairing was arranged months in advance to help establish a breeding bond.",
-      "authorSlug": "maria-santos",
-      "source": "Global Times",
-      "publishedAt": "2026-08-13T09:20:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img1.webp",
-      "heroCaption": "The dog and wolf pictured together at the wildlife park enclosure.",
-      "heroCredit": "AFP",
-      "tags": [
-        "Lifestyle",
-        "Wildlife",
-        "Animals"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "After visitors reported on Sunday seeing a dog in a wolf enclosure at a wildlife park in Yichang, Central China's Hubei Province, the park responded on Monday that the female dog's placement was arranged months in advance."
-        },
-        {
-          "type": "paragraph",
-          "text": "Officials said the arrangement is intended to help establish a bond ahead of a planned breeding program, and that both animals are under close veterinary supervision."
-        },
-        {
-          "type": "paragraph",
-          "text": "The unusual pairing has drawn wide attention on social media, with many users sharing photos of the two animals together."
-        }
-      ]
+      "type": "paragraph",
+      "text": "What makes this ruling notable isn't really the outcome, it's the reasoning behind it. The court's majority didn't rule that Trump had the authority to demolish the East Wing and build a 90,000-square-foot ballroom in its place; instead, the justices found that the National Trust for Historic Preservation, the nonprofit that brought the legal challenge, likely lacks standing to sue in the first place. Brent Leggs, the Trust's president and CEO, said in a statement that the organization was deeply disappointed in the ruling but noted pointedly that the majority never actually weighed in on whether the ballroom project itself was lawful."
     },
     {
-      "slug": "coastal-citys-night-market-culture-draws-record-tourist-numbers-this-s",
-      "headline": "Coastal city's night market culture draws record tourist numbers this summer",
-      "dek": "Extended operating hours and new food stalls have helped several coastal cities post record summer tourism figures.",
-      "authorSlug": "maria-santos",
-      "source": "Global Times",
-      "publishedAt": "2026-08-11T17:05:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img1.webp",
-      "heroCaption": "A crowded night market along a coastal waterfront.",
-      "heroCredit": "VCG",
-      "tags": [
-        "Lifestyle",
-        "Travel",
-        "Tourism"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Several coastal cities have reported record summer tourist numbers this year, with local officials crediting expanded night market culture as a key draw."
-        },
-        {
-          "type": "heading",
-          "text": "A Summer Boom"
-        },
-        {
-          "type": "paragraph",
-          "text": "Extended operating hours, new food stalls, and evening cultural performances have helped transform once-quiet waterfronts into bustling nightly destinations."
-        },
-        {
-          "type": "paragraph",
-          "text": "Local business associations say the trend has provided a meaningful boost to small vendors and hospitality workers in the area."
-        }
-      ]
+      "type": "paragraph",
+      "text": "That distinction mattered enough to split the court in an unusual way. Chief Justice Roberts, typically aligned with the court's conservative wing, joined the three liberal justices, Sonia Sotomayor, Elena Kagan, and Ketanji Brown Jackson, in dissent. Roberts, writing for the dissenting group, argued the majority had drawn the rules governing who can sue in federal court too narrowly, effectively allowing what four justices believe is likely an unconstitutional overreach of presidential authority to continue simply because of who was allowed to challenge it in court."
     },
     {
-      "slug": "old-beijing-hutong-revival-project-blends-heritage-preservation-with-m",
-      "headline": "Old Beijing hutong revival project blends heritage preservation with modern living",
-      "dek": "A pilot renovation program is updating traditional courtyard homes while retaining their historic character.",
-      "authorSlug": "maria-santos",
-      "source": "Global Times",
-      "publishedAt": "2026-08-09T10:15:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img1.webp",
-      "heroCaption": "A renovated courtyard home in a Beijing hutong.",
-      "heroCredit": "Xinhua",
-      "tags": [
-        "Lifestyle",
-        "Culture",
-        "Beijing"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "A pilot renovation program in central Beijing is updating a cluster of traditional hutong courtyard homes, aiming to blend modern living standards with heritage preservation."
-        },
-        {
-          "type": "paragraph",
-          "text": "Residents involved in the program say updated plumbing and insulation have improved quality of life without sacrificing the neighborhood's historic character."
-        },
-        {
-          "type": "paragraph",
-          "text": "Urban planners hope the project can serve as a model for similar heritage districts facing pressure from redevelopment."
-        }
-      ]
+      "type": "heading",
+      "text": "How the Case Got Here"
     },
     {
-      "slug": "chinese-tea-ceremony-sees-renewed-popularity-among-gen-z-consumers",
-      "headline": "Chinese tea ceremony sees renewed popularity among Gen Z consumers",
-      "dek": "Younger drinkers are driving demand for traditional tea culture experiences in major cities.",
-      "authorSlug": "maria-santos",
-      "source": "Global Times",
-      "publishedAt": "2026-08-06T08:50:00Z",
-      "updatedAt": null,
-      "heroImage": "/images/img1.webp",
-      "heroCaption": "A traditional tea ceremony being performed at a tea house.",
-      "heroCredit": "Global Times",
-      "tags": [
-        "Lifestyle",
-        "Culture",
-        "Tea"
-      ],
-      "body": [
-        {
-          "type": "paragraph",
-          "text": "Traditional Chinese tea ceremony experiences have seen renewed popularity among younger consumers in major cities over the past two years, according to industry surveys."
-        },
-        {
-          "type": "heading",
-          "text": "A New Audience"
-        },
-        {
-          "type": "paragraph",
-          "text": "Tea house owners say social media has played a major role in driving interest, with short videos showcasing brewing techniques and tea ware drawing large audiences online."
-        },
-        {
-          "type": "paragraph",
-          "text": "Some tea brands have begun tailoring shorter, more casual tasting sessions specifically aimed at first-time younger customers."
-        }
-      ]
+      "type": "paragraph",
+      "text": "The legal fight traces back to March, when US District Judge Richard Leon, a George W. Bush appointee, ruled in the Trust's favor and ordered construction halted, writing bluntly that no statute comes close to giving the president the authority he claims to have over the property. Leon later clarified that below-ground construction, including work on a Cold War-era bunker beneath the East Wing, could continue, but the ballroom structure itself could not proceed without congressional approval. The DC Circuit Court of Appeals subsequently ruled 2-1 against the administration before the case reached the Supreme Court on an emergency basis."
+    },
+    {
+      "type": "paragraph",
+      "text": "Trump has been unambiguous about his personal investment in the project throughout the legal back-and-forth, telling reporters aboard Air Force One in March that the judge who first blocked construction was simply wrong, and insisting Congress had no role to play because the roughly $400 million project is privately funded rather than paid for with taxpayer money. He has increasingly referred to it as the Military/Ballroom Complex, framing the addition, which will roughly double the size of the existing White House complex, as serving national security purposes alongside its function as an event space."
+    },
+    {
+      "type": "heading",
+      "text": "Where Things Stand, and What's Still Unresolved"
+    },
+    {
+      "type": "paragraph",
+      "text": "As of court filings from mid-August, the administration reported the project was roughly 65% complete, with a 250-person construction crew working around the clock, seven days a week. That pace of construction is exactly what worried the dissenting justices: because the challenged conduct is the physical building itself, every week the project continues changes the practical reality on the ground, regardless of how the underlying legal question about presidential authority eventually gets resolved."
+    },
+    {
+      "type": "paragraph",
+      "text": "Public opinion on the project has leaned skeptical since it began. An April poll from The Washington Post, ABC News, and Ipsos found 56% of Americans disapproved of Trump's decision to tear down the East Wing to make way for the ballroom. Legally, though, Monday's ruling is explicitly not the last word. As the Trust's Leggs put it in his statement, the case still hasn't resolved the underlying argument at the heart of the dispute: whether any single president, as what he called a temporary steward of the People's House, has the unilateral authority to demolish and redesign it without Congress ever weighing in."
     }
+  ]
+},
+    {
+  "slug": "ed-markey-defeats-seth-moulton-massachusetts-senate-primary-2026",
+  "headline": "Ed Markey, 80, Fends Off Younger Challenger in MA Senate Primary",
+  "dek": "Markey defeated Rep. Seth Moulton by a wide margin Tuesday, calling it proof of progressive strength as the race tested the Democratic Party's generational divide.",
+  "authorSlug": "maria-santos",
+  "source": "NBC News / CNN / Washington Post",
+  "publishedAt": "2026-09-01T21:33:00Z",
+  "updatedAt": "2026-09-02T02:00:00Z",
+  "heroImage": "/images/ed-markey-defeats-seth-moulton-massachusetts-senate-primary-2026.webp",
+  "heroCaption": "A voter casts a ballot at the Wenham Museum during Massachusetts's Democratic primary election on September 1, 2026.",
+  "heroCredit": "Bloomberg via Getty Images",
+  "tags": [
+    "Politics",
+    "US",
+    "Elections"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Ed Markey isn't going anywhere just yet. The 80-year-old Massachusetts senator turned back a primary challenge from Rep. Seth Moulton on Tuesday, according to projections from NBC News and CNN, winning by a wide margin, NBC reported Markey ahead by nearly 50 percentage points with early returns in, to secure the Democratic nomination for a third full term."
+    },
+    {
+      "type": "paragraph",
+      "text": "Markey, who has represented Massachusetts in Congress since the Ford administration, now advances to November's general election as the heavy favorite against Republican John Deaton in a state that hasn't elected a GOP senator since 2010."
+    },
+    {
+      "type": "heading",
+      "text": "A Race Framed Almost Entirely Around Age"
+    },
+    {
+      "type": "paragraph",
+      "text": "The 47-year-old Moulton, a six-term congressman and Marine veteran who served four tours in Iraq, built his campaign around a single central argument: that Markey, who would be 86 by the end of a third full term, is simply too old for the job. Moulton has publicly supported a constitutional amendment establishing an age limit for members of Congress, and his campaign frequently invoked comparisons to former President Biden's late withdrawal from the 2024 race as a cautionary tale about aging leadership clinging to power too long."
+    },
+    {
+      "type": "paragraph",
+      "text": "Markey pushed back by leaning into his progressive record rather than his age directly, and picked up high-profile backing to make that case, including endorsements from Massachusetts Senator Elizabeth Warren, Vermont Senator Bernie Sanders, and New York Representative Alexandria Ocasio-Cortez. In the Senate, he helped pass former President Biden's landmark climate legislation, building on a legacy that stretches back to co-authoring the Waxman-Markey cap-and-trade bill during his years in the House."
+    },
+    {
+      "type": "heading",
+      "text": "A Victory Speech Aimed at the Party's Base"
+    },
+    {
+      "type": "paragraph",
+      "text": "Speaking to supporters at the historic Omni Parker House in Boston on Tuesday night, Markey framed the win not as a personal vindication but as evidence of a broader movement. He told the crowd that his victory reflected the strength of the progressive movement nationally, one he described as fueled by young people demanding more from their leaders. Markey also said he'd spoken with Moulton after the results came in, offering appreciation for what he called a hard-fought campaign and expressing hope the two could work together going forward on shared priorities for the state."
+    },
+    {
+      "type": "paragraph",
+      "text": "Notably, Markey has said that if reelected in November, he does not intend to seek a fourth term, an implicit acknowledgment of the generational concerns Moulton raised throughout the campaign, even as voters ultimately sided with the incumbent this time around."
+    },
+    {
+      "type": "heading",
+      "text": "Part of a Bigger Story About the Democratic Party"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Massachusetts result lands amid a broader reckoning within the Democratic Party over its aging leadership. This year has already seen several longtime Democratic lawmakers lose primary challenges to younger opponents running to their left, making Markey's win something of an outlier in the pattern, a veteran incumbent successfully outflanking a younger rival not by defending his age, but by out-progressive-ing him on policy."
+    },
+    {
+      "type": "paragraph",
+      "text": "Massachusetts's primary night included other notable results as well. Democratic Representative Stephen Lynch defeated a younger, more progressive primary challenger in his own race, one of the more closely watched tests remaining for House incumbents after a turbulent primary season nationally. With the primary now decided, attention shifts to the general election in November, where Markey's Senate seat, and the broader question of how voters ultimately weigh experience against generational change, will be tested again on a bigger stage."
+    }
+  ]
+},
+    {
+  "slug": "us-strikes-iran-hormuz-escalation-september-2026",
+  "headline": "US Launches New Strikes on Iran Near Strait of Hormuz After Attacks",
+  "dek": "Tuesday's strikes on Revolutionary Guard targets followed a weekend exchange of fire, the first in a month, after tanker attacks and a missile strike on a US base in Jordan.",
+  "authorSlug": "maria-santos",
+  "source": "CNBC / Axios / CENTCOM",
+  "publishedAt": "2026-09-01T18:00:00Z",
+  "updatedAt": "2026-09-02T09:00:00Z",
+  "heroImage": "/images/us-strikes-iran-hormuz-escalation-september-2026.webp",
+  "heroCaption": "A US Navy vessel operates near the Strait of Hormuz, the critical oil shipping route at the center of renewed US-Iran tensions.",
+  "heroCredit": "Reuters",
+  "tags": [
+    "Politics",
+    "US",
+    "National Security"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "US forces struck Islamic Revolutionary Guard Corps targets in Iran on Tuesday, according to US Central Command, marking a significant new escalation in a conflict that has simmered, and periodically flared, for months. CENTCOM said the strikes began around noon Eastern time and followed recent attempted attacks by the IRGC on commercial shipping in the Strait of Hormuz and on American service members stationed in the region."
+    },
+    {
+      "type": "paragraph",
+      "text": "President Trump confirmed the operation in a post on Truth Social, writing that the United States was striking Iranian targets near the strait as the action unfolded, and later described the strikes as large and powerful. He said they were carried out in response to Iran's attempt to plant sea mines in the strait and a missile attack on a US base in Jordan, and warned that a substantially larger response was, in his words, waiting in the wings if Iran retaliated further."
+    },
+    {
+      "type": "heading",
+      "text": "A Weekend That Reignited the Conflict"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tuesday's strikes came after the US and Iran exchanged fire over the weekend for the first time in roughly a month, an escalation that had appeared to catch even close observers of the conflict off guard given the relative quiet that preceded it. According to Axios, the renewed fighting began after the US struck Iranian forces that were reportedly preparing to launch sea mines into the strait, prompting Iran to respond Sunday with ballistic missile attacks on US bases in Jordan."
+    },
+    {
+      "type": "paragraph",
+      "text": "The immediate trigger for Tuesday's operation appears to have been a fresh attack on commercial shipping. A Reuters report cited by regional outlets described two supertankers carrying Saudi crude oil coming under attack within minutes of each other late Monday while transiting the strait, each having loaded roughly two million barrels at a Saudi export terminal the week before. No party had publicly claimed responsibility for that specific incident as of Tuesday."
+    },
+    {
+      "type": "heading",
+      "text": "A Plan Reportedly Years, Not Days, in the Making"
+    },
+    {
+      "type": "paragraph",
+      "text": "According to Axios reporting citing three US officials, Trump and senior aides had been weighing a more limited strike plan, developed over the preceding week by CENTCOM and backed by Defense Secretary Pete Hegseth, aimed specifically at preventing Iran from rebuilding radar and missile capabilities used to target ships in the strait. That plan reportedly hadn't been formally approved before the weekend's exchange of fire, but officials said the fresh escalation made approval considerably more likely."
+    },
+    {
+      "type": "paragraph",
+      "text": "One US official described the underlying strategic goal in blunt terms, as reducing the risk of Iranian attacks on oil tankers and US military assets, essentially maintaining pressure on Iran's capabilities on an ongoing basis rather than through a single decisive strike. That framing lines up with a broader campaign the US military has pursued for months: gradually asserting control over most of the strait by degrading Iranian military capacity, clearing mines, and guiding commercial vessels through safely, an approach that has curtailed Iran's ability to disrupt oil tankers while eroding the country's leverage over the crucial waterway."
+    },
+    {
+      "type": "heading",
+      "text": "Iran's Response and the Risk of Further Escalation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Iran's state-run Tasnim News Agency reported that the country's armed forces had launched what it called a decisive operation in response to Tuesday's US strikes, and said American bases and interests across the region would be targeted by Iranian missiles and drones going forward. Whether that rhetoric translates into another round of direct strikes on US positions, as happened over the weekend, remained unclear as of Tuesday evening."
+    },
+    {
+      "type": "paragraph",
+      "text": "The White House, asked for comment on the administration's broader posture toward Iran, said in a statement that the president retains all options at his disposal, adding pointedly that Iran, in the administration's view, wants to make a deal but continues to be a day late and a dollar short in doing so. For a conflict that has already run through multiple rounds of threatened deadlines, temporary pauses, and renewed strikes since earlier this year, Tuesday's escalation raises the stakes once again on a waterway that carries a substantial share of the world's oil supply, and on a standoff whose endpoint remains genuinely uncertain."
+    }
+  ]
+},
+    {
+  "slug": "senate-republicans-trump-political-liability-2026-midterms",
+  "headline": "Senate Republicans View Trump as a Liability Ahead of Midterms",
+  "dek": "With Democrats leading the generic ballot by 6-7 points and Trump's approval in the high 30s, GOP senators are pushing back on demands they warn could hurt candidates.",
+  "authorSlug": "maria-santos",
+  "source": "The Hill / Polymarket / Britannica",
+  "publishedAt": "2026-08-01T14:00:00Z",
+  "updatedAt": "2026-09-01T10:00:00Z",
+  "heroImage": "/images/senate-republicans-trump-political-liability-2026-midterms.webp",
+  "heroCaption": "The US Capitol building in Washington, DC, as Senate Republicans navigate a narrowing path to holding their majority in the 2026 midterms.",
+  "heroCredit": "Getty Images",
+  "tags": [
+    "Politics",
+    "US",
+    "Elections"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "For a party that controls the presidency, the Senate, and the House all at once, Republicans are sounding notably nervous about November. Senate GOP members say they increasingly see President Trump as a growing political liability as they fight to hang onto their narrow majority in the 2026 midterms, citing his continued attacks on their own ability to govern and his refusal to abandon proposals that Republican senators privately worry are actively hurting the party's standing with voters."
+    },
+    {
+      "type": "paragraph",
+      "text": "The concern isn't abstract. National polling averages as of early August showed Democrats leading the generic congressional ballot by roughly 6 to 7 points, while Trump's job approval sat in the high 30s in aggregated surveys, numbers that have GOP strategists increasingly worried about defending an already difficult House majority and an unusually competitive Senate map for a party that typically has geography on its side."
+    },
+    {
+      "type": "heading",
+      "text": "A Fight Over Money and Priorities"
+    },
+    {
+      "type": "paragraph",
+      "text": "Much of the friction traces back to two specific fights. GOP senators have pushed back on Trump's insistence that the Senate pass the Safeguard American Voter Eligibility Act before the election, despite what Republican senators themselves describe as little to no realistic chance of the bill actually becoming law, warning that forcing a symbolic vote risks demoralizing the party's own base rather than energizing it."
+    },
+    {
+      "type": "paragraph",
+      "text": "The second flashpoint involves a proposed $1.8 billion compensation fund benefiting Trump allies, which Republican senators including John Cornyn and Thom Tillis have argued plays directly into Democratic attacks painting the administration as corrupt. The dispute reportedly reached the point where the Justice Department publicly noted that Attorney General Pam Bondi's deputy Todd Blanche had repeatedly told Congress the fund wouldn't move forward, only for Cornyn and Tillis to say someone inside the White House had resisted permanently eliminating it in a formal settlement."
+    },
+    {
+      "type": "heading",
+      "text": "The Map Republicans Are Actually Defending"
+    },
+    {
+      "type": "paragraph",
+      "text": "Beneath the internal policy disputes sits a genuinely difficult electoral math problem. Republicans are entering the midterms with a narrow 218-213 House majority and an equally thin three-seat Senate edge, margins that leave essentially no room for error in a political environment where the president's party has historically lost ground in nearly every midterm cycle for decades."
+    },
+    {
+      "type": "paragraph",
+      "text": "New polling in North Carolina and traditionally GOP-leaning states including Ohio, Iowa, and Texas has shown Republican candidates trailing their Democratic challengers, results that Senate Republicans and party leadership view as a warning sign significant enough to justify publicly breaking with the president on specific policy fights, an unusual posture for a party that has largely deferred to Trump throughout his second term."
+    },
+    {
+      "type": "heading",
+      "text": "What's Actually Driving the Numbers"
+    },
+    {
+      "type": "paragraph",
+      "text": "Analysts tracking the midterms point to a specific combination of issues souring on the administration. Immigration crackdowns, particularly aggressive enforcement actions in Minnesota earlier this year, drew significant public backlash even in a policy area that has traditionally favored Trump and Republicans. Tariff policy has cut the other way too, with several tariff actions struck down by the Supreme Court and most economists broadly agreeing the policies function as a tax passed on to American consumers, a dynamic that's weighed on the president's approval numbers even among his own party's voters in competitive districts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Adding to Republican anxiety, several once-safe GOP Senate seats are now genuinely contested, including in Ohio and Texas, where appointed incumbent Jon Husted faces a serious challenge from former Senator Sherrod Brown. With the election just over two months away, Senate Republicans appear to be betting that some public distance from the White House on specific unpopular fights is now less risky than continued silence, a calculation that would have seemed unlikely for most of Trump's second term until recently."
+    }
+  ]
+},
+    {
+  "slug": "national-redistricting-battle-2026-midterms-house-control",
+  "headline": "The Redistricting War Reshaping Which Party Controls the House in 2026",
+  "dek": "After ten states redrew maps, Republicans could gain up to 16 seats versus six for Democrats, even as a Voting Rights Act ruling and an Indiana rejection scrambled plans.",
+  "authorSlug": "maria-santos",
+  "source": "NBC News / NPR / Ballotpedia",
+  "publishedAt": "2026-06-05T14:00:00Z",
+  "updatedAt": "2026-08-25T10:00:00Z",
+  "heroImage": "/images/national-redistricting-battle-2026-midterms-house-control.webp",
+  "heroCaption": "Lawmakers debate a proposed congressional map during a state legislative session, part of a nationwide redistricting fight ahead of the 2026 midterms.",
+  "heroCredit": "Getty Images",
+  "tags": [
+    "Politics",
+    "US",
+    "Elections"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "What started as a single state's map-drawing fight has turned into a nationwide arms race over who controls the House of Representatives. The redistricting battle that began in Texas in mid-2025, at President Trump's urging, spread quickly to more than a dozen states by the middle of 2026, with both parties racing to redraw congressional lines outside the normal once-a-decade census cycle in hopes of tilting narrow majorities in their favor before a single midterm vote gets cast."
+    },
+    {
+      "type": "paragraph",
+      "text": "The numbers behind the fight are genuinely consequential. After ten states enacted new congressional maps over the past year, Republicans are positioned to pick up as many as 16 favorable seats this fall, compared with roughly six for Democrats, a gap that could prove decisive in a House currently split along razor-thin margins."
+    },
+    {
+      "type": "heading",
+      "text": "How Texas Started, and California Answered"
+    },
+    {
+      "type": "paragraph",
+      "text": "Texas kicked off this cycle's fight after Trump suggested in mid-2025 that the state redraw its congressional map for Republican advantage, a plan that ultimately aimed to net the GOP five additional House seats. Texas Democrats initially tried to slow the process by repeatedly denying the legislature the quorum needed to hold a vote, but Republican Governor Greg Abbott eventually signed the new map into law."
+    },
+    {
+      "type": "paragraph",
+      "text": "California answered almost immediately. Encouraged by Governor Gavin Newsom, state Democrats advanced their own ballot measure designed to offset the GOP's expected gains by slashing Republican-held House seats in the deeply blue state, sending the question directly to California voters in a special election that November. Missouri followed Texas's lead on the Republican side, while additional states on both sides entered the fray as the year went on."
+    },
+    {
+      "type": "heading",
+      "text": "The Courts Stepped In, and Scrambled the Math"
+    },
+    {
+      "type": "paragraph",
+      "text": "Just as Democrats appeared to have clawed the national picture back to roughly even by drawing enough favorable seats of their own, the courts intervened in ways that reshaped the entire landscape. The Supreme Court gutted a key provision of the Voting Rights Act, opening the door for Republican-led states across the South to eliminate majority-Black congressional districts that had traditionally been held by Democrats, a ruling with implications extending well beyond this single election cycle. The Virginia Supreme Court moved separately on a related front shortly after."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not every Republican-favored effort succeeded, though. Indiana lawmakers delivered national Republicans their most significant setback of the year when they rejected a redrawn map designed to hand the party two additional seats, despite what reporting described as a monthslong pressure campaign from Trump and his political allies to push the map through."
+    },
+    {
+      "type": "heading",
+      "text": "The States Still in Play"
+    },
+    {
+      "type": "paragraph",
+      "text": "With the 2026 map-drawing largely settling into place, attention has already started shifting toward the states still weighing whether to act before the fall election, and toward the 2028 cycle beyond it. Florida Republicans have expressed support for a new GOP-favored map that could net the party several seats, though Governor Ron DeSantis and state Senate leadership have signaled they'd prefer to wait until a special session rather than rush the process. Maryland Democrats, who currently hold a 7-1 advantage in the state's congressional map, are treading more carefully after a court struck down an earlier, more aggressive map as an unconstitutional partisan gerrymander in 2022."
+    },
+    {
+      "type": "paragraph",
+      "text": "Virginia Democrats made one of the more unusual moves of the cycle, passing a constitutional amendment that would let lawmakers draw a new map outside the normal schedule if another state does the same first, a maneuver that will need to pass the legislature a second time and then go before voters for final approval. New York, Colorado, New Jersey, and Washington state are all weighing their own versions of the same basic strategy on the Democratic side, while Georgia and Mississippi Republicans are expected to take up redistricting of their own in the coming months."
+    },
+    {
+      "type": "heading",
+      "text": "A Fight With No Natural Endpoint"
+    },
+    {
+      "type": "paragraph",
+      "text": "What makes this cycle different from past redistricting fights is the sheer scale of coordination and retaliation between the two parties. John Bisognano, president of the National Democratic Redistricting Committee, described the country as still squarely in the middle of what he called a redistricting crisis, one where each new map drawn by one party tends to trigger a counter-move from the other rather than settling the underlying dispute. Representative Jared Huffman put it more bluntly, suggesting the partisans involved on both sides have effectively already signaled where this is all heading: toward a continuous, zero-sum competition to extract every possible partisan advantage from congressional maps, with little indication either party plans to stop drawing new lines once November's results are in."
+    }
+  ]
+},
+    {
+  "slug": "kennedy-center-artist-cancellations-continue-2026-trump-renaming",
+  "headline": "Artists Keep Walking Away From the Kennedy Center a Year Later",
+  "dek": "From Broadway's Hamilton to the San Francisco Ballet, a growing list of performers has pulled out since Trump's name was added, as the center preps for a 2026 closure.",
+  "authorSlug": "maria-santos",
+  "source": "NPR / Washington Post / Newsweek",
+  "publishedAt": "2026-03-01T14:00:00Z",
+  "updatedAt": "2026-08-20T10:00:00Z",
+  "heroImage": "/images/kennedy-center-artist-cancellations-continue-2026-trump-renaming.webp",
+  "heroCaption": "The Kennedy Center in Washington, DC, where President Trump's name was added to the building's facade in December 2025.",
+  "heroCredit": "Associated Press",
+  "tags": [
+    "Politics",
+    "US",
+    "Culture"
+  ],
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "More than a year after President Trump was named chairman of the Kennedy Center's board, the fallout is still playing out one canceled performance at a time. What began with a single high-profile withdrawal, the producers of the Broadway musical Hamilton pulling a planned 2026 engagement, has grown into a steady, rolling list of artists and companies backing out of Washington's premier performing arts venue, now widely referred to in coverage as the Trump Kennedy Center following the board's December 2025 renaming vote."
+    },
+    {
+      "type": "paragraph",
+      "text": "The list has kept growing well into 2026. Grammy-winning banjo player Béla Fleck withdrew from a National Symphony Orchestra performance in January, writing that the engagement had become charged and political and that he hoped to return once artists could simply gather to celebrate art again. Soprano Renée Fleming, composer Philip Glass, and the San Francisco Ballet have all since pulled out of scheduled performances as well, joining dance companies, jazz ensembles, and touring productions that came before them."
+    },
+    {
+      "type": "heading",
+      "text": "Why Artists Say They're Walking Away"
+    },
+    {
+      "type": "paragraph",
+      "text": "The performers' stated reasons cluster around a common theme: that the renaming, layered on top of earlier changes to the center's leadership and programming, has fundamentally altered what the institution represents to them. Country singer Kristy Lee, announcing her own cancellation, wrote that she couldn't stand on that stage and sleep right at night once American history started getting treated like something that could be renamed or rebranded for someone else's benefit, adding that losing her integrity would cost her more than any paycheck."
+    },
+    {
+      "type": "paragraph",
+      "text": "Choreographer Doug Varone, who pulled his company's April performances, described the renaming as having pushed him off a cliff, telling NPR that John F. Kennedy, for whom the center was originally established as a living memorial, believed in the arts as central to the nation's identity, and that the quality of the institution's programming had dropped noticeably since the leadership change. Varone's company later launched a fundraiser to help offset the financial hit of walking away from a paid engagement."
+    },
+    {
+      "type": "heading",
+      "text": "The Center's Leadership Pushes Back"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kennedy Center president Richard Grenell has firmly rejected the artists' framing throughout, accusing performers of surrendering to what he's called sad bullying tactics from political opponents seeking to intimidate artists into boycotting the venue. In one instance, Grenell threatened to pursue $1 million in damages against jazz musician Chuck Redd after Redd canceled a Christmas Eve concert, a legal threat that drew its own scrutiny from entertainment lawyers over whether standard performance contracts actually support that kind of claim."
+    },
+    {
+      "type": "paragraph",
+      "text": "Legal analysts examining the standoff have generally concluded that artists don't have an automatic contractual right to withdraw simply because a venue's name, branding, or political leadership changes, since force majeure clauses typically only excuse performance when something makes a show illegal, impossible, or genuinely impracticable, not merely unpalatable. That legal reality hasn't slowed the wave of cancellations, suggesting most performers involved have been willing to accept the financial and contractual risk as the cost of taking a public stand."
+    },
+    {
+      "type": "heading",
+      "text": "A Two-Year Closure Now Looms"
+    },
+    {
+      "type": "paragraph",
+      "text": "Amid the ongoing cancellations, Trump announced in early 2026 that the Kennedy Center would shut its doors entirely for two years starting July 4, 2026, for what he described on Truth Social as a complete rebuilding of the venue. He framed the closure as necessary to avoid the lower-quality work and slower timeline that would come from trying to renovate while continuing regular operations, and said the finished result would be the finest performing arts facility of its kind anywhere in the world."
+    },
+    {
+      "type": "paragraph",
+      "text": "Whether that closure ultimately settles the dispute or simply pauses it for two years remains an open question. Ticket sales and overall attendance had already softened noticeably in the months following the renaming, according to reporting on the center's operations, even as Grenell has maintained that an arts institution ultimately can't sustain itself while losing money, framing the broader leadership overhaul as a necessary financial correction rather than a political project."
+    }
+  ]
+}
   ],
   "sports": [
     {

@@ -124,7 +124,7 @@ export default function FinanceSection() {
   // Each article used exactly once across these three slices — no repeats.
   const mainArticle = sorted[0];
   const secondaryArticles = sorted.slice(1, 3); // 2 stories
-  const textArticles = sorted.slice(3, 6); // 3 stories
+  const textArticles = sorted.slice(3, 5); // 3 stories
 
   if (!mainArticle) {
     return null; // no finance articles yet — nothing to show

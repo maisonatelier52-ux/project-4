@@ -3,7 +3,7 @@ import Finance from "@/components/finance";
 import World from "@/components/world";
 import US from "@/components/us";
 import Sports from "@/components/sports";
-import Lifestyle from "@/components/lifestyle";
+import Politics from "@/components/politics";
 
 export default function HomePage() {
   return (
@@ -12,7 +12,7 @@ export default function HomePage() {
       <Finance />
       <World />
       <US />
-      <Lifestyle />
+      <Politics />
       <Sports />
     </main>
   );

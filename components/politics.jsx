@@ -1,16 +1,16 @@
 import articlesData from "../public/data/article.json";
 
 /**
- * LifestyleSection — "Lifestyle" homepage photo rail
+ * PoliticsSection — "Politics" homepage photo rail
  *
  * Same horizontal scroll-snap gallery pattern as the original PhotoSpotlight
- * concept, now wired to real lifestyle articles instead of placeholder
+ * concept, now wired to real politics articles instead of placeholder
  * captions.
  *
- * Data source: public/data/articles.json — reads only the "lifestyle"
+ * Data source: public/data/articles.json — reads only the "politics"
  * category, sorted by publishedAt (newest first). Unlike the grid-based
  * category sections, this is a horizontal scroll, so there's no fixed slot
- * count to worry about — every lifestyle article gets a card, each used
+ * count to worry about — every politics article gets a card, each used
  * exactly once (no repeats), in one pass over the sorted list.
  *
  * Palette:
@@ -20,9 +20,9 @@ import articlesData from "../public/data/article.json";
  *   ink-soft-light #B8B8B8 (caption text on dark bg)
  */
 
-const CATEGORY_SLUG = "lifestyle";
+const CATEGORY_SLUG = "politics";
 
-function getLifestyleArticles() {
+function getPoliticsArticles() {
   const posts = articlesData[CATEGORY_SLUG] || [];
   return [...posts].sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
 }
@@ -84,11 +84,11 @@ function PhotoCard({ article, index, total }) {
   );
 }
 
-export default function LifestyleSection() {
-  const articles = getLifestyleArticles();
+export default function PoliticsSection() {
+  const articles = getPoliticsArticles();
 
   if (articles.length === 0) {
-    return null; // no lifestyle articles yet — nothing to show
+    return null; // no politics articles yet — nothing to show
   }
 
   return (
@@ -97,7 +97,7 @@ export default function LifestyleSection() {
         <div className="flex items-center justify-between mb-6">
           <div className="flex items-center gap-2">
             <CameraIcon />
-            <h2 className="font-sans text-xl font-extrabold uppercase tracking-wide text-[#FAFAF7]">Lifestyle</h2>
+            <h2 className="font-sans text-xl font-extrabold uppercase tracking-wide text-[#FAFAF7]">Politics</h2>
           </div>
           <a href={`/${CATEGORY_SLUG}`} className="hidden sm:block font-sans text-sm text-[#B8B8B8] hover:text-white transition-colors">
             View all →
