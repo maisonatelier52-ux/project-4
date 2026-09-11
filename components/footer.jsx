@@ -16,7 +16,17 @@ import { useState } from "react";
  *   rule          #E5E5E5   (hairlines)
  */
 
-const SECTIONS = ["Business", "Politics", "Technology", "Health", "Lifestyle", "Sports"];
+const SECTIONS = ["Business", "Finance", "World", "U.S.", "Politics", "Sports"];
+
+// Converts a display label into a clean URL slug.
+// e.g. "U.S." -> "us", "Business" -> "business", "Top Stories" -> "top-stories"
+function slugify(label) {
+  return label
+    .toLowerCase()
+    .replace(/\./g, "")       // strip periods: "U.S." -> "us"
+    .trim()
+    .replace(/\s+/g, "-");    // spaces -> dashes for multi-word labels
+}
 
 const COMPANY_LINKS = ["About Us", "Careers", "Contact", "Advertise With Us", "Newsroom Ethics"];
 
@@ -105,7 +115,7 @@ export default function Footer() {
             <ul className="space-y-2.5 font-sans text-sm text-[#595959]">
               {SECTIONS.map((label) => (
                 <li key={label}>
-                  <a href={`/${label.toLowerCase()}`} className="hover:text-[#D01418] transition-colors">
+                  <a href={`/${slugify(label)}`} className="hover:text-[#D01418] transition-colors">
                     {label}
                   </a>
                 </li>
